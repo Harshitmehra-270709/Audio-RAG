@@ -1,0 +1,163 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "When I first heard the phrase machine learning, I thought of something like mysterious magic, a computer that just figures everything out for you. Fast forward a few years, I studied maths at Oxford, I'm now working as a Kwan developer and I realise the truth is a bit less magical. Machine learning is more like building a very peaky IKEA workroom. It only works if you put all of the pieces together correctly and you'll probably get lost in instructions along the way. But here's the thing, if you're serious about a career in quant finance, forecasting or AI, you do really need to learn it. The question is where do you even start? Today I will give you the roadmap, the foundations you absolutely cannot skip, the algorithms that actually matter, the practical skills that separate students from professionals and maybe most importantly what you",
+        "start": 0.0,
+        "end": 48.0,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 1,
+        "text": "should really pay attention to. And I'll share a bit of my own experience from wrestling with problem sheets at Oxford to applying ML in a real world setting. By the end you will hopefully not only know what to learn but also why those concepts matter and how they actually translate into the messy caffeinated world of real data. So let me start with quite an early Oxford memory. In my first year I thought I was pretty good at maths. Obviously studying maths at Oxford, gotta be good at maths. And then I met probability theory. Suddenly everything felt very slippery. Events, random variables, conditional probabilities. I remember spending an entire evening convincing myself that Bayes' theorem was lying to me. But those foundations are actually the most useful thing I've learned",
+        "start": 48.0,
+        "end": 96.16,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 2,
+        "text": "ever since. Back then it all felt very abstract, like solving puzzles that didn't really connect to reality. But once you start working with data you realise probability is not optional, is the grammar of uncertainty if I must say. Without it every model you build speaks quite gibberish. And the same goes for statistics. It's not just the average and the standard deviation. It's learning to trust data carefully. Hypothesis testing, sampling biases, confidence intervals, they all teach you when to believe a result and when your model is just being overconfident. Here's what I mean. Machine learning is not built on magic. It's built on four pillars, four main pillars I must say. So the first one is probability and statistics. This is the language of uncertainty without any doubt. Without it you cannot interpret a model's output or trust its",
+        "start": 96.16,
+        "end": 144.24,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 3,
+        "text": "predictions. When I started working in finance almost every model I looked at was some way of answering given this data what's the probability that x happens. And yes, Bayes' theorem came haunting back to me in the real world. Think of it this way. Every prediction is just an educated probability. Even when a model says buy or sell what it really means is I'm 60% sure that this will go up. If you don't understand how those numbers are derived you are kind of just gambling blindly. The second one is linear algebra. At Oxford I do remember spending weeks on eigenvalues and wondering if I will ever use them in real life. Fast forward, well, covariances, matrices, PCA and neural networks, they're all just linear algebra in disguise. If you understand something as simple as matrix multiplication you already understand how a neural net passes information",
+        "start": 144.24,
+        "end": 192.8,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 4,
+        "text": "through its layers. And honestly once it clicks it's very elegant. Every transformation your data goes through, scaling, projecting, compressing, it is just a matrix saying let me rotate your perspective. The magic of neural networks is literally just taking lots of those rotations and non-linearities together until it captures something meaningful. The third one is calculus and optimisation. This one really hit me hardest during my dissertation. I was basically using gradient descent without fully appreciating what it meant until I went back and realised that training a neural net is basically calculus plus trial and error. You need to know how gradients behave, what convexity means and why some problems are just impossible to solve perfectly. In practice I would say that this is where the maths becomes movement. The gradient is not just",
+        "start": 192.8,
+        "end": 240.88,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 5,
+        "text": "a derivative, it's the direction that your model learns to walk towards better predictions. And if your lost landscape is full of cliffs, of plateaus and false valleys, well welcome to the chaotic fun of optimisation. And the last one is programming. So at Oxford I had to transition from pen and paper maths to actual code. And that was quite humbling at the start. Suddenly it wasn't enough to understand the theorem, I had to actually implement it. Python is obviously the go-to, but if you're aiming at high frequency quant finance you'll eventually run into C++ as well. Debugging a model at something like 11pm in my first year as a quant dev does teach you that knowing how to code efficiently matters as much as knowing the maths. Because obviously real world machine learning is not just about solving a clean equation, it's about making that equation run on a server without",
+        "start": 240.88,
+        "end": 290.64,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 6,
+        "text": "crashing your whole company's systems. Learning to translate theory into efficient, scalable and readable code is what separates someone who knows ML from someone who can ship ML. And in terms of resources that I would recommend, well, Introduction to Probability by Blitzstein and Kuang, Gilbert Strong's Trinital Algebra lectures on YouTube, and honestly, Kaggle datasets for practice, they're really good, because theory without coding feels abstract, and coding without theory makes you just a copy-paste and not really a problem solver. And speaking of actually understanding the foundations, let me also recommend to you Brilliant, who are very very kindly sponsoring today's video. Brilliant is genuinely one of the best ways that I have found to learn the maths and logic that power machine learning. Not by memorizing formulas, not at all, but by doing. The courses make you",
+        "start": 290.64,
+        "end": 338.4,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 7,
+        "text": "think interactively, you drag sliders, you test ideas and you build intuition for concepts like gradient descent or basis theorem, the kind of intuition that textbooks often skip. When I first started using Brilliant, I remember trying their Probability and Linear Algebra courses, and it instantly felt more hands-on, like actually seeing the gears turning behind the equations that I have been using for years. They also offer dedicated courses and paths to build your understanding of simple to very advanced ML, like Probability in Data, Clustering in Classification, or Intro to Neural Networks, which are amazing building blocks for your ML knowledge and give you quite a head start into understanding the intuition behind the models. So if you're looking for a career in Quant Finance, in Forecasting, or in AI, and you want to build that mathematical intuition that all",
+        "start": 338.4,
+        "end": 384.88,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 8,
+        "text": "employers are looking for these days, go check out brilliant.org slash Ioana Roman to start learning for free and also get a 20% off an annual premium subscription. Alright, thank you so so much for Brilliant for sponsoring this video, and back to machine learning. Now that you've got the foundation down, let's talk about the algorithms that actually make it work. When I first dipped into machine learning, I thought I needed to start with neural networks, because they were all the hype, you know, they sounded cooler, but actually the simplest model taught me the most. I guess you can think of it in terms of learning how to drive, you just don't start directly in a Formula One car, you start in a parking lot with a basic hatchback, linear regression. Because until you know how the fundamentals behave, you won't survive the",
+        "start": 384.88,
+        "end": 433.52,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 9,
+        "text": "curves later. Take linear regression, this is just the hello world of ML, you draw a line through some data points and minimise the squared errors. At university it felt almost too easy, until you realise how the fancy models people build these days in finance are just non-linear extensions of linear regression. And if you don't understand some of the assumptions like independence or constant variance, you'll make the same mistakes just over and over again. And that's the irony, everyone wants to skip it, but linear regression quietly runs the world. Pricing models, risk forecasts, even the first layer of neural networks are basically multiple regressions with some fancy hats. Then there's logistic regression. This one is pretty much everywhere in finance. Credit scoring, fraud detection, all of this is regression at heart. I remember my first internship project",
+        "start": 433.52,
+        "end": 482.08,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 10,
+        "text": "being way less glamorous than I thought. I was just tuning up logistic regression with better features. But logistic regression, I want to say, does teach you somewhat of a deeper lesson. It's not just about fancy models, it's about the features that you feed them. You cannot smart deep nets with simple logistic models if your data captures the right structure. And next we've got decision trees. This model feels like flowcharts. Is this feature bigger than 5? Go left, otherwise go right. They're intuitive and they do show you how algorithms split data to find structure. The problem is that they overfit very easily, and quite badly. My first finance backtest with the decision tree gave results that looked absolutely incredible, and spoiler, it was complete nonsense. If I may, I would say that trees are like enthusiastic overachievers, basically just",
+        "start": 482.08,
+        "end": 528.88,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 11,
+        "text": "memorize the textbook instead of learning the subject. That's where ensembles come in to save us. Random forest and gradient boosting. These were the first models that I saw consistently outperforming others in real world competitions and in projects. So if you learn just one algorithm beyond linear regression, I would say just make it XGBoost. In many cases, it still beats deep learning on structured data. Ensembles basically work by crowdsourcing intelligence. One weak tree is unreliable, but a hundred weak trees voting together, surprisingly strong. That's the same logic that's behind investment diversification actually. Low individual accuracy, but high collective power. And of course, let's not ignore unsupervised learning. Clustering algorithms like k-means helped me the first time that I ever looked at market regimes. You don't always know",
+        "start": 528.88,
+        "end": 577.84,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 12,
+        "text": "what you're looking for, but the data will show you groups, which is always really helpful. It's like detective work with no witness statement. You let the data tell you where the patterns lie in. Unsupervised learning is underappreciated in my opinion, and it's how you discover structure before you can even start predicting, which is quite unvaluable. And in terms of resources, I would say that Andrew NG's machine learning course on Coursera is still quite a classic. And for something more hands-on, I would say that Geron's hands-on machine learning with scikit-learn, Keras and TensorFlow will always be my go-to. There are some experiences in life that you never forget. I don't think I will ever forget the first time I tried training a neural network. Well, I just followed the tutorial, I hit run and watched",
+        "start": 577.84,
+        "end": 623.52,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 13,
+        "text": "as the accuracy just went up like magic. Then I tried it on one of my own datasets and it completely collapsed. That was my first lesson, the hard way. Neural networks are powerful, but they're also quite the divas. They will perform absolutely brilliantly on demo data and then throw a complete tantrum the moment you feed them something that's imperfect. It's like owning a sports car that only runs on one specific brand of fuel at 23 degrees Celsius and only on Thursdays. Here's the structure that you need to know. Feed-forward networks. These are MLPs. These are just layers of linear algebra plus non-linear activation functions. They're pretty much the base case. Think of them as stacks of regressions. Each layer refines the last, nudging your predictions",
+        "start": 623.52,
+        "end": 671.12,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 14,
+        "text": "slightly closer to reality. Then we've got CNNs. These are the convolutional neural networks. At Oxford we mainly use them for image recognition tasks, but they're also sneaking into finance because convolutions are just a clever way to find local patterns, really. Something a lot of other datasets have too and everyone's trying to explore them these days. Convolutions slide tiny filters over data, so it's a bit like a detective just scanning for repeating clues. Then we've got RNNs and LSTMs. These are designed for sequences, whether that's language, stock prices, weather. I remember trying to use an LSTM to predict financial time series during one of my summer projects. It looked beautiful in sample, but out of sample, you know, felt miserably. That was one of my very, very painful introductions to overfitting. Basically RNNs just remember a bit",
+        "start": 671.12,
+        "end": 720.56,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 15,
+        "text": "too much. They're like that one friend who recalls every single detail, every single irrelevant detail from just three years ago. And the one everyone's heard of, transformers. These are pretty much the giants of modern AI. The attention mechanism, which basically lets a model weight what parts of the input matter the most, is what made large language models like CGPT possible. But they're also being adapted to forecasting, finance, and even biology. In essence, attention is selective memory, teaching models to focus on what's relevant and to ignore noise, which frankly would make a really, really good skill for humans to have as well. Okay, but here is the reality check. Deep learning is very compute hungry and data hungry. In finance especially, where data is quite limited and it's quite noisy, simpler models often outperform. So yes,",
+        "start": 720.56,
+        "end": 771.2,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 16,
+        "text": "learn neural nets, but don't assume they will solve everything for you. Or in other words, do not bring a sledgehammer where a screwdriver will do. Deep learning is spectacular, but it's not always practical. In terms of resources, dive into deep learning, a free book online with code, and the deeplearning.ai specialization by N. Rangy again, both help me understand not just how to code a model, but why it sometimes fails. All right, so this section is where university doesn't prepare you enough, and real life hits you real hard. The unglamorous but vital skills that actually make ML work. I would say that this is the part that nobody puts fancy posts about on LinkedIn. Hours of debugging pipelines, hunting",
+        "start": 771.2,
+        "end": 817.2,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 17,
+        "text": "missing values, and wondering why your code runs locally but not on the bigger server. Well, let's start with data preprocessing. So most of machine learning is cleaning your data set. In my first job, I realized that 80% of my time was just dealing with, you know, missing values, correcting timestamps, or figuring out why some trades had negative quantities. And that's not really a fancy neural net problem, it's just cleaning. But this is where you'll quietly gain a lot of power. The cleaner your data, the less you rely on luck, and the less your model will fit on noise. Models, I would say, are only as smart as the mess that you feed them. Then we've got model validation. Well, at uni, we learned about training versus stats sets in theory. But in practice, you also need to think about backtesting properly. If you leak future information into your model, it will look",
+        "start": 817.2,
+        "end": 864.4,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 18,
+        "text": "genius until it goes live and collapses. It's called data leakage, and it's every quant's biggest nightmare. If your model knows tomorrow's price by accident, yes, you will look like a genius, but only for five minutes. And then we've got deployment. Here's something nobody tells you at university, it's not enough to build a model in a Jupyter notebook. In my quant role, models need to run in production, obviously, fast, stable, and explainable. This means everything from APIs, Docker, and sometimes, like I've mentioned, C++ for speed. This is the engineering side of machine learning. So deployment is where maths meets something like DevOps, and that's where you learn that your elegant algorithm needs error logs, version controlling, and monitoring. It's pretty much equal parts arts and infrastructure. And lastly, interpretability.",
+        "start": 864.4,
+        "end": 913.44,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 19,
+        "text": "In finance especially, regulators don't like black boxes. You need to explain why your model predicted what it did. Tools like shop values or feature importance are absolutely crucial here. Interpretability isn't just compliance, it is communication. If you can't explain your model to your team, to your manager, and the regulator, you don't really understand it yourself, let's be honest. And in terms of resources, I would say that designing machine learning systems by Chip Huyen explains how to bridge the gap between a notebook and a real world system really, really well. So how do you put all of this together? Well, in quant finance, I would say that the job isn't about building the flashiest neural net. It's finding reliable signals, building robust forecasts,",
+        "start": 913.44,
+        "end": 961.36,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 20,
+        "text": "and making sure that models don't blow up in production. Reinforcement learning is used in execution, but feature engineering is often where the real value lies in. You spend more time understanding data structure than chasing hype. The best quants that I've ever met are not obsessed at all with the newest architecture, they are obsessed with stability. In forecasting and in business, you'll often work with smaller data sets, so boosting methods like XGBoost are absolute gold, I would say. Sometimes the most sophisticated thing you'll do is just cross-validate properly and convince the business team that your very, very simple model actually works. It's less about being flashy and more about being reliable. Executives do love confidence intervals that they can actually trust. And in AI research, of course, you'll dive very, very deep into transformers, into generative models, reinforcement learning. The path requires",
+        "start": 961.36,
+        "end": 1011.76,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 21,
+        "text": "stronger maths, more compute, and honestly, a love for reading research papers quite late into the night. It's also where you do chase the frontier, building tools that others will use years and years from now. It is hard, but it's incredibly rewarding if you enjoy the theory. So what do you need to learn in machine learning? Well, the maths, the algorithms, the deep learning models, the practical skills, and the applications. But here's my personal advice. Do not rush. When I was at uni, I felt like I was behind because I wasn't training neural nets in my second year. But once you understand the core ideas properly, you can learn pretty much any models in just a matter of days. The goal is definitely not to learn everything and to be a master in literally everything. It is to understand the fundamentals so deeply that you",
+        "start": 1011.76,
+        "end": 1060.72,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    },
+    {
+        "chunk_id": 22,
+        "text": "can adapt to pretty much anything. And if you do that, you will stop feeling like you're chasing technology and that you start shaping it. If you found this video helpful, please drop a like, subscribe to my channel for more content like this, and maybe share it with that one friend who keeps saying that they're going to learn ML this summer. For real, hope you have found this useful and that it has brought some value into your ML journey. Also, if you want to join a community of like-minded people that share ideas, talk about maths, quant finance, and coding, and help each other out, then do not hesitate to join my Discord server. You have the link down in the description below. And if you want to see more of me, you have my Instagram down in the description below as well, because I'm a lot more active on there. And yeah, with that, I hope to see you in the next one.",
+        "start": 1060.72,
+        "end": 1104.4,
+        "source": "2. Everything You Need to Learn in Machine Learning for Your Career (Quant Finance, AI etc.) \ud83d\udcda\ud83e\udd16\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb.json"
+    }
+]

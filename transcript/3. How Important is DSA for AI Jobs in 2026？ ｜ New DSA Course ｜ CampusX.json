@@ -1,0 +1,1942 @@
+[
+    {
+        "text": "Hi guys, my name is Nitesh and you are welcome to my YouTube channel.",
+        "start": 0.0,
+        "end": 3.68
+    },
+    {
+        "text": "So I am super happy to announce that we have launched a new course on our website",
+        "start": 3.68,
+        "end": 7.84
+    },
+    {
+        "text": "and the name of the course is Data Structures and Algorithms for AI.",
+        "start": 7.84,
+        "end": 12.0
+    },
+    {
+        "text": "And trust me this was one of the most demanded course from your side",
+        "start": 12.0,
+        "end": 16.4
+    },
+    {
+        "text": "and in this video I want to tell you everything about this course",
+        "start": 16.4,
+        "end": 20.72
+    },
+    {
+        "text": "because I really want that whoever wants to purchase this course",
+        "start": 20.72,
+        "end": 24.08
+    },
+    {
+        "text": "they should not have any confusion or doubt in their mind.",
+        "start": 24.08,
+        "end": 26.88
+    },
+    {
+        "text": "So let's start the video.",
+        "start": 26.88,
+        "end": 28.88
+    },
+    {
+        "text": "First of all, let's talk about why we made this course.",
+        "start": 29.28,
+        "end": 33.6
+    },
+    {
+        "text": "I will explain to you logically point by point",
+        "start": 33.6,
+        "end": 37.2
+    },
+    {
+        "text": "that how did we reach this decision that which course is needed.",
+        "start": 37.2,
+        "end": 41.04
+    },
+    {
+        "text": "Honestly, if I tell you then this course was very low in my priority list",
+        "start": 41.04,
+        "end": 48.0
+    },
+    {
+        "text": "and there is a very simple reason for that.",
+        "start": 48.0,
+        "end": 50.0
+    },
+    {
+        "text": "The reason is that I think in my experience",
+        "start": 50.0,
+        "end": 53.36
+    },
+    {
+        "text": "that DSA is not a core requirement for AI based job roles.",
+        "start": 53.36,
+        "end": 58.8
+    },
+    {
+        "text": "If you want to become a data scientist or machine learning engineer",
+        "start": 58.96,
+        "end": 62.32
+    },
+    {
+        "text": "or related job roles, DSA is not a direct core requirement.",
+        "start": 62.32,
+        "end": 67.76
+    },
+    {
+        "text": "What I mean to say is that if you go and ask 10 data scientists",
+        "start": 67.76,
+        "end": 72.64
+    },
+    {
+        "text": "that on a day to day basis how much DSA do you implement in your work",
+        "start": 72.64,
+        "end": 78.16
+    },
+    {
+        "text": "then most of them would say that we don't use DSA directly",
+        "start": 78.16,
+        "end": 82.4
+    },
+    {
+        "text": "as much as we use Python, statistics, machine learning, deep learning.",
+        "start": 82.4,
+        "end": 86.16
+    },
+    {
+        "text": "It is not that DSA is not important at all.",
+        "start": 86.88,
+        "end": 89.92
+    },
+    {
+        "text": "Those who know DSA, I am pretty sure in many situations",
+        "start": 89.92,
+        "end": 93.92
+    },
+    {
+        "text": "DSA would have helped them a lot.",
+        "start": 93.92,
+        "end": 95.92
+    },
+    {
+        "text": "I can tell you a few situations that I have also faced.",
+        "start": 95.92,
+        "end": 98.32
+    },
+    {
+        "text": "Let's say you started working on a big data set",
+        "start": 98.32,
+        "end": 103.6
+    },
+    {
+        "text": "where every operation is computationally very costly.",
+        "start": 103.6,
+        "end": 107.28
+    },
+    {
+        "text": "So a person who has knowledge of DSA",
+        "start": 107.28,
+        "end": 110.24
+    },
+    {
+        "text": "will be able to handle that data set in a better way in my opinion.",
+        "start": 110.24,
+        "end": 113.84
+    },
+    {
+        "text": "Another scenario is that you have completed a code",
+        "start": 114.0,
+        "end": 118.0
+    },
+    {
+        "text": "and your code is working properly.",
+        "start": 118.0,
+        "end": 120.0
+    },
+    {
+        "text": "Now you want to write an optimized version of the code.",
+        "start": 120.0,
+        "end": 123.04
+    },
+    {
+        "text": "So here also the understanding of DSA will definitely help you.",
+        "start": 123.04,
+        "end": 126.64
+    },
+    {
+        "text": "One more example could be that you have reached a senior role in your company",
+        "start": 126.64,
+        "end": 130.64
+    },
+    {
+        "text": "and your company has told you that",
+        "start": 130.64,
+        "end": 132.64
+    },
+    {
+        "text": "they don't want to use the libraries available in the market",
+        "start": 132.64,
+        "end": 135.84
+    },
+    {
+        "text": "because of privacy reasons.",
+        "start": 135.84,
+        "end": 137.2
+    },
+    {
+        "text": "So here you have been given the task",
+        "start": 137.2,
+        "end": 139.2
+    },
+    {
+        "text": "to build a machine learning library from scratch for your company.",
+        "start": 139.2,
+        "end": 142.64
+    },
+    {
+        "text": "So in such situations, the knowledge of DSA definitely helps you.",
+        "start": 142.64,
+        "end": 147.04
+    },
+    {
+        "text": "But I would still say",
+        "start": 147.04,
+        "end": 149.04
+    },
+    {
+        "text": "that this is not a direct core requirement like Python, Statistics, Machine Learning, Deep Learning.",
+        "start": 149.04,
+        "end": 154.8
+    },
+    {
+        "text": "That is why in my priority list, this course was never very high.",
+        "start": 154.8,
+        "end": 159.28
+    },
+    {
+        "text": "But over the years, I noticed and observed that",
+        "start": 159.28,
+        "end": 163.44
+    },
+    {
+        "text": "the people who got a job",
+        "start": 163.44,
+        "end": 165.44
+    },
+    {
+        "text": "when they reached out to me and told me that they got a job",
+        "start": 165.44,
+        "end": 169.12
+    },
+    {
+        "text": "and I asked them how was their interview",
+        "start": 169.12,
+        "end": 172.08
+    },
+    {
+        "text": "so most of them said that during their earlier rounds",
+        "start": 172.32,
+        "end": 175.76
+    },
+    {
+        "text": "in the first 2-3 rounds, they were asked questions about DSA.",
+        "start": 175.76,
+        "end": 178.88
+    },
+    {
+        "text": "And this is a very common pattern.",
+        "start": 178.88,
+        "end": 180.88
+    },
+    {
+        "text": "All the students I have talked to who have cracked jobs",
+        "start": 180.88,
+        "end": 184.24
+    },
+    {
+        "text": "especially those who cracked jobs for junior roles",
+        "start": 184.24,
+        "end": 187.12
+    },
+    {
+        "text": "let's say 1-3 years or even those who cracked jobs for 5 years",
+        "start": 187.12,
+        "end": 192.88
+    },
+    {
+        "text": "they told me that during the early stages of the interview",
+        "start": 192.88,
+        "end": 197.12
+    },
+    {
+        "text": "they were asked questions about DSA.",
+        "start": 197.12,
+        "end": 199.12
+    },
+    {
+        "text": "Now this thing aroused some curiosity in my mind",
+        "start": 199.52,
+        "end": 202.48
+    },
+    {
+        "text": "that on one hand, DSA is not a core requirement",
+        "start": 202.48,
+        "end": 206.64
+    },
+    {
+        "text": "then how is it becoming important in the stages of the interview?",
+        "start": 206.64,
+        "end": 210.8
+    },
+    {
+        "text": "So to answer this question, I tried to do some research",
+        "start": 210.8,
+        "end": 216.32
+    },
+    {
+        "text": "and I truly got the answer to this question",
+        "start": 216.32,
+        "end": 220.08
+    },
+    {
+        "text": "when I started hiring for my company last year.",
+        "start": 220.08,
+        "end": 223.76
+    },
+    {
+        "text": "While hiring for my company, I understood that",
+        "start": 223.76,
+        "end": 227.28
+    },
+    {
+        "text": "for any business, hiring is a huge problem in India.",
+        "start": 227.36,
+        "end": 231.36
+    },
+    {
+        "text": "Mostly companies focus on their products and services.",
+        "start": 231.36,
+        "end": 236.72
+    },
+    {
+        "text": "But if you go to any startup founder or company owner",
+        "start": 236.72,
+        "end": 240.56
+    },
+    {
+        "text": "and ask them what is the biggest problem they face",
+        "start": 240.56,
+        "end": 243.6
+    },
+    {
+        "text": "while running a day-to-day business",
+        "start": 243.6,
+        "end": 245.6
+    },
+    {
+        "text": "then most of the founders will tell you that hiring is a big pain point.",
+        "start": 245.6,
+        "end": 249.68
+    },
+    {
+        "text": "The reason for that is that there is a huge population in India.",
+        "start": 249.68,
+        "end": 253.36
+    },
+    {
+        "text": "If you as a company founder or HR post a job role on a platform like Naukri",
+        "start": 253.68,
+        "end": 259.84
+    },
+    {
+        "text": "then within an hour, you will notice that thousands of people have applied for your job.",
+        "start": 259.84,
+        "end": 266.0
+    },
+    {
+        "text": "Now the interesting thing is that 90% people are not eligible for that job.",
+        "start": 266.0,
+        "end": 273.04
+    },
+    {
+        "text": "Eligible in the sense that they are not completely suitable for the job",
+        "start": 273.04,
+        "end": 276.64
+    },
+    {
+        "text": "but they apply out of optimism.",
+        "start": 276.64,
+        "end": 279.12
+    },
+    {
+        "text": "Now they have applied and they have to click a button",
+        "start": 279.12,
+        "end": 282.16
+    },
+    {
+        "text": "but the HR who has to perform the filtering",
+        "start": 282.16,
+        "end": 286.0
+    },
+    {
+        "text": "who has to select 10 out of 1000 people who are truly eligible",
+        "start": 286.0,
+        "end": 289.6
+    },
+    {
+        "text": "who should be interviewed",
+        "start": 289.6,
+        "end": 291.6
+    },
+    {
+        "text": "that filtration process becomes very difficult.",
+        "start": 291.6,
+        "end": 295.76
+    },
+    {
+        "text": "And if you talk about data science and AI",
+        "start": 295.76,
+        "end": 299.12
+    },
+    {
+        "text": "then it is even more difficult because",
+        "start": 299.12,
+        "end": 302.32
+    },
+    {
+        "text": "there are a lot of grey areas in data science and AI.",
+        "start": 302.32,
+        "end": 305.84
+    },
+    {
+        "text": "Now think about it, how will you hire a data scientist?",
+        "start": 305.84,
+        "end": 308.72
+    },
+    {
+        "text": "What exam will you take for that?",
+        "start": 308.72,
+        "end": 310.32
+    },
+    {
+        "text": "Data scientist performs modelling on a day to day basis.",
+        "start": 310.32,
+        "end": 313.04
+    },
+    {
+        "text": "Builds models on a data set.",
+        "start": 313.04,
+        "end": 315.04
+    },
+    {
+        "text": "Now think about it, how difficult is this task?",
+        "start": 315.04,
+        "end": 319.28
+    },
+    {
+        "text": "Data sets can vary.",
+        "start": 319.28,
+        "end": 321.28
+    },
+    {
+        "text": "The preprocessing and feature engineering on them can vary.",
+        "start": 321.28,
+        "end": 325.12
+    },
+    {
+        "text": "Different algorithms can be applied.",
+        "start": 325.12,
+        "end": 327.12
+    },
+    {
+        "text": "The metric that you are using can also be different.",
+        "start": 327.12,
+        "end": 330.0
+    },
+    {
+        "text": "So basically nothing is standardized in this whole process.",
+        "start": 330.0,
+        "end": 333.76
+    },
+    {
+        "text": "If 1000 people have applied for your job profile",
+        "start": 333.76,
+        "end": 337.2
+    },
+    {
+        "text": "then can you call 1000 people to the office and conduct their test?",
+        "start": 337.28,
+        "end": 340.72
+    },
+    {
+        "text": "That this is a 2 hour test, we are giving you this data set.",
+        "start": 340.72,
+        "end": 343.2
+    },
+    {
+        "text": "We will evaluate every step of yours.",
+        "start": 343.2,
+        "end": 346.48
+    },
+    {
+        "text": "And we will conduct the interview of the best 10 people.",
+        "start": 346.48,
+        "end": 350.16
+    },
+    {
+        "text": "You would automatically sense that there is a big problem.",
+        "start": 350.16,
+        "end": 352.88
+    },
+    {
+        "text": "This is not a scalable solution.",
+        "start": 352.88,
+        "end": 354.88
+    },
+    {
+        "text": "You may also hire 1000 people.",
+        "start": 354.88,
+        "end": 357.2
+    },
+    {
+        "text": "But what if 5000 people have applied?",
+        "start": 357.2,
+        "end": 359.76
+    },
+    {
+        "text": "So this is the main problem",
+        "start": 359.76,
+        "end": 361.76
+    },
+    {
+        "text": "that people face in data science and AI job roles.",
+        "start": 361.76,
+        "end": 365.6
+    },
+    {
+        "text": "HRs and all.",
+        "start": 365.6,
+        "end": 367.12
+    },
+    {
+        "text": "So here, DSA provides a scalable solution.",
+        "start": 367.12,
+        "end": 371.52
+    },
+    {
+        "text": "What is DSA?",
+        "start": 371.52,
+        "end": 373.52
+    },
+    {
+        "text": "For the last 20 years, in the software job roles that are being hired,",
+        "start": 373.52,
+        "end": 376.72
+    },
+    {
+        "text": "DSA is being used.",
+        "start": 376.72,
+        "end": 378.72
+    },
+    {
+        "text": "Already many question banks have been created.",
+        "start": 378.72,
+        "end": 381.28
+    },
+    {
+        "text": "They have been segregated very well.",
+        "start": 381.28,
+        "end": 383.28
+    },
+    {
+        "text": "Easy questions are different, medium questions are different, hard questions are different.",
+        "start": 383.28,
+        "end": 386.8
+    },
+    {
+        "text": "The solution is quantifiable.",
+        "start": 386.8,
+        "end": 388.8
+    },
+    {
+        "text": "Many platforms have been created.",
+        "start": 388.8,
+        "end": 390.8
+    },
+    {
+        "text": "Like LeetCode, Metal.",
+        "start": 390.8,
+        "end": 392.8
+    },
+    {
+        "text": "Which you can use very easily for hiring.",
+        "start": 392.8,
+        "end": 395.52
+    },
+    {
+        "text": "So because of all these reasons,",
+        "start": 395.6,
+        "end": 397.6
+    },
+    {
+        "text": "you can use DSA in a very scalable way",
+        "start": 397.6,
+        "end": 401.6
+    },
+    {
+        "text": "to filter out candidates.",
+        "start": 401.6,
+        "end": 403.6
+    },
+    {
+        "text": "You should always remember that in India,",
+        "start": 403.6,
+        "end": 405.6
+    },
+    {
+        "text": "there is no selection, there is rejection.",
+        "start": 405.6,
+        "end": 407.6
+    },
+    {
+        "text": "While rejecting,",
+        "start": 407.6,
+        "end": 409.6
+    },
+    {
+        "text": "you select what is left in the end.",
+        "start": 409.6,
+        "end": 411.6
+    },
+    {
+        "text": "So in this whole thing,",
+        "start": 411.6,
+        "end": 413.6
+    },
+    {
+        "text": "DSA acts as a proxy.",
+        "start": 413.6,
+        "end": 416.48
+    },
+    {
+        "text": "We have started using DSA",
+        "start": 416.48,
+        "end": 418.48
+    },
+    {
+        "text": "as a filtering system in the industry.",
+        "start": 418.48,
+        "end": 420.48
+    },
+    {
+        "text": "Because data science and AI",
+        "start": 420.48,
+        "end": 422.48
+    },
+    {
+        "text": "have not been able to find",
+        "start": 422.48,
+        "end": 424.48
+    },
+    {
+        "text": "a scalable solution for hiring.",
+        "start": 424.48,
+        "end": 426.48
+    },
+    {
+        "text": "And the interesting thing is that",
+        "start": 426.48,
+        "end": 428.48
+    },
+    {
+        "text": "if someone is cracking an exam in DSA,",
+        "start": 428.48,
+        "end": 430.48
+    },
+    {
+        "text": "he is already telling",
+        "start": 430.48,
+        "end": 432.48
+    },
+    {
+        "text": "good things about the candidate.",
+        "start": 432.48,
+        "end": 434.48
+    },
+    {
+        "text": "If someone knows DSA well,",
+        "start": 434.48,
+        "end": 436.48
+    },
+    {
+        "text": "it already tells you that",
+        "start": 436.48,
+        "end": 438.48
+    },
+    {
+        "text": "that person has good problem-solving capability,",
+        "start": 438.48,
+        "end": 440.48
+    },
+    {
+        "text": "good structured thinking,",
+        "start": 440.48,
+        "end": 442.48
+    },
+    {
+        "text": "he knows coding.",
+        "start": 442.48,
+        "end": 444.48
+    },
+    {
+        "text": "And all these things are required in data science.",
+        "start": 444.48,
+        "end": 446.48
+    },
+    {
+        "text": "So you just understand that",
+        "start": 446.48,
+        "end": 448.48
+    },
+    {
+        "text": "to solve your problem,",
+        "start": 448.48,
+        "end": 450.48
+    },
+    {
+        "text": "you are using an adjacent solution.",
+        "start": 450.48,
+        "end": 452.48
+    },
+    {
+        "text": "So in the end,",
+        "start": 452.48,
+        "end": 454.48
+    },
+    {
+        "text": "I understood that",
+        "start": 454.48,
+        "end": 456.48
+    },
+    {
+        "text": "in today's date, companies don't have",
+        "start": 456.48,
+        "end": 458.48
+    },
+    {
+        "text": "a direct way to perform hiring",
+        "start": 458.48,
+        "end": 460.48
+    },
+    {
+        "text": "for data science and AI job roles.",
+        "start": 460.48,
+        "end": 462.48
+    },
+    {
+        "text": "So what they did,",
+        "start": 462.48,
+        "end": 464.48
+    },
+    {
+        "text": "they took an adjacent job role",
+        "start": 464.48,
+        "end": 466.48
+    },
+    {
+        "text": "which is software development",
+        "start": 466.48,
+        "end": 468.48
+    },
+    {
+        "text": "and put their hiring method as it is.",
+        "start": 468.48,
+        "end": 470.48
+    },
+    {
+        "text": "And the interesting thing is that",
+        "start": 470.48,
+        "end": 472.48
+    },
+    {
+        "text": "they already had all these solutions.",
+        "start": 472.48,
+        "end": 474.48
+    },
+    {
+        "text": "Because in the past, they had hired for software.",
+        "start": 474.48,
+        "end": 476.48
+    },
+    {
+        "text": "So it became very easy.",
+        "start": 476.48,
+        "end": 478.48
+    },
+    {
+        "text": "And that is why it has become a common pattern",
+        "start": 478.48,
+        "end": 480.48
+    },
+    {
+        "text": "that when you have a lot of people,",
+        "start": 480.48,
+        "end": 482.48
+    },
+    {
+        "text": "especially for junior job roles,",
+        "start": 482.48,
+        "end": 484.48
+    },
+    {
+        "text": "for fresher job roles,",
+        "start": 484.48,
+        "end": 486.48
+    },
+    {
+        "text": "then DSA is used there.",
+        "start": 486.48,
+        "end": 488.48
+    },
+    {
+        "text": "So filter out candidate.",
+        "start": 488.48,
+        "end": 490.48
+    },
+    {
+        "text": "So now the situation is that",
+        "start": 490.48,
+        "end": 492.48
+    },
+    {
+        "text": "you have to become a data scientist,",
+        "start": 492.48,
+        "end": 494.48
+    },
+    {
+        "text": "you have to get into machine learning,",
+        "start": 494.48,
+        "end": 496.48
+    },
+    {
+        "text": "but you have to study DSA for it",
+        "start": 496.48,
+        "end": 498.48
+    },
+    {
+        "text": "because the company",
+        "start": 498.48,
+        "end": 500.48
+    },
+    {
+        "text": "performs your hiring on the basis of DSA.",
+        "start": 500.48,
+        "end": 502.48
+    },
+    {
+        "text": "And now almost everyone",
+        "start": 502.48,
+        "end": 504.48
+    },
+    {
+        "text": "has understood this.",
+        "start": 504.48,
+        "end": 506.48
+    },
+    {
+        "text": "All the students, all the candidates",
+        "start": 506.48,
+        "end": 508.48
+    },
+    {
+        "text": "learn DSA in today's date.",
+        "start": 508.48,
+        "end": 510.48
+    },
+    {
+        "text": "Even if they are angry",
+        "start": 510.48,
+        "end": 512.48
+    },
+    {
+        "text": "and frustrated that",
+        "start": 512.48,
+        "end": 514.48
+    },
+    {
+        "text": "I already have to learn so much",
+        "start": 514.48,
+        "end": 516.48
+    },
+    {
+        "text": "in AI, I also have to learn DSA on it.",
+        "start": 516.48,
+        "end": 518.48
+    },
+    {
+        "text": "But this is the reality of today.",
+        "start": 518.48,
+        "end": 520.48
+    },
+    {
+        "text": "You have to learn DSA",
+        "start": 520.48,
+        "end": 522.48
+    },
+    {
+        "text": "if you want to crack",
+        "start": 522.48,
+        "end": 524.48
+    },
+    {
+        "text": "entry-level data science jobs.",
+        "start": 524.48,
+        "end": 526.48
+    },
+    {
+        "text": "Now here comes another big problem",
+        "start": 526.48,
+        "end": 528.48
+    },
+    {
+        "text": "that whatever resources",
+        "start": 528.48,
+        "end": 530.48
+    },
+    {
+        "text": "are available online, whatever courses",
+        "start": 530.48,
+        "end": 532.48
+    },
+    {
+        "text": "are available online around DSA,",
+        "start": 532.48,
+        "end": 534.48
+    },
+    {
+        "text": "those courses are made",
+        "start": 534.48,
+        "end": 536.48
+    },
+    {
+        "text": "from the point of view of software development.",
+        "start": 536.48,
+        "end": 538.48
+    },
+    {
+        "text": "Which means that you will get",
+        "start": 538.48,
+        "end": 540.48
+    },
+    {
+        "text": "a lot of content in it which",
+        "start": 540.48,
+        "end": 542.48
+    },
+    {
+        "text": "targets software job roles.",
+        "start": 542.48,
+        "end": 544.48
+    },
+    {
+        "text": "But as a data science aspirant,",
+        "start": 544.48,
+        "end": 546.48
+    },
+    {
+        "text": "you don't need to know",
+        "start": 546.48,
+        "end": 548.48
+    },
+    {
+        "text": "everything.",
+        "start": 548.48,
+        "end": 550.48
+    },
+    {
+        "text": "And what happens is that",
+        "start": 550.48,
+        "end": 552.48
+    },
+    {
+        "text": "students for those job roles,",
+        "start": 552.48,
+        "end": 554.48
+    },
+    {
+        "text": "as in data science job roles,",
+        "start": 554.48,
+        "end": 556.48
+    },
+    {
+        "text": "enroll in software development",
+        "start": 556.48,
+        "end": 558.48
+    },
+    {
+        "text": "DSA courses and",
+        "start": 558.48,
+        "end": 560.48
+    },
+    {
+        "text": "get scared of seeing a very big syllabus.",
+        "start": 560.48,
+        "end": 562.48
+    },
+    {
+        "text": "But in reality,",
+        "start": 562.48,
+        "end": 564.48
+    },
+    {
+        "text": "you are not expected to see a big syllabus.",
+        "start": 564.48,
+        "end": 566.48
+    },
+    {
+        "text": "You are expected to see",
+        "start": 566.48,
+        "end": 568.48
+    },
+    {
+        "text": "fundamental basics of DSA.",
+        "start": 568.48,
+        "end": 570.48
+    },
+    {
+        "text": "And this is where",
+        "start": 570.48,
+        "end": 572.48
+    },
+    {
+        "text": "our course comes",
+        "start": 572.48,
+        "end": 574.48
+    },
+    {
+        "text": "into the picture. Data Science",
+        "start": 574.48,
+        "end": 576.48
+    },
+    {
+        "text": "and Algorithms for AI.",
+        "start": 576.48,
+        "end": 578.48
+    },
+    {
+        "text": "We have developed this course",
+        "start": 578.48,
+        "end": 580.48
+    },
+    {
+        "text": "because the data science aspirants",
+        "start": 580.48,
+        "end": 582.48
+    },
+    {
+        "text": "who want to learn DSA",
+        "start": 582.48,
+        "end": 584.48
+    },
+    {
+        "text": "as much as is required for hiring,",
+        "start": 584.48,
+        "end": 586.48
+    },
+    {
+        "text": "we want to teach you through this course.",
+        "start": 586.48,
+        "end": 588.48
+    },
+    {
+        "text": "So now I will tell you",
+        "start": 588.48,
+        "end": 590.48
+    },
+    {
+        "text": "why we have named this course",
+        "start": 590.48,
+        "end": 592.48
+    },
+    {
+        "text": "DSA for AI.",
+        "start": 592.48,
+        "end": 594.48
+    },
+    {
+        "text": "What are the things we are providing you",
+        "start": 594.48,
+        "end": 596.48
+    },
+    {
+        "text": "that are tailor-made for AI.",
+        "start": 596.48,
+        "end": 598.48
+    },
+    {
+        "text": "Let's discuss that. Point no. 1",
+        "start": 598.48,
+        "end": 600.48
+    },
+    {
+        "text": "Controlled Curriculum.",
+        "start": 600.48,
+        "end": 602.48
+    },
+    {
+        "text": "So in the process of developing this course,",
+        "start": 602.48,
+        "end": 604.48
+    },
+    {
+        "text": "we talked to a lot of students",
+        "start": 604.48,
+        "end": 606.48
+    },
+    {
+        "text": "who have cracked jobs.",
+        "start": 606.48,
+        "end": 608.48
+    },
+    {
+        "text": "And after talking to them,",
+        "start": 608.48,
+        "end": 610.48
+    },
+    {
+        "text": "we prepared a curriculum",
+        "start": 610.48,
+        "end": 612.48
+    },
+    {
+        "text": "where we didn't cover everything blindly",
+        "start": 612.48,
+        "end": 614.48
+    },
+    {
+        "text": "and only covered those topics",
+        "start": 614.48,
+        "end": 616.48
+    },
+    {
+        "text": "whose probability",
+        "start": 616.48,
+        "end": 618.48
+    },
+    {
+        "text": "to be asked in the future is very high.",
+        "start": 618.48,
+        "end": 620.48
+    },
+    {
+        "text": "That is why this course",
+        "start": 620.48,
+        "end": 622.48
+    },
+    {
+        "text": "is not too long or too short.",
+        "start": 622.48,
+        "end": 624.48
+    },
+    {
+        "text": "Appropriately, this course",
+        "start": 624.48,
+        "end": 626.48
+    },
+    {
+        "text": "is around 60 hours.",
+        "start": 626.48,
+        "end": 628.48
+    },
+    {
+        "text": "And I feel that if you complete",
+        "start": 628.48,
+        "end": 630.48
+    },
+    {
+        "text": "these 60 hours, then you",
+        "start": 630.48,
+        "end": 632.48
+    },
+    {
+        "text": "will cover 99% topics",
+        "start": 632.48,
+        "end": 634.48
+    },
+    {
+        "text": "which can be asked in the future.",
+        "start": 634.48,
+        "end": 636.48
+    },
+    {
+        "text": "Point no. 2",
+        "start": 636.48,
+        "end": 638.48
+    },
+    {
+        "text": "This course is fully developed",
+        "start": 638.48,
+        "end": 640.48
+    },
+    {
+        "text": "in Python. Which means that",
+        "start": 640.48,
+        "end": 642.48
+    },
+    {
+        "text": "we have taught DSA from the perspective of Python.",
+        "start": 642.48,
+        "end": 644.48
+    },
+    {
+        "text": "We did not choose Java,",
+        "start": 644.48,
+        "end": 646.48
+    },
+    {
+        "text": "C++, which are more popular",
+        "start": 646.48,
+        "end": 648.48
+    },
+    {
+        "text": "ways to teach DSA.",
+        "start": 648.48,
+        "end": 650.48
+    },
+    {
+        "text": "But we chose Python",
+        "start": 650.48,
+        "end": 652.48
+    },
+    {
+        "text": "and the logic behind it is very simple.",
+        "start": 652.48,
+        "end": 654.48
+    },
+    {
+        "text": "In the world of AI, Python is the",
+        "start": 654.48,
+        "end": 656.48
+    },
+    {
+        "text": "backbone. Whether you study",
+        "start": 656.48,
+        "end": 658.48
+    },
+    {
+        "text": "Machine Learning, Deep Learning, or Gen AI,",
+        "start": 658.48,
+        "end": 660.48
+    },
+    {
+        "text": "there you have to do everything through Python.",
+        "start": 660.48,
+        "end": 662.48
+    },
+    {
+        "text": "That is why even to understand DSA,",
+        "start": 662.48,
+        "end": 664.48
+    },
+    {
+        "text": "if you use Python,",
+        "start": 664.48,
+        "end": 666.48
+    },
+    {
+        "text": "it helps in your future",
+        "start": 666.48,
+        "end": 668.48
+    },
+    {
+        "text": "journey.",
+        "start": 668.48,
+        "end": 670.48
+    },
+    {
+        "text": "Reason no. 3",
+        "start": 670.48,
+        "end": 672.48
+    },
+    {
+        "text": "To develop every module,",
+        "start": 672.48,
+        "end": 674.48
+    },
+    {
+        "text": "to teach every data structure,",
+        "start": 674.48,
+        "end": 676.48
+    },
+    {
+        "text": "to teach every algorithm,",
+        "start": 676.48,
+        "end": 678.48
+    },
+    {
+        "text": "we have provided the context of AI.",
+        "start": 678.48,
+        "end": 680.48
+    },
+    {
+        "text": "Which basically means that if I have to",
+        "start": 680.48,
+        "end": 682.48
+    },
+    {
+        "text": "explain a data structure, let's say",
+        "start": 682.48,
+        "end": 684.48
+    },
+    {
+        "text": "a graph or a tree,",
+        "start": 684.48,
+        "end": 686.48
+    },
+    {
+        "text": "then the examples we used",
+        "start": 686.48,
+        "end": 688.48
+    },
+    {
+        "text": "in the process of explaining",
+        "start": 688.48,
+        "end": 690.48
+    },
+    {
+        "text": "are from the world of AI.",
+        "start": 690.48,
+        "end": 692.48
+    },
+    {
+        "text": "So you will feel",
+        "start": 692.48,
+        "end": 694.48
+    },
+    {
+        "text": "a lot of relevance that",
+        "start": 694.48,
+        "end": 696.48
+    },
+    {
+        "text": "whatever I am studying in DSA,",
+        "start": 696.48,
+        "end": 698.48
+    },
+    {
+        "text": "I am also implementing the same things in AI.",
+        "start": 698.48,
+        "end": 700.48
+    },
+    {
+        "text": "So this is point no. 3.",
+        "start": 700.48,
+        "end": 702.48
+    },
+    {
+        "text": "The last point is practice problems.",
+        "start": 702.48,
+        "end": 704.48
+    },
+    {
+        "text": "So in this course,",
+        "start": 704.48,
+        "end": 706.48
+    },
+    {
+        "text": "you will get to see a separate section",
+        "start": 706.48,
+        "end": 708.48
+    },
+    {
+        "text": "called practice problems, where we have",
+        "start": 708.48,
+        "end": 710.48
+    },
+    {
+        "text": "covered a lot of DSA related practice problems.",
+        "start": 710.48,
+        "end": 712.48
+    },
+    {
+        "text": "And how did we",
+        "start": 712.48,
+        "end": 714.48
+    },
+    {
+        "text": "curate these practice problems?",
+        "start": 714.48,
+        "end": 716.48
+    },
+    {
+        "text": "We again asked people",
+        "start": 716.48,
+        "end": 718.48
+    },
+    {
+        "text": "what was asked in the interviews,",
+        "start": 718.48,
+        "end": 720.48
+    },
+    {
+        "text": "what kind of problems were asked,",
+        "start": 720.48,
+        "end": 722.48
+    },
+    {
+        "text": "and we have planned this section around those problems.",
+        "start": 722.48,
+        "end": 724.48
+    },
+    {
+        "text": "So again, you will get to see",
+        "start": 724.48,
+        "end": 726.48
+    },
+    {
+        "text": "such things in this course,",
+        "start": 726.48,
+        "end": 728.48
+    },
+    {
+        "text": "which are very close to interviews.",
+        "start": 728.48,
+        "end": 730.48
+    },
+    {
+        "text": "It will help you.",
+        "start": 730.48,
+        "end": 732.48
+    },
+    {
+        "text": "And one last additional point that",
+        "start": 732.48,
+        "end": 734.48
+    },
+    {
+        "text": "at this point, we are",
+        "start": 734.48,
+        "end": 736.48
+    },
+    {
+        "text": "developing this course as a product.",
+        "start": 736.48,
+        "end": 738.48
+    },
+    {
+        "text": "Which basically means that",
+        "start": 738.48,
+        "end": 740.48
+    },
+    {
+        "text": "we are considering this",
+        "start": 740.48,
+        "end": 742.48
+    },
+    {
+        "text": "rollout, the course we have launched",
+        "start": 742.48,
+        "end": 744.48
+    },
+    {
+        "text": "as version 1.",
+        "start": 744.48,
+        "end": 746.48
+    },
+    {
+        "text": "And our goal is that in the next 6 months",
+        "start": 746.48,
+        "end": 748.48
+    },
+    {
+        "text": "and 1 year, we will",
+        "start": 748.48,
+        "end": 750.48
+    },
+    {
+        "text": "improve this course",
+        "start": 750.48,
+        "end": 752.48
+    },
+    {
+        "text": "based on your feedback.",
+        "start": 752.48,
+        "end": 754.48
+    },
+    {
+        "text": "And you will give the feedback,",
+        "start": 754.48,
+        "end": 756.48
+    },
+    {
+        "text": "and most of the students are in the domain of AI.",
+        "start": 756.48,
+        "end": 758.48
+    },
+    {
+        "text": "So again, the development of this course",
+        "start": 758.48,
+        "end": 760.48
+    },
+    {
+        "text": "will be happening from the perspective of AI.",
+        "start": 760.48,
+        "end": 762.48
+    },
+    {
+        "text": "So I really hope I was able to justify",
+        "start": 762.48,
+        "end": 764.48
+    },
+    {
+        "text": "how we have developed",
+        "start": 764.48,
+        "end": 766.48
+    },
+    {
+        "text": "this DSA course from the perspective of AI.",
+        "start": 766.48,
+        "end": 768.48
+    },
+    {
+        "text": "And how it may be",
+        "start": 768.48,
+        "end": 770.48
+    },
+    {
+        "text": "suitable for you guys who are",
+        "start": 770.48,
+        "end": 772.48
+    },
+    {
+        "text": "trying to target AI based",
+        "start": 772.48,
+        "end": 774.48
+    },
+    {
+        "text": "job roles. So now let me do one thing,",
+        "start": 774.48,
+        "end": 776.48
+    },
+    {
+        "text": "I will show you the course once",
+        "start": 776.48,
+        "end": 778.48
+    },
+    {
+        "text": "and there are some important pointers",
+        "start": 778.48,
+        "end": 780.48
+    },
+    {
+        "text": "around the course, let's discuss that too.",
+        "start": 780.48,
+        "end": 782.48
+    },
+    {
+        "text": "So",
+        "start": 782.48,
+        "end": 784.48
+    },
+    {
+        "text": "this was our course.",
+        "start": 784.48,
+        "end": 786.48
+    },
+    {
+        "text": "You can go to our website,",
+        "start": 786.48,
+        "end": 788.48
+    },
+    {
+        "text": "you will get the link in the description.",
+        "start": 788.48,
+        "end": 790.48
+    },
+    {
+        "text": "There you have to go to the paid courses section.",
+        "start": 790.48,
+        "end": 792.48
+    },
+    {
+        "text": "And there you will get the DSA for AI course.",
+        "start": 792.48,
+        "end": 794.48
+    },
+    {
+        "text": "First of all, let's talk about the fees",
+        "start": 794.48,
+        "end": 796.48
+    },
+    {
+        "text": "because this is the biggest question.",
+        "start": 796.48,
+        "end": 798.48
+    },
+    {
+        "text": "So the fee of this course is",
+        "start": 798.48,
+        "end": 800.48
+    },
+    {
+        "text": "2499. I feel",
+        "start": 800.48,
+        "end": 802.48
+    },
+    {
+        "text": "the general course",
+        "start": 802.48,
+        "end": 804.48
+    },
+    {
+        "text": "fee structure is what we have followed here.",
+        "start": 804.48,
+        "end": 806.48
+    },
+    {
+        "text": "We roughly",
+        "start": 806.48,
+        "end": 808.48
+    },
+    {
+        "text": "calculate on the basis of hours.",
+        "start": 808.48,
+        "end": 810.48
+    },
+    {
+        "text": "So on the basis of number of hours,",
+        "start": 810.48,
+        "end": 812.48
+    },
+    {
+        "text": "the fee comes around 2499.",
+        "start": 812.48,
+        "end": 814.48
+    },
+    {
+        "text": "And this is going to be the course fee",
+        "start": 814.48,
+        "end": 816.48
+    },
+    {
+        "text": "for this particular course.",
+        "start": 816.48,
+        "end": 818.48
+    },
+    {
+        "text": "If we talk about",
+        "start": 818.48,
+        "end": 820.48
+    },
+    {
+        "text": "validity, this question is also asked a lot by",
+        "start": 820.48,
+        "end": 822.48
+    },
+    {
+        "text": "students. So if you buy this course",
+        "start": 822.48,
+        "end": 824.48
+    },
+    {
+        "text": "today, then this course will be",
+        "start": 824.48,
+        "end": 826.48
+    },
+    {
+        "text": "valid for 3 years. You will have",
+        "start": 826.48,
+        "end": 828.48
+    },
+    {
+        "text": "access to this course for 3 years.",
+        "start": 828.48,
+        "end": 830.48
+    },
+    {
+        "text": "Third, this is the",
+        "start": 830.48,
+        "end": 832.48
+    },
+    {
+        "text": "most frequently asked question.",
+        "start": 832.48,
+        "end": 834.48
+    },
+    {
+        "text": "Who is the instructor for the course? I would again like",
+        "start": 834.48,
+        "end": 836.48
+    },
+    {
+        "text": "to clarify, I am not the",
+        "start": 836.48,
+        "end": 838.48
+    },
+    {
+        "text": "instructor of this course.",
+        "start": 838.48,
+        "end": 840.48
+    },
+    {
+        "text": "One of my teammates, Misbah, is",
+        "start": 840.48,
+        "end": 842.48
+    },
+    {
+        "text": "the course creator, the instructor",
+        "start": 842.48,
+        "end": 844.48
+    },
+    {
+        "text": "of this course. And he has",
+        "start": 844.48,
+        "end": 846.48
+    },
+    {
+        "text": "created multiple courses with us",
+        "start": 846.48,
+        "end": 848.48
+    },
+    {
+        "text": "in the past. And he is a very good teacher. He has got",
+        "start": 848.48,
+        "end": 850.48
+    },
+    {
+        "text": "really good feedback. Some of his free",
+        "start": 850.48,
+        "end": 852.48
+    },
+    {
+        "text": "courses are also available on our website.",
+        "start": 852.48,
+        "end": 854.48
+    },
+    {
+        "text": "You should definitely check out his teaching style.",
+        "start": 854.48,
+        "end": 856.48
+    },
+    {
+        "text": "If it suits you,",
+        "start": 856.48,
+        "end": 858.48
+    },
+    {
+        "text": "then only you should enroll in this course.",
+        "start": 858.48,
+        "end": 860.48
+    },
+    {
+        "text": "Fourth,",
+        "start": 860.48,
+        "end": 862.48
+    },
+    {
+        "text": "you will get a certificate",
+        "start": 862.48,
+        "end": 864.48
+    },
+    {
+        "text": "on the basis of completing this course.",
+        "start": 864.48,
+        "end": 866.48
+    },
+    {
+        "text": "And the last point",
+        "start": 866.48,
+        "end": 868.48
+    },
+    {
+        "text": "is if we are taking",
+        "start": 868.48,
+        "end": 870.48
+    },
+    {
+        "text": "this course,",
+        "start": 870.48,
+        "end": 872.48
+    },
+    {
+        "text": "will we get any discount? The answer is",
+        "start": 872.48,
+        "end": 874.48
+    },
+    {
+        "text": "yes. If you",
+        "start": 874.48,
+        "end": 876.48
+    },
+    {
+        "text": "purchase this course for the next few days,",
+        "start": 876.48,
+        "end": 878.48
+    },
+    {
+        "text": "then you will get a",
+        "start": 878.48,
+        "end": 880.48
+    },
+    {
+        "text": "discount of around 20%,",
+        "start": 880.48,
+        "end": 882.48
+    },
+    {
+        "text": "which is roughly around Rs. 500.",
+        "start": 882.48,
+        "end": 884.48
+    },
+    {
+        "text": "So this course will cost you",
+        "start": 884.48,
+        "end": 886.48
+    },
+    {
+        "text": "around Rs. 2,000.",
+        "start": 886.48,
+        "end": 888.48
+    },
+    {
+        "text": "So",
+        "start": 888.48,
+        "end": 890.48
+    },
+    {
+        "text": "that's it. Please go",
+        "start": 890.48,
+        "end": 892.48
+    },
+    {
+        "text": "and check this website.",
+        "start": 892.48,
+        "end": 894.48
+    },
+    {
+        "text": "You will get a lot of",
+        "start": 894.48,
+        "end": 896.48
+    },
+    {
+        "text": "details in this course page, including the course",
+        "start": 896.48,
+        "end": 898.48
+    },
+    {
+        "text": "content, exactly what all we are going to teach",
+        "start": 898.48,
+        "end": 900.48
+    },
+    {
+        "text": "in this course. You will get",
+        "start": 900.48,
+        "end": 902.48
+    },
+    {
+        "text": "everything here along with the video",
+        "start": 902.48,
+        "end": 904.48
+    },
+    {
+        "text": "duration. So you will get a very fair",
+        "start": 904.48,
+        "end": 906.48
+    },
+    {
+        "text": "idea whether you should take this course",
+        "start": 906.48,
+        "end": 908.48
+    },
+    {
+        "text": "or not. Rest,",
+        "start": 908.48,
+        "end": 910.48
+    },
+    {
+        "text": "I would just say, just like",
+        "start": 910.48,
+        "end": 912.48
+    },
+    {
+        "text": "any other course, we have put",
+        "start": 912.48,
+        "end": 914.48
+    },
+    {
+        "text": "a lot of effort here. We have developed",
+        "start": 914.48,
+        "end": 916.48
+    },
+    {
+        "text": "this course in the past 6 months. And",
+        "start": 916.48,
+        "end": 918.48
+    },
+    {
+        "text": "our effort is that",
+        "start": 918.48,
+        "end": 920.48
+    },
+    {
+        "text": "we should be able to clear",
+        "start": 920.48,
+        "end": 922.48
+    },
+    {
+        "text": "this hurdle of DSA",
+        "start": 922.48,
+        "end": 924.48
+    },
+    {
+        "text": "on your way. I really hope",
+        "start": 924.48,
+        "end": 926.48
+    },
+    {
+        "text": "that whoever purchases this course,",
+        "start": 926.48,
+        "end": 928.48
+    },
+    {
+        "text": "this course will help them",
+        "start": 928.48,
+        "end": 930.48
+    },
+    {
+        "text": "to crack their dream job.",
+        "start": 930.48,
+        "end": 932.48
+    },
+    {
+        "text": "That's it for this video. If you",
+        "start": 932.48,
+        "end": 934.48
+    },
+    {
+        "text": "liked the video, please like it. If",
+        "start": 934.48,
+        "end": 936.48
+    },
+    {
+        "text": "your friend is preparing for DSA,",
+        "start": 936.48,
+        "end": 938.48
+    },
+    {
+        "text": "please recommend this",
+        "start": 938.48,
+        "end": 940.48
+    },
+    {
+        "text": "video to him. And we will meet",
+        "start": 940.48,
+        "end": 942.48
+    },
+    {
+        "text": "in the next video. Bye.",
+        "start": 942.48,
+        "end": 944.48
+    }
+]

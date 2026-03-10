@@ -1,0 +1,107 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "Let me guess, you wake up in the morning, start reading DSA, watch the playlist of your favorite creator, and maybe make notes with a lot of enthusiasm. And even after that, when you sit to ask the question of lead code, you can't do it. Or when you go for an interview, you don't understand how to code that approach. This happened to me too when I was starting DSA. I used to think of a question logic, but I couldn't code it. And I was sitting all day watching videos, watching playlists, making notes. Even after that, I couldn't clear the concepts. And I remembered this when some of my subscribers raised the issue that they were facing this problem. And then I realized that we are stuck in a trap. And that is DSA playlist endless loop.",
+        "start": 0.0,
+        "end": 45.28,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 1,
+        "text": "It is very sad that so many playlists are made on the internet. So many good creators have made playlists. And honestly, I respect them a lot. Because it is very, very tough to teach DSA on YouTube. And it takes a lot of effort. But we don't know how to use it properly. In fact, we are causing more harm than good in our lives. And I have made this video to address that. And if this video saves any one of you from this DSA endless loop, then actually the purpose of this video would have been fulfilled. You guys tell me one thing. Let's say you want to learn to ride a bike. So how will you learn to ride a bike? See someone riding a bike. Will you learn to ride a bike? Or you will have to practice by yourself. You will have to try to ride a bike yourself.",
+        "start": 45.28,
+        "end": 92.48,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 2,
+        "text": "It won't work at all in the beginning. But after practicing, you will be able to ride a bike. So why do we think that DSA will come to us by seeing someone else solving questions? Why do we think that our mind will be able to think the logic of the questions by seeing someone else thinking the logic? I believe that in starting to learn algorithms, to learn basic things about the topic, basics can be explained to you very quickly. Algorithms can be explained very well. But again the issue is, do we need to see endless playlists? I have talked to so many children who say that our placement is not looking good. We are studying a lot from DSA. And you know, they have not done basic algorithms properly. But when I ask them that you do not know algorithms properly. How did you learn algorithms? So they tell me that they opened a YouTube video and learned algorithms from it.",
+        "start": 92.48,
+        "end": 140.48,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 3,
+        "text": "And made notes and they got the algorithm. And then I was a little shocked that this is such a wrong way to learn algorithms. Or to learn coding in general. If you sit and just look at someone else coding and you feel that you will learn from him, then that is not possible. You need hands-on encoding. Because coding is actually a way of thinking. And especially DSA is like a gym. So it is very important that you yourself do hands-on practice on DSA. If you are watching the algorithm from any YouTube channel, then it is important that you dry run the algorithm yourself. Try to decode that code. And I don't know why it is so much for underrated. When you try to decode a code. This is one of the most important thing in a coder's life.",
+        "start": 140.48,
+        "end": 185.6,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 4,
+        "text": "And it should be most important. Because today you will get a lot of videos on DSA. But tomorrow when you are working on an internal tool in your company. Then where will you get so many videos? When you are working on a language that is only used in your company. And it is not used so many times. There are not so many videos on the internet. So what will you do? Then you will have to decode the code and understand what is happening in the whole story. So that's why this is a very good exercise. That you read the algorithm and understand about it. But try to decode its code yourself. Don't just sit and watch videos. And the most surprising thing after that is that even after learning the algorithm, children watch YouTube videos for problems. They feel that this question is now done with me. If there is a two-sum problem of arrays. Then they feel that they have seen the video.",
+        "start": 185.6,
+        "end": 232.16,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 5,
+        "text": "And now they will have that famous problem. But this is not the correct thing. Because millions of people have seen the video. Look at the views on that video. There are millions of views. Millions of views in many videos. So have all those millions of people got DSA? If it had come, then there would have been something else other than DSA. If people would have become so good in DSA. DSA is not such a good filter to filter the candidates. So it's not like that. You won't get it by watching the video. You have to think about that question yourself. At least 30 minutes. How do you think? What do you have to do? If you are learning an algorithm. Understand it in and out. Do its dry run by yourself. Okay, code it at least 5 to 10 times and see. And until it gets stuck in your blood. Don't leave that algorithm. After understanding that algorithm properly. Now make some questions on that algorithm.",
+        "start": 232.16,
+        "end": 278.96,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 6,
+        "text": "Now when you make questions. So obviously some questions will not be made by you first. This is a very obvious example of that bike. Will the bike run for the first time? Perfect. That is so obvious. So some questions will not be made by you first. But if any question is not made by you. Then don't jump directly on its video. Bring its solution first. Okay, understand that solution properly. What is happening in the solution? Try to decode it. Then understand that where did I miss? What did I not think? Understanding this is very important. Because I am telling the truth. Coding is about the way you think. Look, there are only two parts of coding. Number one is that you can do logical thinking. You can think. You can think logic to solve the question. Number two is that you can implement it in the code. The most difficult thing. In which most of the children have a problem. That is the first. That they are not able to think logic.",
+        "start": 278.96,
+        "end": 324.48,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 7,
+        "text": "To implement that code. And this is only happening. Because we are sitting and watching videos on videos. We are not doing hands-on. We don't want to work hard. We want someone to come on YouTube. Give us some magic. Give us a magic pill in our hand. And all our interviews get cracked. This does not happen. Hard work. Where it is needed, it is needed. And this is a very important statement in my life. Because making a YouTube video is not a magic statement. How to grow on YouTube is not a magic pill. You have to work hard. You have to tell the truth to people. You have to make quality content for people. Money will be spent on production. All of this is there. And this is called hard work. Which you can't substitute. Similarly, you have to work hard in DSA. You can't do anything about it. You have to sit and understand. How is this code applied? Where did I make a mistake?",
+        "start": 324.48,
+        "end": 369.76,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 8,
+        "text": "What did I not think? You have to understand this. And if you can't understand by decoding the code. Then you can go and watch the video. But still I will suggest. If you have good friends. You are in a good community. By the way, I also have a community. I take sessions in it every week. If you guys want to join. Link is in the description. And it is free. There is no catch in this. It is absolutely free. If you have such a community. You have made friends with coding. Then you also discuss with those friends. Bring more filters in it. Don't go directly to the video. Discuss with friends. I am telling the truth. My life has become so easy. When I started discussing with my friends. Of everything I am doing. Like everything I am studying. I discuss it with them. Even YouTube. They are not YouTubers. I also discuss this forcefully with them. So make it a habit.",
+        "start": 369.76,
+        "end": 415.12,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 9,
+        "text": "You try it once. And you will have a lot of fun. If your friends are actually good friends. If your friends are useless. They are not doing anything so serious in life. Then there is no point. They will not be interested in listening to you. They will say, let's go to the party. What are you talking about? Why do you want to do DSA? So you have to avoid such friends. If you do it for 10 to 15 questions. In a particular algorithm. 11th question. You will definitely make it. If you don't make it complete. Then you will do it 80%. That is for sure. So this is how you actually spend time on questions. Not that you have completed 150 questions. How have you completed 150 questions? By watching the playlist. This is not done. I have done 150 questions. From playlist. This is silent. But you guys need to understand. How much damage is being done in this. And sadly we are so innocent.",
+        "start": 415.12,
+        "end": 461.84,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 10,
+        "text": "Subscribers are so innocent. That they do not understand this thing. We have to understand. Which resource is best on the internet. Which language is best on the internet. This is not a priority question. The priority question is. How can I understand from the question of DSA. Which algo is being applied in this. What changes are to be made in the algo that is being applied. Or what tweaks are to be done for that particular question. This is the main important thing. But no one is paying attention to this. Where is the attention? Please Harshita. Tell me a resource. By which our placement will be like this. Please Harshita. Tell me a sheet of DSA. By which our placement will be like this. Sheet is just a filter. There are thousands of problems on LeetCode. If you can't solve thousands of problems. Then you get a curated sheet. Here you ask this question. These are important questions.",
+        "start": 461.84,
+        "end": 507.2,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 11,
+        "text": "Which sheet is best? Which playlist is best? All our time is wasted here. So guys. Give proper time to every question. At least in the beginning. It is a work of 30 minutes. This is not a lot of work. It will take more time in the beginning. It may take 1-2 hours in every question. But understand this. If you are doing one question in a day. And if you understand. Pattern of the question. This is the algorithm. I made these changes in that algorithm. And how did I know that I have to make these changes? Because this thing was given in that question. What I am trying to say is. Every DSA question has three parts. Number 1. What will be the input? What will be the output? Number 2. With which concept or algorithm will that question be solved? Number 3. What will you have to change in that algorithm? That this output will come from this input. You should try to decode these three things. In every question. Think about it once.",
+        "start": 507.2,
+        "end": 552.32,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 12,
+        "text": "This is what happens in almost every DSA question. So if you learn to think this way. And after that, practice applying the algorithm. In that direction. So that will be called smart work. But if you are just thinking. Which playlist is good? Which creator is good? From where can I get the best mentorship? Please Harshita. Please tell me. So I don't think that is fruitful to you. I am saying this with a lot of sympathy. Because I have been there. And I know how it feels. It feels like we are directionless. It feels like there is a creator that I am missing. There is something that I am missing. But this is not important. And I have seen so many people. That they watch the DSA playlist. As if it is a Netflix series. Guys, stop it. Please. Don't look at Netflix like this. It is not a Netflix series.",
+        "start": 552.32,
+        "end": 598.32,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 13,
+        "text": "That literally you are training your brain. In a certain way. Like if you are doing a bicep curl. You are doing some exercise for the biceps. You are training your muscles. Similarly, when you are doing DSA. You are training your brain to think in a certain way. Think about DSA like that. So in the beginning, you need to do all of this. And this is actually important. If you will utilize all these good resources on the internet in this way. Then your life will be easy. And the people who have made the resources with so much hard work. Their resources will also be used correctly. Because I have been there. I have watched endless of videos back to back. From the best to the best creator. Which you can imagine. Nothing happened. I was not able to think logically. Until I sat down and made the questions of DSA.",
+        "start": 598.32,
+        "end": 644.24,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    },
+    {
+        "chunk_id": 14,
+        "text": "Nothing happened.",
+        "start": 644.24,
+        "end": 646.0,
+        "source": "5. I Wasted 6 Months on DSA Playlists... Here's What Actually Works.json"
+    }
+]

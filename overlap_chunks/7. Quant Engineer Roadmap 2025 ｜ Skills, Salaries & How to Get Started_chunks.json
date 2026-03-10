@@ -1,0 +1,107 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "Hi everyone, do you know which are the highest paying engineers in the world? Not backend engineers, not cloud engineers, not database engineers. The highest paying engineers in the world are Quants engineers. Those engineers who are behind the stock market and stock trades and earn millions of dollars in microseconds. These engineers mix maths, programming, and finance and build algorithms that can literally print money for hedge funds and high frequency trading firms. If we talk about the salary of a Quants engineer in India, then if there is a fresher who has just graduated, his salary can be around 40 lakhs to 60 lakhs per annum. And if there is an experienced professional in this field, then his salary can go up to 2 crore plus per annum. Amazing, right?",
+        "start": 0.0,
+        "end": 46.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 1,
+        "text": "And Quants engineers' dream companies are not FANG or MANG. Their dream companies are Jane Street, Citadel, Tower Research, Jump Trading, etc. Where with the help of maths, data, and algorithms, a lot of interesting problems are being solved. And the best thing is that to become a Quants engineer, you don't need any finance degree. And that's why in today's video, I will tell you how you can become a Quants engineer from scratch. And finally, how you can secure a good job and placement in this role. In today's video, we will discuss everything. About this role, what you will have to study in this role, where you will study from, what will be the best resources, where you will get job opportunities in this role, how you will crack the interviews through those job opportunities, we will discuss everything in detail.",
+        "start": 46.0,
+        "end": 92.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 2,
+        "text": "And this is going to be a really informative video. So without much wait, let's get started. So first of all, let's know what a Quants engineer is. A Quants engineer or quantitative developer is basically someone who builds mathematical models and trading algorithms for investment banks, trading firms, hedge funds, etc. where data-driven trading decisions are taken. Basically, this field of engineering is a mixture of software engineering, mathematics, and statistics. And in this field, you can expect tasks like writing algorithms that run in microseconds based on market data, optimizing execution speed, backtesting strategies on massive data sets, implementing risk models, etc. Basically, these engineers mix maths, code, and finance to make money faster than anyone. And if you are wondering why Quants engineers are so highly paid,",
+        "start": 92.0,
+        "end": 139.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 3,
+        "text": "then the simple reason is that they directly affect profit. A better trading algorithm that runs faster gives millions of dollars to a particular trading firm. And because this trading algorithm is developed by Quants engineers, that's why their salaries are so high. Very few people have combined expertise in maths, finance, and programming. So that's why competition is very tough for this role. But equally, its rewards are very massive and lucrative. Companies like Jane Street, Citadel, Tower Research, etc. which I talked about in the beginning, they give packages to freshers in India of around 60-80 lakhs per annum. And globally, their packages range around $250,000+. And if you become a Quants engineer, then along with amazing packages and perks,",
+        "start": 139.0,
+        "end": 184.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 4,
+        "text": "you get a chance to work on very interesting and intellectual problems. You solve optimization problems, analyze market behavior, make models on it, write code that runs in microseconds and nanoseconds, and you also get a chance to work with the world's smartest minds. Amazing, right? So if all these things excite you, if all these things seem interesting to you, then this is the perfect role for you. And now let's discuss how to become a Quants engineer. So the first step to becoming a Quants engineer is to learn a programming language. You have to master a particular programming language. And the best and preferred programming language to become a Quants engineer is C++. Because it's the fastest. C++ language is closely connected to the compiler. And that's why its execution speed is very fast. And that's why all the high-frequency trading firms,",
+        "start": 184.0,
+        "end": 231.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 5,
+        "text": "investment banks, hedge funds, to build algorithms in all of them, this language is used. So you should learn C++. And the best resource to learn this language is C++ Primer Book. This is a very good book. And in this, your C++ concepts will be very clear. So you can definitely check it out. Then the second step is to master Maths and Probability. This is the step where more than 80% of the people struggle. Because solving the concepts of Maths and Probability becomes very difficult. But you have to pay a lot of attention to this step. And these particular 5 concepts should be absolutely clear to you. And those are Probability, Statistics, Calculus, Optimization, and Linear Algebra. Okay? And the best resources to master these topics are first one is Khan Academy, which is a YouTube channel.",
+        "start": 231.0,
+        "end": 276.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 6,
+        "text": "And it is the best resource to clear your basic concepts. Then the second one is MIT Open Course. MIT, which is the world's top engineering university, has a course by the name of Introduction to Probability. You can definitely check it out. And finally, there is an amazing book called Introduction to Probability by Blitzstein and Huang. And you can definitely check out this book. And with the help of all these resources, you can clearly clear your concepts of Maths and Probability. Now the next step is to understand Finance and Trading Concepts. Now because you want to become a Quants Engineer, you should have some knowledge of Quants. So you should know the basics of Finance and Trading. You don't need to be an expert. But yes, you should definitely have basic knowledge. So you should know about Stocks, Options, Futures, etc. You should know about Market Microstructure,",
+        "start": 276.0,
+        "end": 322.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 7,
+        "text": "what is Arbitrage, how are Trades executed, etc. To master all these things, you can refer a YouTube channel by the name of Aswath Damodaran. It has a lot of good Finance lectures. And it will help you to improve your knowledge of Finance. And along with this, there is a book by the name of Options, Futures, and Other Derivatives by John C. Hull. You can also refer this book to improve your knowledge of Finance. Then comes the next step which is actually the most important step. And that is Data Analysis and Machine Learning. Quants Engineers also use different Machine Learning models to analyze data, detect trading patterns, etc. And on their basis, they make different algorithms with which they can actually make a profit. So that's why you should also know about",
+        "start": 322.0,
+        "end": 368.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 8,
+        "text": "Data Analysis, Machine Learning, Regression, Time Series Forecasting, etc. And the best resources to master these are Fast.ai and Course Era's Machine Learning course by Andrew. And along with this, there is a book on Hands-on Machine Learning by Aureline Geron. You can definitely check it out. Now the next step is Problem Solving and Comparative Programming. All the quant firms definitely check your problem-solving skills in their coding interviews. And along with this, when you actually go to a quant firm and work on your development, you will definitely need your problem-solving skills. That's why you should master your DSA skills. I have made a video on how to master DSA. You can check it out. I will attach the link above. Along with this, if you want to know which platforms you should prefer,",
+        "start": 368.0,
+        "end": 415.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 9,
+        "text": "then you can start with LeetCode. You can go to LeetCode and solve different problems. You can give contests there. There are weekly and bi-weekly contests. You can give them. This will give you the basic knowledge of DSA. And when you do all these things and become comfortable solving problems on the platform of LeetCode, then you should move towards Comparative Programming in the next step. Because for this particular role, to become a quant engineer, you should also know Comparative Programming. Your problem-solving skills should be the best. And the best resources to master Comparative Programming are CodeForces, CodeChef, and AdCode. You can check out all these three platforms and start your journey of Comparative Programming. And finally, you can implement some small projects related to Quant which will give you hands-on experience and you will also understand what type of development is there in Quant.",
+        "start": 415.0,
+        "end": 463.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 10,
+        "text": "Some sample projects that you can implement are back-testing simple trading strategies, simulating order books, predicting stock movements using regression, etc. And similarly, there are many other projects related to Quant which you can implement. And you won't be able to make these projects only with the help of C++. You will also need Python, SQL, etc. So you can check out all these and explore them. So these were all the different steps and resources with which you can become a Quant engineer. And now we know that for the roles of Quant engineers, where you can find opportunities. So I have already told you about the top companies in this role like Jane Street, Tower Research, Citadel, etc. Along with them, there are many other companies whose names are mentioned on the screen right now. You can check out the career site of all these companies",
+        "start": 463.0,
+        "end": 509.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 11,
+        "text": "and can actively monitor them. Then the best platforms to find different opportunities for this role are First is LinkedIn Jobs. You can add a filter in jobs by going to LinkedIn for a Quant engineer. And different jobs will be displayed there which are hiring for a Quant store. You can directly apply for them or you can take a referral and apply. Then the second platform is eFinancialCareers.com This is a particular platform where many financial related opportunities are displayed. You can definitely check out this platform if you want to be in a Quant store. Then finally, the third platform is Kaggle. There are many competitions on the Kaggle platform and in these competitions, Quant's role competitions are also included. So you can go to these platforms and register in Quant's role competitions. If you perform well in this competition,",
+        "start": 509.0,
+        "end": 554.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 12,
+        "text": "then you can get an internship opportunity in that particular Quant firm. So this is also a very good platform and you should definitely check it out. Along with these platforms, you can join different communities on Discord and Reddit related to Quant. And it will be very easy for you to track a particular job opportunity in Quant store. Okay, so these were some of the ways by which you can grab different job opportunities in Quant. And finally, if you get a chance to give Quant interviews, then you should definitely know one thing and that is that Quant interviews are tough but they are actually very predictable. In Quant interviews, you will be tested on only three things. Maths, Coding, and Finance. In Maths, you will be asked about Probability, Combitronics, Puzzles, etc. In Coding, you will be asked about DSA. And in Finance, you will be asked about logic-based questions.",
+        "start": 554.0,
+        "end": 601.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 13,
+        "text": "For example, Math related question can be What is the expected number of coin tosses to get two heads? Coding related question can be Implement an order book in C++. And Finance related question can be Explain Risk Modeling, Volatility, etc. So you have to prepare all these things and the best resource to master them that is a book called Hurt on the Street by Timothy Crack. This is a very amazing book to prepare for Quant interviews. And you can definitely check it out. Then to master Coding, you have to solve medium to hard level questions on LeetCode and have to give different contests. And finally, you can give mock interviews on Pramp and interviewing.io. With the help of all these steps, your preparation for the interview will be amazing. And that was all about the entire roadmap on how to become a Quant Engineer.",
+        "start": 601.0,
+        "end": 646.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    },
+    {
+        "chunk_id": 14,
+        "text": "And finally, I just want to say that becoming a Quant Engineer is not an overnight thing and it is not that easy. You will become one of the world's Point 1 Engineers if you become a Quant Engineer. But if you practice consistently and follow this roadmap, then I am sure you will definitely make it through and you will definitely be one of the Point 1 Engineers that are Quant Engineers. I hope you learned something from this video Namaste! And that's all from my side. This is Ashutosh signing off. Take care everyone. And I will see you in the next video. Till then keep preparing and be focused.",
+        "start": 646.0,
+        "end": 675.0,
+        "source": "7. Quant Engineer Roadmap 2025 \uff5c Skills, Salaries & How to Get Started.json"
+    }
+]

@@ -1,0 +1,952 @@
+[
+    {
+        "text": "Having solved more than 1500 LeetCode problems, if there is one thing I have learned is this.",
+        "start": 0.0,
+        "end": 4.4
+    },
+    {
+        "text": "LeetCode is less about the number of problems you have solved and more about how many patterns you",
+        "start": 4.4,
+        "end": 8.32
+    },
+    {
+        "text": "know. Because learning patterns allows you to solve a wide variety of problems in less time",
+        "start": 8.32,
+        "end": 12.48
+    },
+    {
+        "text": "and helps you quickly identify the right approach to a problem you have never seen before.",
+        "start": 12.48,
+        "end": 16.16
+    },
+    {
+        "text": "In this video, I will walk you through 15 most important patterns I learned that",
+        "start": 16.16,
+        "end": 19.36
+    },
+    {
+        "text": "made my LeetCode journey a lot less painful. And the best part is these patterns actually",
+        "start": 19.36,
+        "end": 23.12
+    },
+    {
+        "text": "came up in most of my interviews, including at companies like Amazon and Google. For each",
+        "start": 23.12,
+        "end": 27.04
+    },
+    {
+        "text": "pattern, I will explain when to use it, walk through an example, and list LeetCode problems",
+        "start": 27.04,
+        "end": 30.96
+    },
+    {
+        "text": "you can practice to learn them better. First up, we have Prefix Sum Pattern.",
+        "start": 30.96,
+        "end": 34.4
+    },
+    {
+        "text": "This pattern is commonly used for problems where you need to query the sum of elements",
+        "start": 34.4,
+        "end": 38.24
+    },
+    {
+        "text": "in a subarray. Imagine you are given an array and you need to find the sum of all elements",
+        "start": 38.24,
+        "end": 41.92
+    },
+    {
+        "text": "between indices i and j. If you have just one query, you can simply loop through the array",
+        "start": 41.92,
+        "end": 46.16
+    },
+    {
+        "text": "in linear time to find the sum. But if you have multiple such queries, it can take up to order of",
+        "start": 46.16,
+        "end": 50.56
+    },
+    {
+        "text": "n times m time complexity where m is the number of queries and n is the length of the array.",
+        "start": 50.56,
+        "end": 54.96
+    },
+    {
+        "text": "To make such queries faster, you can create a prefix sum array where value at index i",
+        "start": 54.96,
+        "end": 59.28
+    },
+    {
+        "text": "is the sum of all elements from start up to index i in the given array.",
+        "start": 59.28,
+        "end": 62.72
+    },
+    {
+        "text": "Now you can arrange some queries in O of 1 time using the formula sum from i to j is equal to",
+        "start": 62.72,
+        "end": 68.0
+    },
+    {
+        "text": "p of j minus p of i minus 1. This is the main idea behind the prefix sum pattern.",
+        "start": 68.0,
+        "end": 72.4
+    },
+    {
+        "text": "One thing to remember is that you don't always need a new array for prefix sums.",
+        "start": 72.4,
+        "end": 76.0
+    },
+    {
+        "text": "Sometimes, you can use the input array itself and avoid using extra space.",
+        "start": 76.0,
+        "end": 80.0
+    },
+    {
+        "text": "Here are some LeetCode problems you can practice using this pattern.",
+        "start": 80.0,
+        "end": 83.04
+    },
+    {
+        "text": "Next one is two-pointers pattern. In the two-pointer approach,",
+        "start": 83.04,
+        "end": 85.84
+    },
+    {
+        "text": "we initialize two variables and move them towards each other or away from each other",
+        "start": 85.84,
+        "end": 89.6
+    },
+    {
+        "text": "based on the problem. For example, let's say you are given a string and you need to",
+        "start": 89.6,
+        "end": 92.96
+    },
+    {
+        "text": "check whether it's a palindrome. A string is a palindrome if it's the same when the order of",
+        "start": 92.96,
+        "end": 96.88
+    },
+    {
+        "text": "characters is reversed. To solve this problem using two-pointers approach, use one pointer",
+        "start": 96.88,
+        "end": 101.12
+    },
+    {
+        "text": "to iterate from the beginning and the other from the end. At each step, compare the values at both",
+        "start": 101.12,
+        "end": 105.68
+    },
+    {
+        "text": "pointers. If they don't match, the string is not a palindrome. Return false. If they match,",
+        "start": 105.68,
+        "end": 110.4
+    },
+    {
+        "text": "move the pointers closer. Keep doing this until the pointers meet.",
+        "start": 110.4,
+        "end": 113.6
+    },
+    {
+        "text": "The two-pointers pattern can reduce the time complexity for many problems",
+        "start": 113.6,
+        "end": 116.88
+    },
+    {
+        "text": "from order of l squared to order of n. So, make sure you practice it well.",
+        "start": 116.88,
+        "end": 120.64
+    },
+    {
+        "text": "Here are a few LeetCode problems to get better at this pattern.",
+        "start": 120.64,
+        "end": 123.36
+    },
+    {
+        "text": "Let's slide into our next pattern, sliding window. This pattern helps us find subarrays",
+        "start": 123.36,
+        "end": 127.6
+    },
+    {
+        "text": "or substrings that meet specific criteria. Let's understand it with an example.",
+        "start": 127.6,
+        "end": 131.52
+    },
+    {
+        "text": "Suppose you are given an array and you need to find the subarray of size k with the maximum sum.",
+        "start": 131.52,
+        "end": 135.76
+    },
+    {
+        "text": "Let's say k is 3. A brute force approach is to consider all the subarrays of size 3",
+        "start": 135.76,
+        "end": 140.08
+    },
+    {
+        "text": "using a nested for loop and pick the one with the maximum sum.",
+        "start": 140.08,
+        "end": 143.04
+    },
+    {
+        "text": "But since the adjacent subarrays overlap, there is a lot of repetitive calculation,",
+        "start": 143.04,
+        "end": 146.72
+    },
+    {
+        "text": "leading to a time complexity of order of n times k. We can optimize this using",
+        "start": 146.72,
+        "end": 150.64
+    },
+    {
+        "text": "sliding window approach. We start by initializing a window containing the sum of first three",
+        "start": 150.64,
+        "end": 154.8
+    },
+    {
+        "text": "elements. And as we iterate through the array, we subtract the leftmost item,",
+        "start": 154.8,
+        "end": 158.32
+    },
+    {
+        "text": "add new item's value to the window, and update the result. This reduces time complexity from",
+        "start": 158.32,
+        "end": 162.64
+    },
+    {
+        "text": "order of n times k to order of n, since we are only using a single for loop to iterate through",
+        "start": 162.64,
+        "end": 166.96
+    },
+    {
+        "text": "the array. Here are some leetcode problems to practice this approach.",
+        "start": 166.96,
+        "end": 170.24
+    },
+    {
+        "text": "Next pattern is a variant of the two-pointers pattern called fast and slow pointers.",
+        "start": 170.24,
+        "end": 174.24
+    },
+    {
+        "text": "This pattern helps solve problems related to linked lists and arrays, which involves",
+        "start": 174.24,
+        "end": 178.56
+    },
+    {
+        "text": "finding cycles. It works by moving two pointers at different speeds. Let's understand this with",
+        "start": 178.56,
+        "end": 183.28
+    },
+    {
+        "text": "a real-world example. Imagine a circular track with two runners A and B. Runner A moves faster",
+        "start": 183.28,
+        "end": 188.08
+    },
+    {
+        "text": "than runner B. Since the track is circular, runner A will eventually pass runner B. This is the idea",
+        "start": 188.08,
+        "end": 193.2
+    },
+    {
+        "text": "behind fast and slow pointers. Using this approach, you can check if a linked list contains",
+        "start": 193.2,
+        "end": 197.28
+    },
+    {
+        "text": "a cycle. We start by placing both slow and fast pointers at the head of the linked list. Move the",
+        "start": 197.28,
+        "end": 201.52
+    },
+    {
+        "text": "slow pointer one node at a time and the fast pointer two nodes at a time. If there is a cycle,",
+        "start": 201.52,
+        "end": 205.68
+    },
+    {
+        "text": "they will eventually meet. This pattern can also find the middle node of a linked list in one pass.",
+        "start": 205.68,
+        "end": 210.32
+    },
+    {
+        "text": "When the fast pointer reaches the end, the slow pointer will be at the middle of the linked list.",
+        "start": 210.32,
+        "end": 214.24
+    },
+    {
+        "text": "To get better at this pattern, you can practice these leetcode problems.",
+        "start": 214.24,
+        "end": 217.2
+    },
+    {
+        "text": "Next pattern on the list is linked list in-place reversal. Many linked list problems ask you to",
+        "start": 217.2,
+        "end": 221.76
+    },
+    {
+        "text": "change its nodes and pointers in some way. The trick is to do it in-place without using extra",
+        "start": 221.76,
+        "end": 226.8
+    },
+    {
+        "text": "space. That's where this pattern can help. Let's look at an example where you need to",
+        "start": 226.8,
+        "end": 230.4
+    },
+    {
+        "text": "reverse a linked list. A simple approach is to copy the linked list values into an array",
+        "start": 230.4,
+        "end": 234.4
+    },
+    {
+        "text": "and then update the linked list by traversing the array in reverse. But this isn't the most",
+        "start": 234.4,
+        "end": 238.32
+    },
+    {
+        "text": "optimal approach since it needs extra space equal to the size of the linked list and requires",
+        "start": 238.32,
+        "end": 242.48
+    },
+    {
+        "text": "multiple passes through the linked list. Can we do it in one pass and without extra space? Yes,",
+        "start": 242.48,
+        "end": 246.8
+    },
+    {
+        "text": "we can. Use three pointers previous, current, and next. Set previous to none and current to",
+        "start": 246.88,
+        "end": 251.92
+    },
+    {
+        "text": "the head of the linked list. Use a while loop to go through the list until current is none.",
+        "start": 251.92,
+        "end": 255.84
+    },
+    {
+        "text": "In each loop, set next to the next node of the current. Reverse the current node's pointer to",
+        "start": 255.84,
+        "end": 260.32
+    },
+    {
+        "text": "point to previous. Note previous to current and current to next. At the end of the loop,",
+        "start": 260.32,
+        "end": 264.72
+    },
+    {
+        "text": "previous will point to the new head of the reversed linked list. You can use this technique",
+        "start": 264.72,
+        "end": 268.48
+    },
+    {
+        "text": "for any problem that asks you to rearrange the links between nodes of a linked list.",
+        "start": 268.48,
+        "end": 272.4
+    },
+    {
+        "text": "Here are some leetcode problems to practice this pattern.",
+        "start": 272.4,
+        "end": 275.04
+    },
+    {
+        "text": "Next pattern is monotonic stack. This pattern uses a stack to find the next greater or next",
+        "start": 275.04,
+        "end": 279.92
+    },
+    {
+        "text": "smaller element in an array. Let's look at an example. Given an array, find the next greater",
+        "start": 279.92,
+        "end": 284.08
+    },
+    {
+        "text": "element for each item. If there isn't one, output minus one. A brute force approach is to use a",
+        "start": 284.08,
+        "end": 288.08
+    },
+    {
+        "text": "nested for loop to check all the elements to the right of each item until you find a bigger one.",
+        "start": 288.08,
+        "end": 292.24
+    },
+    {
+        "text": "But this can take up to order of n squared time. We can solve it in O of n time by using a stack.",
+        "start": 292.24,
+        "end": 297.36
+    },
+    {
+        "text": "Here is what the algorithm looks like. Use a stack to track indices of elements for which",
+        "start": 297.36,
+        "end": 301.6
+    },
+    {
+        "text": "we haven't found the next greater element yet. Initialize the result array with minus ones. For",
+        "start": 301.6,
+        "end": 306.16
+    },
+    {
+        "text": "each element, check if it's greater than the element at the top of the stack. If it is,",
+        "start": 306.16,
+        "end": 310.0
+    },
+    {
+        "text": "pop from the stack and set the result for that index to the current element. Push the current",
+        "start": 310.0,
+        "end": 314.24
+    },
+    {
+        "text": "element onto the stack. During the whole process, we keep the stack elements in decreasing order.",
+        "start": 314.24,
+        "end": 318.8
+    },
+    {
+        "text": "But for finding the next smaller element, keep them in increasing order.",
+        "start": 318.8,
+        "end": 322.0
+    },
+    {
+        "text": "Here are some leetcode problems to practice this pattern.",
+        "start": 322.0,
+        "end": 324.64
+    },
+    {
+        "text": "Next is top k elements pattern. This pattern helps you find the k largest,",
+        "start": 324.64,
+        "end": 328.4
+    },
+    {
+        "text": "smallest, or most frequent elements in a dataset. Imagine you have an array and you need to find",
+        "start": 328.4,
+        "end": 332.56
+    },
+    {
+        "text": "three largest elements. A simple approach is to sort this array in descending order and take the",
+        "start": 332.56,
+        "end": 336.8
+    },
+    {
+        "text": "first three elements. But sorting takes O of n log n time. Can we avoid sorting the array? Yes,",
+        "start": 336.8,
+        "end": 341.92
+    },
+    {
+        "text": "by using a min heap. By using a min heap, we can keep track of the three largest elements as we",
+        "start": 341.92,
+        "end": 346.08
+    },
+    {
+        "text": "loop through this array. Since inserting and popping elements in a heap takes logarithmic time,",
+        "start": 346.08,
+        "end": 350.16
+    },
+    {
+        "text": "it reduces the time complexity from O of n log n to O of n log k. Start by putting the first three",
+        "start": 350.16,
+        "end": 355.04
+    },
+    {
+        "text": "elements into a min heap. After that, for every element, we compare it with the top heap element.",
+        "start": 355.04,
+        "end": 359.44
+    },
+    {
+        "text": "If the current array element is greater, pop the top element from the heap and push the new element.",
+        "start": 359.44,
+        "end": 364.0
+    },
+    {
+        "text": "At the end, the heap will contain three largest elements. If the problem asks you to find k",
+        "start": 364.0,
+        "end": 368.56
+    },
+    {
+        "text": "largest element, use a min heap. But for k smallest problems, use a max heap.",
+        "start": 368.56,
+        "end": 372.48
+    },
+    {
+        "text": "There is another algorithm called quick select that can solve top k elements problems with an",
+        "start": 372.48,
+        "end": 376.56
+    },
+    {
+        "text": "average time complexity of O of n. But it's more complex. I will cover it in a future video.",
+        "start": 376.56,
+        "end": 380.88
+    },
+    {
+        "text": "If you'd like me to make detailed videos on each of these patterns and cover multiple examples,",
+        "start": 380.88,
+        "end": 385.36
+    },
+    {
+        "text": "let me know in the comments. And make sure to subscribe so that you don't miss my new videos.",
+        "start": 385.36,
+        "end": 389.44
+    },
+    {
+        "text": "Here are some problems to practice the top k elements pattern.",
+        "start": 389.44,
+        "end": 392.0
+    },
+    {
+        "text": "Next is the overlapping intervals pattern. This pattern is useful for problems involving",
+        "start": 392.0,
+        "end": 396.32
+    },
+    {
+        "text": "intervals or ranges that may overlap. Here are a few problem types where you can apply this pattern.",
+        "start": 396.32,
+        "end": 400.88
+    },
+    {
+        "text": "Merging intervals. Given a collection of intervals, merge all overlapping intervals into one.",
+        "start": 400.88,
+        "end": 405.28
+    },
+    {
+        "text": "Interval intersection. Find the intersection between two sets of intervals.",
+        "start": 405.28,
+        "end": 408.72
+    },
+    {
+        "text": "Insert interval. Add a new interval to a list of non-overlapping intervals.",
+        "start": 408.72,
+        "end": 412.32
+    },
+    {
+        "text": "And problems like finding the minimum number of meeting rooms needed for overlapping meeting",
+        "start": 412.32,
+        "end": 416.32
+    },
+    {
+        "text": "times. Let's understand one of the examples where you are given a list of intervals,",
+        "start": 416.32,
+        "end": 419.84
+    },
+    {
+        "text": "and you need to merge all overlapping intervals. Here is an approach to solve this problem.",
+        "start": 419.84,
+        "end": 423.84
+    },
+    {
+        "text": "Start by sorting the intervals by their start time. Create an empty list called merged to",
+        "start": 423.84,
+        "end": 428.0
+    },
+    {
+        "text": "store the merged intervals. Iterate through the intervals and check if it overlaps with",
+        "start": 428.0,
+        "end": 432.24
+    },
+    {
+        "text": "the last interval in the merged list. If it overlaps, merge the intervals by updating",
+        "start": 432.24,
+        "end": 435.92
+    },
+    {
+        "text": "the end time of the last interval in merged. If it doesn't overlap, add the current interval",
+        "start": 435.92,
+        "end": 440.0
+    },
+    {
+        "text": "to the merged list. To get better at this pattern, try solving these Leetcode problems.",
+        "start": 440.0,
+        "end": 443.52
+    },
+    {
+        "text": "Next is Modifies binary search pattern. Modifies binary search pattern is a variant",
+        "start": 443.52,
+        "end": 447.84
+    },
+    {
+        "text": "of the standard binary search algorithm used to solve problems where the array isn't perfectly",
+        "start": 447.84,
+        "end": 451.76
+    },
+    {
+        "text": "sorted. Like searching in a nearly sorted array, searching in a rotated sorted array,",
+        "start": 451.76,
+        "end": 455.6
+    },
+    {
+        "text": "searching in a list with unknown length, searching in an array with duplicates,",
+        "start": 455.6,
+        "end": 458.96
+    },
+    {
+        "text": "finding the first or last occurrence of an element, finding the square root of a number,",
+        "start": 458.96,
+        "end": 462.88
+    },
+    {
+        "text": "or finding a peak element. For example, if we are given a rotated sorted array,",
+        "start": 462.96,
+        "end": 466.8
+    },
+    {
+        "text": "and we need to search for an element, we can perform binary search with an additional check",
+        "start": 466.8,
+        "end": 470.72
+    },
+    {
+        "text": "to determine which half of the array is sorted. We then check if the target is within the range",
+        "start": 470.72,
+        "end": 474.88
+    },
+    {
+        "text": "of the sorted half. If it isn't, we search that half. Otherwise, we search the other half.",
+        "start": 474.88,
+        "end": 478.8
+    },
+    {
+        "text": "Here are some problems to practice this approach.",
+        "start": 478.8,
+        "end": 480.88
+    },
+    {
+        "text": "Next pattern is Binary tree traversal. Binary trees are all about traversing it in a specific",
+        "start": 480.88,
+        "end": 485.68
+    },
+    {
+        "text": "order. The four popular ways to traverse the binary tree are pre-order, in-order,",
+        "start": 485.68,
+        "end": 489.6
+    },
+    {
+        "text": "post-order, and level-order. Implementing pre-order, in-order,",
+        "start": 489.6,
+        "end": 492.64
+    },
+    {
+        "text": "and post-order traversal algorithms in code is pretty easy if you use recursion,",
+        "start": 492.64,
+        "end": 496.4
+    },
+    {
+        "text": "but the iterative version is a bit more complex and requires using stacked data structure.",
+        "start": 496.4,
+        "end": 500.4
+    },
+    {
+        "text": "Level-order traversal is useful when you want to explore the nodes level by level,",
+        "start": 500.4,
+        "end": 504.08
+    },
+    {
+        "text": "starting from the root node. It is easily implemented using a queue data structure.",
+        "start": 504.08,
+        "end": 507.68
+    },
+    {
+        "text": "Whenever you are given a tree problem, think about which traversal order fits the best.",
+        "start": 507.68,
+        "end": 511.92
+    },
+    {
+        "text": "For example, to retrieve the values of a binary search tree in sorted order,",
+        "start": 511.92,
+        "end": 515.2
+    },
+    {
+        "text": "use in-order traversal. To create a copy of the tree and the problems involving tree serialization,",
+        "start": 515.2,
+        "end": 520.08
+    },
+    {
+        "text": "use pre-order traversal. When you want to process child nodes before the parent,",
+        "start": 520.08,
+        "end": 523.84
+    },
+    {
+        "text": "like when deleting a tree, use post-order traversal. And when you need to explore",
+        "start": 523.84,
+        "end": 527.36
+    },
+    {
+        "text": "all nodes at the current level before moving on to the next, use level-order traversal.",
+        "start": 527.36,
+        "end": 530.96
+    },
+    {
+        "text": "Here are the problems you can solve to learn these traversal algorithms.",
+        "start": 530.96,
+        "end": 534.32
+    },
+    {
+        "text": "Next one is Depth-first search or DFS. It is used to explore all paths or branches",
+        "start": 534.32,
+        "end": 539.2
+    },
+    {
+        "text": "in graphs or trees to solve problems like finding a path between two nodes,",
+        "start": 539.2,
+        "end": 542.96
+    },
+    {
+        "text": "checking if a graph contains a cycle, finding the topological order in a directed acyclic graph,",
+        "start": 542.96,
+        "end": 547.44
+    },
+    {
+        "text": "and counting the number of connected components in a graph. DFS can be implemented recursively",
+        "start": 547.44,
+        "end": 551.6
+    },
+    {
+        "text": "or iteratively using a stack. Here is a generic approach to solve DFS-related problems.",
+        "start": 551.6,
+        "end": 556.16
+    },
+    {
+        "text": "Choose a starting point, keep track of visited nodes to avoid cycles,",
+        "start": 556.16,
+        "end": 560.0
+    },
+    {
+        "text": "perform the required operation on the current node, explore unvisited neighbors,",
+        "start": 560.0,
+        "end": 563.92
+    },
+    {
+        "text": "continue until all required nodes are visited. Here are some leetcode problems you can practice",
+        "start": 563.92,
+        "end": 567.92
+    },
+    {
+        "text": "to learn this pattern. Next pattern is a related one called",
+        "start": 567.92,
+        "end": 570.8
+    },
+    {
+        "text": "Depth-first search or BFS. BFS is a traversal technique that explores nodes level-by-level",
+        "start": 570.8,
+        "end": 575.36
+    },
+    {
+        "text": "in a tree or graph. It is very useful for problems like finding the shortest path between two nodes",
+        "start": 575.36,
+        "end": 580.16
+    },
+    {
+        "text": "in an unweighted graph, printing all nodes of a tree level-by-level, finding all connected",
+        "start": 580.16,
+        "end": 584.4
+    },
+    {
+        "text": "components in a graph, finding the shortest transformation sequence from one word to",
+        "start": 584.4,
+        "end": 588.72
+    },
+    {
+        "text": "another. To implement BFS, we can use a queue. Here is a generic approach to solve BFS problems.",
+        "start": 588.72,
+        "end": 593.84
+    },
+    {
+        "text": "Add the starting node to the queue, set up a visited set or array to track processed nodes,",
+        "start": 593.84,
+        "end": 598.24
+    },
+    {
+        "text": "continue while the queue is not empty, dequeue a node and process it, enqueue unvisited neighbors,",
+        "start": 598.24,
+        "end": 603.28
+    },
+    {
+        "text": "add processed nodes to the visited set, continue until the queue is empty. Here are some leetcode",
+        "start": 603.28,
+        "end": 607.6
+    },
+    {
+        "text": "problems you can practice using this approach. Next up is the matrix traversal pattern. Most",
+        "start": 607.6,
+        "end": 612.16
+    },
+    {
+        "text": "matrix traversal problems can be seen as graph problems. In a graph, you have nodes and edges.",
+        "start": 612.16,
+        "end": 616.8
+    },
+    {
+        "text": "In a matrix, it is usually a 2D array where nodes are the cells from where you can reach",
+        "start": 616.8,
+        "end": 621.12
+    },
+    {
+        "text": "two adjacent cells horizontally, vertically, or diagonally, depending on the problem.",
+        "start": 621.12,
+        "end": 624.88
+    },
+    {
+        "text": "The best part is you can use most of the graph algorithms like DFS and BFS to solve matrix-related",
+        "start": 624.88,
+        "end": 629.84
+    },
+    {
+        "text": "problems like finding the shortest path in a grid. Let's understand this pattern using the",
+        "start": 629.84,
+        "end": 633.84
+    },
+    {
+        "text": "island count problem. You are given a 2D binary grid where 1 is land and 0 is water. You need",
+        "start": 633.84,
+        "end": 638.56
+    },
+    {
+        "text": "to return the number of islands. An island is formed by connecting adjacent lands horizontally",
+        "start": 638.56,
+        "end": 643.04
+    },
+    {
+        "text": "or vertically. We can either use DFS or BFS to solve this problem. Let's use DFS for this one.",
+        "start": 643.04,
+        "end": 647.68
+    },
+    {
+        "text": "Here is the general idea. Iterate through each cell in the grid. If we find a land cell,",
+        "start": 647.68,
+        "end": 651.6
+    },
+    {
+        "text": "we have found a new island. Explore this island using DFS, marking all connected land cells as",
+        "start": 651.6,
+        "end": 656.48
+    },
+    {
+        "text": "visited. Increment our island count. Continue until we have checked all cells. Here are the",
+        "start": 656.48,
+        "end": 660.64
+    },
+    {
+        "text": "liquid problems you can practice using this approach. Next pattern is backtracking.",
+        "start": 660.64,
+        "end": 664.56
+    },
+    {
+        "text": "Backtracking is a powerful technique used to solve problems that involve exploring all potential",
+        "start": 664.56,
+        "end": 668.96
+    },
+    {
+        "text": "solution paths and backtracking the paths that do not lead to a valid solution. Some of the",
+        "start": 668.96,
+        "end": 673.6
+    },
+    {
+        "text": "problems you can solve using this approach are generate all possible permutations or combinations",
+        "start": 673.6,
+        "end": 678.0
+    },
+    {
+        "text": "of a given set of elements. Solve puzzles like sudoku or end queen problem. Find all possible",
+        "start": 678.0,
+        "end": 683.2
+    },
+    {
+        "text": "paths from a start point to an end point in a graph or a mesh. Generate all valid parentheses",
+        "start": 683.2,
+        "end": 688.08
+    },
+    {
+        "text": "of a given length. Let's say you are given an array of integers and you need to generate all",
+        "start": 688.08,
+        "end": 691.52
+    },
+    {
+        "text": "possible subsets. We can use backtracking approach to solve this problem. We start with an empty",
+        "start": 691.52,
+        "end": 695.76
+    },
+    {
+        "text": "subset and index 0. For each element, we have two choices, include it or not. After making a choice,",
+        "start": 695.76,
+        "end": 701.04
+    },
+    {
+        "text": "we recurse to the next element. Once we have considered all elements, we backtrack to explore",
+        "start": 701.04,
+        "end": 705.68
+    },
+    {
+        "text": "other possibilities. To get better at backtracking, you can practice these problems. And lastly,",
+        "start": 705.68,
+        "end": 710.48
+    },
+    {
+        "text": "dynamic programming also called DP. DP is a powerful technique used for solving optimization",
+        "start": 710.48,
+        "end": 715.28
+    },
+    {
+        "text": "problems by breaking them down into smaller subproblems and storing their solutions to",
+        "start": 715.28,
+        "end": 719.52
+    },
+    {
+        "text": "avoid repetitive work. It is particularly useful for problems with overlapping subproblems and",
+        "start": 719.52,
+        "end": 724.16
+    },
+    {
+        "text": "optimal substructure properties like problems where you need to maximize or minimize a certain",
+        "start": 724.16,
+        "end": 728.24
+    },
+    {
+        "text": "value and counting problems where you need to count the number of ways to achieve a certain goal.",
+        "start": 728.24,
+        "end": 732.4
+    },
+    {
+        "text": "Dynamic programming is a big and challenging topic for coding interviews, but learning common",
+        "start": 732.4,
+        "end": 736.08
+    },
+    {
+        "text": "patterns can make it a lot easier. Here are some of the common DP patterns you should know about,",
+        "start": 736.08,
+        "end": 740.08
+    },
+    {
+        "text": "say, binarchy numbers, 0-1 knapsack, longest common subsequence, longest increasing subsequence,",
+        "start": 740.08,
+        "end": 745.44
+    },
+    {
+        "text": "subset sum, and matrix chain multiplication. And these are the Leetcode problems you can solve",
+        "start": 745.44,
+        "end": 749.76
+    },
+    {
+        "text": "to learn these patterns. If you want to learn more about DP patterns, check out my recent blog",
+        "start": 749.76,
+        "end": 753.68
+    },
+    {
+        "text": "article where I talk about 20 dynamic programming patterns and include links to Leetcode problems",
+        "start": 753.68,
+        "end": 758.08
+    },
+    {
+        "text": "for each pattern. Links are in the description. You can also find links to other patterns and",
+        "start": 758.08,
+        "end": 762.0
+    },
+    {
+        "text": "Leetcode questions that I mentioned in this video in the description. You can subscribe",
+        "start": 762.08,
+        "end": 765.84
+    },
+    {
+        "text": "my blog at blog.algomaster.io where I post twice a week about topics related to coding,",
+        "start": 765.84,
+        "end": 770.48
+    },
+    {
+        "text": "DSA, system design, and interview. If you want to know what else is required to master DSA apart",
+        "start": 770.48,
+        "end": 774.64
+    },
+    {
+        "text": "from learning patterns, do check out this video. See you there.",
+        "start": 774.64,
+        "end": 779.52
+    }
+]

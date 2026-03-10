@@ -1,0 +1,25 @@
+# Environments
+.env
+venv/
+.venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Ignore vector DB storage if you don't want to commit large database files
+# vector_db/
+
+# Ignore generated data if you only want to version control the scripts
+# chunks/
+# overlap_chunks/
+# transcript/
+# data/

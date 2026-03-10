@@ -1,0 +1,1312 @@
+[
+    {
+        "text": "Hi everyone, do you know which are the highest paying engineers in the world?",
+        "start": 0.0,
+        "end": 4.0
+    },
+    {
+        "text": "Not backend engineers, not cloud engineers, not database engineers.",
+        "start": 4.0,
+        "end": 9.0
+    },
+    {
+        "text": "The highest paying engineers in the world are Quants engineers.",
+        "start": 9.0,
+        "end": 13.0
+    },
+    {
+        "text": "Those engineers who are behind the stock market and stock trades",
+        "start": 13.0,
+        "end": 17.0
+    },
+    {
+        "text": "and earn millions of dollars in microseconds.",
+        "start": 17.0,
+        "end": 20.0
+    },
+    {
+        "text": "These engineers mix maths, programming, and finance and build algorithms",
+        "start": 20.0,
+        "end": 25.0
+    },
+    {
+        "text": "that can literally print money for hedge funds and high frequency trading firms.",
+        "start": 25.0,
+        "end": 29.0
+    },
+    {
+        "text": "If we talk about the salary of a Quants engineer in India,",
+        "start": 29.0,
+        "end": 32.0
+    },
+    {
+        "text": "then if there is a fresher who has just graduated,",
+        "start": 32.0,
+        "end": 35.0
+    },
+    {
+        "text": "his salary can be around 40 lakhs to 60 lakhs per annum.",
+        "start": 35.0,
+        "end": 38.0
+    },
+    {
+        "text": "And if there is an experienced professional in this field,",
+        "start": 38.0,
+        "end": 41.0
+    },
+    {
+        "text": "then his salary can go up to 2 crore plus per annum. Amazing, right?",
+        "start": 41.0,
+        "end": 46.0
+    },
+    {
+        "text": "And Quants engineers' dream companies are not FANG or MANG.",
+        "start": 46.0,
+        "end": 49.0
+    },
+    {
+        "text": "Their dream companies are Jane Street, Citadel, Tower Research, Jump Trading, etc.",
+        "start": 49.0,
+        "end": 55.0
+    },
+    {
+        "text": "Where with the help of maths, data, and algorithms,",
+        "start": 55.0,
+        "end": 58.0
+    },
+    {
+        "text": "a lot of interesting problems are being solved.",
+        "start": 58.0,
+        "end": 60.0
+    },
+    {
+        "text": "And the best thing is that to become a Quants engineer,",
+        "start": 60.0,
+        "end": 63.0
+    },
+    {
+        "text": "you don't need any finance degree.",
+        "start": 63.0,
+        "end": 65.0
+    },
+    {
+        "text": "And that's why in today's video, I will tell you",
+        "start": 65.0,
+        "end": 67.0
+    },
+    {
+        "text": "how you can become a Quants engineer from scratch.",
+        "start": 67.0,
+        "end": 71.0
+    },
+    {
+        "text": "And finally, how you can secure a good job and placement in this role.",
+        "start": 71.0,
+        "end": 76.0
+    },
+    {
+        "text": "In today's video, we will discuss everything.",
+        "start": 76.0,
+        "end": 78.0
+    },
+    {
+        "text": "About this role, what you will have to study in this role,",
+        "start": 78.0,
+        "end": 81.0
+    },
+    {
+        "text": "where you will study from, what will be the best resources,",
+        "start": 81.0,
+        "end": 84.0
+    },
+    {
+        "text": "where you will get job opportunities in this role,",
+        "start": 84.0,
+        "end": 86.0
+    },
+    {
+        "text": "how you will crack the interviews through those job opportunities,",
+        "start": 86.0,
+        "end": 90.0
+    },
+    {
+        "text": "we will discuss everything in detail.",
+        "start": 90.0,
+        "end": 92.0
+    },
+    {
+        "text": "And this is going to be a really informative video.",
+        "start": 92.0,
+        "end": 94.0
+    },
+    {
+        "text": "So without much wait, let's get started.",
+        "start": 94.0,
+        "end": 96.0
+    },
+    {
+        "text": "So first of all, let's know what a Quants engineer is.",
+        "start": 96.0,
+        "end": 98.0
+    },
+    {
+        "text": "A Quants engineer or quantitative developer is basically someone",
+        "start": 98.0,
+        "end": 102.0
+    },
+    {
+        "text": "who builds mathematical models and trading algorithms",
+        "start": 102.0,
+        "end": 105.0
+    },
+    {
+        "text": "for investment banks, trading firms, hedge funds, etc.",
+        "start": 105.0,
+        "end": 109.0
+    },
+    {
+        "text": "where data-driven trading decisions are taken.",
+        "start": 109.0,
+        "end": 111.0
+    },
+    {
+        "text": "Basically, this field of engineering is a mixture of software engineering,",
+        "start": 111.0,
+        "end": 115.0
+    },
+    {
+        "text": "mathematics, and statistics.",
+        "start": 115.0,
+        "end": 117.0
+    },
+    {
+        "text": "And in this field, you can expect tasks like",
+        "start": 117.0,
+        "end": 119.0
+    },
+    {
+        "text": "writing algorithms that run in microseconds based on market data,",
+        "start": 119.0,
+        "end": 123.0
+    },
+    {
+        "text": "optimizing execution speed,",
+        "start": 123.0,
+        "end": 125.0
+    },
+    {
+        "text": "backtesting strategies on massive data sets,",
+        "start": 125.0,
+        "end": 127.0
+    },
+    {
+        "text": "implementing risk models, etc.",
+        "start": 127.0,
+        "end": 129.0
+    },
+    {
+        "text": "Basically, these engineers mix maths, code, and finance",
+        "start": 129.0,
+        "end": 133.0
+    },
+    {
+        "text": "to make money faster than anyone.",
+        "start": 133.0,
+        "end": 135.0
+    },
+    {
+        "text": "And if you are wondering why Quants engineers are so highly paid,",
+        "start": 135.0,
+        "end": 139.0
+    },
+    {
+        "text": "then the simple reason is that they directly affect profit.",
+        "start": 139.0,
+        "end": 143.0
+    },
+    {
+        "text": "A better trading algorithm that runs faster",
+        "start": 143.0,
+        "end": 145.0
+    },
+    {
+        "text": "gives millions of dollars to a particular trading firm.",
+        "start": 145.0,
+        "end": 149.0
+    },
+    {
+        "text": "And because this trading algorithm is developed by Quants engineers,",
+        "start": 149.0,
+        "end": 152.0
+    },
+    {
+        "text": "that's why their salaries are so high.",
+        "start": 152.0,
+        "end": 154.0
+    },
+    {
+        "text": "Very few people have combined expertise in maths, finance, and programming.",
+        "start": 154.0,
+        "end": 160.0
+    },
+    {
+        "text": "So that's why competition is very tough for this role.",
+        "start": 160.0,
+        "end": 162.0
+    },
+    {
+        "text": "But equally, its rewards are very massive and lucrative.",
+        "start": 162.0,
+        "end": 165.0
+    },
+    {
+        "text": "Companies like Jane Street, Citadel, Tower Research, etc.",
+        "start": 165.0,
+        "end": 169.0
+    },
+    {
+        "text": "which I talked about in the beginning,",
+        "start": 169.0,
+        "end": 171.0
+    },
+    {
+        "text": "they give packages to freshers in India of around 60-80 lakhs per annum.",
+        "start": 171.0,
+        "end": 175.0
+    },
+    {
+        "text": "And globally, their packages range around $250,000+.",
+        "start": 175.0,
+        "end": 179.0
+    },
+    {
+        "text": "And if you become a Quants engineer,",
+        "start": 179.0,
+        "end": 181.0
+    },
+    {
+        "text": "then along with amazing packages and perks,",
+        "start": 181.0,
+        "end": 184.0
+    },
+    {
+        "text": "you get a chance to work on very interesting and intellectual problems.",
+        "start": 184.0,
+        "end": 187.0
+    },
+    {
+        "text": "You solve optimization problems,",
+        "start": 187.0,
+        "end": 189.0
+    },
+    {
+        "text": "analyze market behavior, make models on it,",
+        "start": 189.0,
+        "end": 192.0
+    },
+    {
+        "text": "write code that runs in microseconds and nanoseconds,",
+        "start": 192.0,
+        "end": 195.0
+    },
+    {
+        "text": "and you also get a chance to work with the world's smartest minds.",
+        "start": 195.0,
+        "end": 199.0
+    },
+    {
+        "text": "Amazing, right?",
+        "start": 199.0,
+        "end": 200.0
+    },
+    {
+        "text": "So if all these things excite you,",
+        "start": 200.0,
+        "end": 202.0
+    },
+    {
+        "text": "if all these things seem interesting to you,",
+        "start": 202.0,
+        "end": 204.0
+    },
+    {
+        "text": "then this is the perfect role for you.",
+        "start": 204.0,
+        "end": 206.0
+    },
+    {
+        "text": "And now let's discuss how to become a Quants engineer.",
+        "start": 206.0,
+        "end": 209.0
+    },
+    {
+        "text": "So the first step to becoming a Quants engineer is",
+        "start": 209.0,
+        "end": 211.0
+    },
+    {
+        "text": "to learn a programming language.",
+        "start": 211.0,
+        "end": 213.0
+    },
+    {
+        "text": "You have to master a particular programming language.",
+        "start": 213.0,
+        "end": 215.0
+    },
+    {
+        "text": "And the best and preferred programming language to become a Quants engineer",
+        "start": 215.0,
+        "end": 219.0
+    },
+    {
+        "text": "is C++.",
+        "start": 219.0,
+        "end": 221.0
+    },
+    {
+        "text": "Because it's the fastest.",
+        "start": 221.0,
+        "end": 222.0
+    },
+    {
+        "text": "C++ language is closely connected to the compiler.",
+        "start": 222.0,
+        "end": 225.0
+    },
+    {
+        "text": "And that's why its execution speed is very fast.",
+        "start": 225.0,
+        "end": 228.0
+    },
+    {
+        "text": "And that's why all the high-frequency trading firms,",
+        "start": 228.0,
+        "end": 231.0
+    },
+    {
+        "text": "investment banks, hedge funds,",
+        "start": 231.0,
+        "end": 233.0
+    },
+    {
+        "text": "to build algorithms in all of them,",
+        "start": 233.0,
+        "end": 235.0
+    },
+    {
+        "text": "this language is used.",
+        "start": 235.0,
+        "end": 237.0
+    },
+    {
+        "text": "So you should learn C++.",
+        "start": 237.0,
+        "end": 239.0
+    },
+    {
+        "text": "And the best resource to learn this language is C++ Primer Book.",
+        "start": 239.0,
+        "end": 243.0
+    },
+    {
+        "text": "This is a very good book.",
+        "start": 243.0,
+        "end": 244.0
+    },
+    {
+        "text": "And in this, your C++ concepts will be very clear.",
+        "start": 244.0,
+        "end": 247.0
+    },
+    {
+        "text": "So you can definitely check it out.",
+        "start": 247.0,
+        "end": 249.0
+    },
+    {
+        "text": "Then the second step is to master Maths and Probability.",
+        "start": 249.0,
+        "end": 252.0
+    },
+    {
+        "text": "This is the step where more than 80% of the people struggle.",
+        "start": 252.0,
+        "end": 256.0
+    },
+    {
+        "text": "Because solving the concepts of Maths and Probability becomes very difficult.",
+        "start": 256.0,
+        "end": 259.0
+    },
+    {
+        "text": "But you have to pay a lot of attention to this step.",
+        "start": 259.0,
+        "end": 261.0
+    },
+    {
+        "text": "And these particular 5 concepts should be absolutely clear to you.",
+        "start": 261.0,
+        "end": 264.0
+    },
+    {
+        "text": "And those are Probability, Statistics, Calculus, Optimization, and Linear Algebra.",
+        "start": 264.0,
+        "end": 269.0
+    },
+    {
+        "text": "Okay?",
+        "start": 269.0,
+        "end": 270.0
+    },
+    {
+        "text": "And the best resources to master these topics are",
+        "start": 270.0,
+        "end": 273.0
+    },
+    {
+        "text": "first one is Khan Academy,",
+        "start": 273.0,
+        "end": 275.0
+    },
+    {
+        "text": "which is a YouTube channel.",
+        "start": 275.0,
+        "end": 276.0
+    },
+    {
+        "text": "And it is the best resource to clear your basic concepts.",
+        "start": 276.0,
+        "end": 279.0
+    },
+    {
+        "text": "Then the second one is MIT Open Course.",
+        "start": 279.0,
+        "end": 282.0
+    },
+    {
+        "text": "MIT, which is the world's top engineering university,",
+        "start": 282.0,
+        "end": 285.0
+    },
+    {
+        "text": "has a course by the name of Introduction to Probability.",
+        "start": 285.0,
+        "end": 288.0
+    },
+    {
+        "text": "You can definitely check it out.",
+        "start": 288.0,
+        "end": 289.0
+    },
+    {
+        "text": "And finally, there is an amazing book called",
+        "start": 289.0,
+        "end": 291.0
+    },
+    {
+        "text": "Introduction to Probability by Blitzstein and Huang.",
+        "start": 291.0,
+        "end": 294.0
+    },
+    {
+        "text": "And you can definitely check out this book.",
+        "start": 294.0,
+        "end": 296.0
+    },
+    {
+        "text": "And with the help of all these resources,",
+        "start": 296.0,
+        "end": 298.0
+    },
+    {
+        "text": "you can clearly clear your concepts of Maths and Probability.",
+        "start": 298.0,
+        "end": 301.0
+    },
+    {
+        "text": "Now the next step is to understand Finance and Trading Concepts.",
+        "start": 301.0,
+        "end": 304.0
+    },
+    {
+        "text": "Now because you want to become a Quants Engineer,",
+        "start": 304.0,
+        "end": 306.0
+    },
+    {
+        "text": "you should have some knowledge of Quants.",
+        "start": 306.0,
+        "end": 308.0
+    },
+    {
+        "text": "So you should know the basics of Finance and Trading.",
+        "start": 308.0,
+        "end": 312.0
+    },
+    {
+        "text": "You don't need to be an expert.",
+        "start": 312.0,
+        "end": 313.0
+    },
+    {
+        "text": "But yes, you should definitely have basic knowledge.",
+        "start": 313.0,
+        "end": 315.0
+    },
+    {
+        "text": "So you should know about Stocks, Options, Futures, etc.",
+        "start": 315.0,
+        "end": 319.0
+    },
+    {
+        "text": "You should know about Market Microstructure,",
+        "start": 319.0,
+        "end": 322.0
+    },
+    {
+        "text": "what is Arbitrage,",
+        "start": 322.0,
+        "end": 324.0
+    },
+    {
+        "text": "how are Trades executed, etc.",
+        "start": 324.0,
+        "end": 326.0
+    },
+    {
+        "text": "To master all these things,",
+        "start": 326.0,
+        "end": 328.0
+    },
+    {
+        "text": "you can refer a YouTube channel by the name of Aswath Damodaran.",
+        "start": 328.0,
+        "end": 332.0
+    },
+    {
+        "text": "It has a lot of good Finance lectures.",
+        "start": 332.0,
+        "end": 334.0
+    },
+    {
+        "text": "And it will help you to improve your knowledge of Finance.",
+        "start": 334.0,
+        "end": 337.0
+    },
+    {
+        "text": "And along with this, there is a book by the name of",
+        "start": 337.0,
+        "end": 340.0
+    },
+    {
+        "text": "Options, Futures, and Other Derivatives by John C. Hull.",
+        "start": 340.0,
+        "end": 343.0
+    },
+    {
+        "text": "You can also refer this book to improve your knowledge of Finance.",
+        "start": 343.0,
+        "end": 347.0
+    },
+    {
+        "text": "Then comes the next step which is actually the most important step.",
+        "start": 347.0,
+        "end": 351.0
+    },
+    {
+        "text": "And that is Data Analysis and Machine Learning.",
+        "start": 351.0,
+        "end": 354.0
+    },
+    {
+        "text": "Quants Engineers also use different Machine Learning models",
+        "start": 354.0,
+        "end": 357.0
+    },
+    {
+        "text": "to analyze data, detect trading patterns, etc.",
+        "start": 357.0,
+        "end": 360.0
+    },
+    {
+        "text": "And on their basis, they make different algorithms",
+        "start": 360.0,
+        "end": 363.0
+    },
+    {
+        "text": "with which they can actually make a profit.",
+        "start": 363.0,
+        "end": 366.0
+    },
+    {
+        "text": "So that's why you should also know about",
+        "start": 366.0,
+        "end": 368.0
+    },
+    {
+        "text": "Data Analysis, Machine Learning, Regression, Time Series Forecasting, etc.",
+        "start": 368.0,
+        "end": 373.0
+    },
+    {
+        "text": "And the best resources to master these are",
+        "start": 373.0,
+        "end": 375.0
+    },
+    {
+        "text": "Fast.ai and Course Era's Machine Learning course by Andrew.",
+        "start": 375.0,
+        "end": 380.0
+    },
+    {
+        "text": "And along with this, there is a book",
+        "start": 380.0,
+        "end": 382.0
+    },
+    {
+        "text": "on Hands-on Machine Learning by Aureline Geron.",
+        "start": 382.0,
+        "end": 385.0
+    },
+    {
+        "text": "You can definitely check it out.",
+        "start": 385.0,
+        "end": 386.0
+    },
+    {
+        "text": "Now the next step is Problem Solving and Comparative Programming.",
+        "start": 386.0,
+        "end": 390.0
+    },
+    {
+        "text": "All the quant firms definitely check your problem-solving skills",
+        "start": 390.0,
+        "end": 393.0
+    },
+    {
+        "text": "in their coding interviews.",
+        "start": 393.0,
+        "end": 395.0
+    },
+    {
+        "text": "And along with this, when you actually go to a quant firm",
+        "start": 395.0,
+        "end": 398.0
+    },
+    {
+        "text": "and work on your development,",
+        "start": 398.0,
+        "end": 400.0
+    },
+    {
+        "text": "you will definitely need your problem-solving skills.",
+        "start": 400.0,
+        "end": 403.0
+    },
+    {
+        "text": "That's why you should master your DSA skills.",
+        "start": 403.0,
+        "end": 406.0
+    },
+    {
+        "text": "I have made a video on how to master DSA.",
+        "start": 406.0,
+        "end": 409.0
+    },
+    {
+        "text": "You can check it out. I will attach the link above.",
+        "start": 409.0,
+        "end": 412.0
+    },
+    {
+        "text": "Along with this, if you want to know which platforms you should prefer,",
+        "start": 412.0,
+        "end": 415.0
+    },
+    {
+        "text": "then you can start with LeetCode.",
+        "start": 415.0,
+        "end": 417.0
+    },
+    {
+        "text": "You can go to LeetCode and solve different problems.",
+        "start": 417.0,
+        "end": 419.0
+    },
+    {
+        "text": "You can give contests there.",
+        "start": 419.0,
+        "end": 421.0
+    },
+    {
+        "text": "There are weekly and bi-weekly contests.",
+        "start": 421.0,
+        "end": 423.0
+    },
+    {
+        "text": "You can give them.",
+        "start": 423.0,
+        "end": 424.0
+    },
+    {
+        "text": "This will give you the basic knowledge of DSA.",
+        "start": 424.0,
+        "end": 426.0
+    },
+    {
+        "text": "And when you do all these things",
+        "start": 426.0,
+        "end": 428.0
+    },
+    {
+        "text": "and become comfortable solving problems on the platform of LeetCode,",
+        "start": 428.0,
+        "end": 431.0
+    },
+    {
+        "text": "then you should move towards Comparative Programming in the next step.",
+        "start": 431.0,
+        "end": 434.0
+    },
+    {
+        "text": "Because for this particular role, to become a quant engineer,",
+        "start": 434.0,
+        "end": 437.0
+    },
+    {
+        "text": "you should also know Comparative Programming.",
+        "start": 437.0,
+        "end": 439.0
+    },
+    {
+        "text": "Your problem-solving skills should be the best.",
+        "start": 439.0,
+        "end": 441.0
+    },
+    {
+        "text": "And the best resources to master Comparative Programming",
+        "start": 441.0,
+        "end": 444.0
+    },
+    {
+        "text": "are CodeForces, CodeChef, and AdCode.",
+        "start": 444.0,
+        "end": 448.0
+    },
+    {
+        "text": "You can check out all these three platforms",
+        "start": 448.0,
+        "end": 450.0
+    },
+    {
+        "text": "and start your journey of Comparative Programming.",
+        "start": 450.0,
+        "end": 453.0
+    },
+    {
+        "text": "And finally, you can implement some small projects related to Quant",
+        "start": 453.0,
+        "end": 457.0
+    },
+    {
+        "text": "which will give you hands-on experience",
+        "start": 457.0,
+        "end": 459.0
+    },
+    {
+        "text": "and you will also understand what type of development is there in Quant.",
+        "start": 459.0,
+        "end": 463.0
+    },
+    {
+        "text": "Some sample projects that you can implement are",
+        "start": 463.0,
+        "end": 466.0
+    },
+    {
+        "text": "back-testing simple trading strategies,",
+        "start": 466.0,
+        "end": 468.0
+    },
+    {
+        "text": "simulating order books,",
+        "start": 468.0,
+        "end": 469.0
+    },
+    {
+        "text": "predicting stock movements using regression, etc.",
+        "start": 469.0,
+        "end": 472.0
+    },
+    {
+        "text": "And similarly, there are many other projects related to Quant",
+        "start": 472.0,
+        "end": 474.0
+    },
+    {
+        "text": "which you can implement.",
+        "start": 474.0,
+        "end": 476.0
+    },
+    {
+        "text": "And you won't be able to make these projects only with the help of C++.",
+        "start": 476.0,
+        "end": 479.0
+    },
+    {
+        "text": "You will also need Python, SQL, etc.",
+        "start": 479.0,
+        "end": 483.0
+    },
+    {
+        "text": "So you can check out all these and explore them.",
+        "start": 483.0,
+        "end": 486.0
+    },
+    {
+        "text": "So these were all the different steps and resources",
+        "start": 486.0,
+        "end": 489.0
+    },
+    {
+        "text": "with which you can become a Quant engineer.",
+        "start": 489.0,
+        "end": 491.0
+    },
+    {
+        "text": "And now we know that for the roles of Quant engineers,",
+        "start": 491.0,
+        "end": 494.0
+    },
+    {
+        "text": "where you can find opportunities.",
+        "start": 494.0,
+        "end": 496.0
+    },
+    {
+        "text": "So I have already told you about the top companies in this role",
+        "start": 496.0,
+        "end": 499.0
+    },
+    {
+        "text": "like Jane Street, Tower Research, Citadel, etc.",
+        "start": 499.0,
+        "end": 502.0
+    },
+    {
+        "text": "Along with them, there are many other companies",
+        "start": 502.0,
+        "end": 504.0
+    },
+    {
+        "text": "whose names are mentioned on the screen right now.",
+        "start": 504.0,
+        "end": 506.0
+    },
+    {
+        "text": "You can check out the career site of all these companies",
+        "start": 506.0,
+        "end": 509.0
+    },
+    {
+        "text": "and can actively monitor them.",
+        "start": 509.0,
+        "end": 511.0
+    },
+    {
+        "text": "Then the best platforms to find different opportunities for this role are",
+        "start": 511.0,
+        "end": 515.0
+    },
+    {
+        "text": "First is LinkedIn Jobs.",
+        "start": 515.0,
+        "end": 516.0
+    },
+    {
+        "text": "You can add a filter in jobs by going to LinkedIn",
+        "start": 516.0,
+        "end": 519.0
+    },
+    {
+        "text": "for a Quant engineer.",
+        "start": 519.0,
+        "end": 520.0
+    },
+    {
+        "text": "And different jobs will be displayed there",
+        "start": 520.0,
+        "end": 522.0
+    },
+    {
+        "text": "which are hiring for a Quant store.",
+        "start": 522.0,
+        "end": 524.0
+    },
+    {
+        "text": "You can directly apply for them",
+        "start": 524.0,
+        "end": 526.0
+    },
+    {
+        "text": "or you can take a referral and apply.",
+        "start": 526.0,
+        "end": 527.0
+    },
+    {
+        "text": "Then the second platform is eFinancialCareers.com",
+        "start": 527.0,
+        "end": 530.0
+    },
+    {
+        "text": "This is a particular platform",
+        "start": 530.0,
+        "end": 531.0
+    },
+    {
+        "text": "where many financial related opportunities are displayed.",
+        "start": 531.0,
+        "end": 535.0
+    },
+    {
+        "text": "You can definitely check out this platform",
+        "start": 535.0,
+        "end": 537.0
+    },
+    {
+        "text": "if you want to be in a Quant store.",
+        "start": 537.0,
+        "end": 538.0
+    },
+    {
+        "text": "Then finally, the third platform is Kaggle.",
+        "start": 538.0,
+        "end": 541.0
+    },
+    {
+        "text": "There are many competitions on the Kaggle platform",
+        "start": 541.0,
+        "end": 543.0
+    },
+    {
+        "text": "and in these competitions,",
+        "start": 543.0,
+        "end": 545.0
+    },
+    {
+        "text": "Quant's role competitions are also included.",
+        "start": 545.0,
+        "end": 547.0
+    },
+    {
+        "text": "So you can go to these platforms",
+        "start": 547.0,
+        "end": 549.0
+    },
+    {
+        "text": "and register in Quant's role competitions.",
+        "start": 549.0,
+        "end": 552.0
+    },
+    {
+        "text": "If you perform well in this competition,",
+        "start": 552.0,
+        "end": 554.0
+    },
+    {
+        "text": "then you can get an internship opportunity in that particular Quant firm.",
+        "start": 554.0,
+        "end": 558.0
+    },
+    {
+        "text": "So this is also a very good platform",
+        "start": 558.0,
+        "end": 560.0
+    },
+    {
+        "text": "and you should definitely check it out.",
+        "start": 560.0,
+        "end": 561.0
+    },
+    {
+        "text": "Along with these platforms,",
+        "start": 561.0,
+        "end": 563.0
+    },
+    {
+        "text": "you can join different communities on Discord and Reddit",
+        "start": 563.0,
+        "end": 566.0
+    },
+    {
+        "text": "related to Quant.",
+        "start": 566.0,
+        "end": 567.0
+    },
+    {
+        "text": "And it will be very easy for you",
+        "start": 567.0,
+        "end": 568.0
+    },
+    {
+        "text": "to track a particular job opportunity in Quant store.",
+        "start": 568.0,
+        "end": 571.0
+    },
+    {
+        "text": "Okay, so these were some of the ways",
+        "start": 571.0,
+        "end": 573.0
+    },
+    {
+        "text": "by which you can grab different job opportunities in Quant.",
+        "start": 573.0,
+        "end": 576.0
+    },
+    {
+        "text": "And finally, if you get a chance to give Quant interviews,",
+        "start": 576.0,
+        "end": 580.0
+    },
+    {
+        "text": "then you should definitely know one thing",
+        "start": 580.0,
+        "end": 582.0
+    },
+    {
+        "text": "and that is that Quant interviews are tough",
+        "start": 582.0,
+        "end": 584.0
+    },
+    {
+        "text": "but they are actually very predictable.",
+        "start": 584.0,
+        "end": 586.0
+    },
+    {
+        "text": "In Quant interviews,",
+        "start": 586.0,
+        "end": 587.0
+    },
+    {
+        "text": "you will be tested on only three things.",
+        "start": 587.0,
+        "end": 589.0
+    },
+    {
+        "text": "Maths, Coding, and Finance.",
+        "start": 589.0,
+        "end": 591.0
+    },
+    {
+        "text": "In Maths, you will be asked about",
+        "start": 591.0,
+        "end": 593.0
+    },
+    {
+        "text": "Probability, Combitronics, Puzzles, etc.",
+        "start": 593.0,
+        "end": 596.0
+    },
+    {
+        "text": "In Coding, you will be asked about DSA.",
+        "start": 596.0,
+        "end": 598.0
+    },
+    {
+        "text": "And in Finance, you will be asked about logic-based questions.",
+        "start": 598.0,
+        "end": 601.0
+    },
+    {
+        "text": "For example,",
+        "start": 601.0,
+        "end": 602.0
+    },
+    {
+        "text": "Math related question can be",
+        "start": 602.0,
+        "end": 603.0
+    },
+    {
+        "text": "What is the expected number of coin tosses to get two heads?",
+        "start": 603.0,
+        "end": 606.0
+    },
+    {
+        "text": "Coding related question can be",
+        "start": 606.0,
+        "end": 608.0
+    },
+    {
+        "text": "Implement an order book in C++.",
+        "start": 608.0,
+        "end": 610.0
+    },
+    {
+        "text": "And Finance related question can be",
+        "start": 610.0,
+        "end": 612.0
+    },
+    {
+        "text": "Explain Risk Modeling, Volatility, etc.",
+        "start": 612.0,
+        "end": 615.0
+    },
+    {
+        "text": "So you have to prepare all these things",
+        "start": 615.0,
+        "end": 617.0
+    },
+    {
+        "text": "and the best resource to master them",
+        "start": 617.0,
+        "end": 619.0
+    },
+    {
+        "text": "that is a book called Hurt on the Street by Timothy Crack.",
+        "start": 619.0,
+        "end": 622.0
+    },
+    {
+        "text": "This is a very amazing book to prepare for Quant interviews.",
+        "start": 622.0,
+        "end": 625.0
+    },
+    {
+        "text": "And you can definitely check it out.",
+        "start": 625.0,
+        "end": 627.0
+    },
+    {
+        "text": "Then to master Coding,",
+        "start": 627.0,
+        "end": 628.0
+    },
+    {
+        "text": "you have to solve medium to hard level questions on LeetCode",
+        "start": 628.0,
+        "end": 632.0
+    },
+    {
+        "text": "and have to give different contests.",
+        "start": 632.0,
+        "end": 633.0
+    },
+    {
+        "text": "And finally, you can give mock interviews",
+        "start": 633.0,
+        "end": 636.0
+    },
+    {
+        "text": "on Pramp and interviewing.io.",
+        "start": 636.0,
+        "end": 638.0
+    },
+    {
+        "text": "With the help of all these steps,",
+        "start": 638.0,
+        "end": 639.0
+    },
+    {
+        "text": "your preparation for the interview will be amazing.",
+        "start": 639.0,
+        "end": 642.0
+    },
+    {
+        "text": "And that was all about the entire roadmap",
+        "start": 642.0,
+        "end": 644.0
+    },
+    {
+        "text": "on how to become a Quant Engineer.",
+        "start": 644.0,
+        "end": 646.0
+    },
+    {
+        "text": "And finally, I just want to say",
+        "start": 646.0,
+        "end": 648.0
+    },
+    {
+        "text": "that becoming a Quant Engineer is not an overnight thing",
+        "start": 648.0,
+        "end": 650.0
+    },
+    {
+        "text": "and it is not that easy.",
+        "start": 650.0,
+        "end": 652.0
+    },
+    {
+        "text": "You will become one of the world's Point 1 Engineers",
+        "start": 652.0,
+        "end": 654.0
+    },
+    {
+        "text": "if you become a Quant Engineer.",
+        "start": 654.0,
+        "end": 655.0
+    },
+    {
+        "text": "But if you practice consistently",
+        "start": 655.0,
+        "end": 657.0
+    },
+    {
+        "text": "and follow this roadmap,",
+        "start": 657.0,
+        "end": 659.0
+    },
+    {
+        "text": "then I am sure you will definitely make it through",
+        "start": 659.0,
+        "end": 661.0
+    },
+    {
+        "text": "and you will definitely be one of the Point 1 Engineers",
+        "start": 661.0,
+        "end": 663.0
+    },
+    {
+        "text": "that are Quant Engineers.",
+        "start": 663.0,
+        "end": 665.0
+    },
+    {
+        "text": "I hope you learned something from this video",
+        "start": 665.0,
+        "end": 667.0
+    },
+    {
+        "text": "Namaste!",
+        "start": 667.0,
+        "end": 668.0
+    },
+    {
+        "text": "And that's all from my side.",
+        "start": 668.0,
+        "end": 669.0
+    },
+    {
+        "text": "This is Ashutosh signing off.",
+        "start": 669.0,
+        "end": 670.0
+    },
+    {
+        "text": "Take care everyone.",
+        "start": 670.0,
+        "end": 671.0
+    },
+    {
+        "text": "And I will see you in the next video.",
+        "start": 671.0,
+        "end": 673.0
+    },
+    {
+        "text": "Till then keep preparing and be focused.",
+        "start": 673.0,
+        "end": 675.0
+    }
+]

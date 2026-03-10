@@ -1,0 +1,149 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "Hi guys, my name is Nitesh and you are welcome to my YouTube channel. So I am super happy to announce that we have launched a new course on our website and the name of the course is Data Structures and Algorithms for AI. And trust me this was one of the most demanded course from your side and in this video I want to tell you everything about this course because I really want that whoever wants to purchase this course they should not have any confusion or doubt in their mind. So let's start the video. First of all, let's talk about why we made this course. I will explain to you logically point by point that how did we reach this decision that which course is needed. Honestly, if I tell you then this course was very low in my priority list",
+        "start": 0.0,
+        "end": 48.0,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 1,
+        "text": "and there is a very simple reason for that. The reason is that I think in my experience that DSA is not a core requirement for AI based job roles. If you want to become a data scientist or machine learning engineer or related job roles, DSA is not a direct core requirement. What I mean to say is that if you go and ask 10 data scientists that on a day to day basis how much DSA do you implement in your work then most of them would say that we don't use DSA directly as much as we use Python, statistics, machine learning, deep learning. It is not that DSA is not important at all. Those who know DSA, I am pretty sure in many situations",
+        "start": 48.0,
+        "end": 93.92,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 2,
+        "text": "DSA would have helped them a lot. I can tell you a few situations that I have also faced. Let's say you started working on a big data set where every operation is computationally very costly. So a person who has knowledge of DSA will be able to handle that data set in a better way in my opinion. Another scenario is that you have completed a code and your code is working properly. Now you want to write an optimized version of the code. So here also the understanding of DSA will definitely help you. One more example could be that you have reached a senior role in your company and your company has told you that they don't want to use the libraries available in the market because of privacy reasons. So here you have been given the task",
+        "start": 93.92,
+        "end": 139.2,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 3,
+        "text": "to build a machine learning library from scratch for your company. So in such situations, the knowledge of DSA definitely helps you. But I would still say that this is not a direct core requirement like Python, Statistics, Machine Learning, Deep Learning. That is why in my priority list, this course was never very high. But over the years, I noticed and observed that the people who got a job when they reached out to me and told me that they got a job and I asked them how was their interview so most of them said that during their earlier rounds in the first 2-3 rounds, they were asked questions about DSA. And this is a very common pattern. All the students I have talked to who have cracked jobs",
+        "start": 139.2,
+        "end": 184.24,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 4,
+        "text": "especially those who cracked jobs for junior roles let's say 1-3 years or even those who cracked jobs for 5 years they told me that during the early stages of the interview they were asked questions about DSA. Now this thing aroused some curiosity in my mind that on one hand, DSA is not a core requirement then how is it becoming important in the stages of the interview? So to answer this question, I tried to do some research and I truly got the answer to this question when I started hiring for my company last year. While hiring for my company, I understood that for any business, hiring is a huge problem in India.",
+        "start": 184.24,
+        "end": 231.36,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 5,
+        "text": "Mostly companies focus on their products and services. But if you go to any startup founder or company owner and ask them what is the biggest problem they face while running a day-to-day business then most of the founders will tell you that hiring is a big pain point. The reason for that is that there is a huge population in India. If you as a company founder or HR post a job role on a platform like Naukri then within an hour, you will notice that thousands of people have applied for your job. Now the interesting thing is that 90% people are not eligible for that job. Eligible in the sense that they are not completely suitable for the job",
+        "start": 231.36,
+        "end": 276.64,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 6,
+        "text": "but they apply out of optimism. Now they have applied and they have to click a button but the HR who has to perform the filtering who has to select 10 out of 1000 people who are truly eligible who should be interviewed that filtration process becomes very difficult. And if you talk about data science and AI then it is even more difficult because there are a lot of grey areas in data science and AI. Now think about it, how will you hire a data scientist? What exam will you take for that? Data scientist performs modelling on a day to day basis. Builds models on a data set. Now think about it, how difficult is this task? Data sets can vary. The preprocessing and feature engineering on them can vary.",
+        "start": 276.64,
+        "end": 325.12,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 7,
+        "text": "Different algorithms can be applied. The metric that you are using can also be different. So basically nothing is standardized in this whole process. If 1000 people have applied for your job profile then can you call 1000 people to the office and conduct their test? That this is a 2 hour test, we are giving you this data set. We will evaluate every step of yours. And we will conduct the interview of the best 10 people. You would automatically sense that there is a big problem. This is not a scalable solution. You may also hire 1000 people. But what if 5000 people have applied? So this is the main problem that people face in data science and AI job roles. HRs and all. So here, DSA provides a scalable solution.",
+        "start": 325.12,
+        "end": 371.52,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 8,
+        "text": "What is DSA? For the last 20 years, in the software job roles that are being hired, DSA is being used. Already many question banks have been created. They have been segregated very well. Easy questions are different, medium questions are different, hard questions are different. The solution is quantifiable. Many platforms have been created. Like LeetCode, Metal. Which you can use very easily for hiring. So because of all these reasons, you can use DSA in a very scalable way to filter out candidates. You should always remember that in India, there is no selection, there is rejection. While rejecting, you select what is left in the end. So in this whole thing, DSA acts as a proxy. We have started using DSA",
+        "start": 371.52,
+        "end": 418.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 9,
+        "text": "as a filtering system in the industry. Because data science and AI have not been able to find a scalable solution for hiring. And the interesting thing is that if someone is cracking an exam in DSA, he is already telling good things about the candidate. If someone knows DSA well, it already tells you that that person has good problem-solving capability, good structured thinking, he knows coding. And all these things are required in data science. So you just understand that to solve your problem, you are using an adjacent solution. So in the end, I understood that in today's date, companies don't have a direct way to perform hiring for data science and AI job roles. So what they did,",
+        "start": 418.48,
+        "end": 464.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 10,
+        "text": "they took an adjacent job role which is software development and put their hiring method as it is. And the interesting thing is that they already had all these solutions. Because in the past, they had hired for software. So it became very easy. And that is why it has become a common pattern that when you have a lot of people, especially for junior job roles, for fresher job roles, then DSA is used there. So filter out candidate. So now the situation is that you have to become a data scientist, you have to get into machine learning, but you have to study DSA for it because the company performs your hiring on the basis of DSA. And now almost everyone has understood this. All the students, all the candidates learn DSA in today's date.",
+        "start": 464.48,
+        "end": 510.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 11,
+        "text": "Even if they are angry and frustrated that I already have to learn so much in AI, I also have to learn DSA on it. But this is the reality of today. You have to learn DSA if you want to crack entry-level data science jobs. Now here comes another big problem that whatever resources are available online, whatever courses are available online around DSA, those courses are made from the point of view of software development. Which means that you will get a lot of content in it which targets software job roles. But as a data science aspirant, you don't need to know everything. And what happens is that students for those job roles, as in data science job roles,",
+        "start": 510.48,
+        "end": 556.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 12,
+        "text": "enroll in software development DSA courses and get scared of seeing a very big syllabus. But in reality, you are not expected to see a big syllabus. You are expected to see fundamental basics of DSA. And this is where our course comes into the picture. Data Science and Algorithms for AI. We have developed this course because the data science aspirants who want to learn DSA as much as is required for hiring, we want to teach you through this course. So now I will tell you why we have named this course DSA for AI. What are the things we are providing you that are tailor-made for AI. Let's discuss that. Point no. 1 Controlled Curriculum.",
+        "start": 556.48,
+        "end": 602.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 13,
+        "text": "So in the process of developing this course, we talked to a lot of students who have cracked jobs. And after talking to them, we prepared a curriculum where we didn't cover everything blindly and only covered those topics whose probability to be asked in the future is very high. That is why this course is not too long or too short. Appropriately, this course is around 60 hours. And I feel that if you complete these 60 hours, then you will cover 99% topics which can be asked in the future. Point no. 2 This course is fully developed in Python. Which means that we have taught DSA from the perspective of Python. We did not choose Java, C++, which are more popular",
+        "start": 602.48,
+        "end": 648.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 14,
+        "text": "ways to teach DSA. But we chose Python and the logic behind it is very simple. In the world of AI, Python is the backbone. Whether you study Machine Learning, Deep Learning, or Gen AI, there you have to do everything through Python. That is why even to understand DSA, if you use Python, it helps in your future journey. Reason no. 3 To develop every module, to teach every data structure, to teach every algorithm, we have provided the context of AI. Which basically means that if I have to explain a data structure, let's say a graph or a tree, then the examples we used in the process of explaining are from the world of AI. So you will feel",
+        "start": 648.48,
+        "end": 694.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 15,
+        "text": "a lot of relevance that whatever I am studying in DSA, I am also implementing the same things in AI. So this is point no. 3. The last point is practice problems. So in this course, you will get to see a separate section called practice problems, where we have covered a lot of DSA related practice problems. And how did we curate these practice problems? We again asked people what was asked in the interviews, what kind of problems were asked, and we have planned this section around those problems. So again, you will get to see such things in this course, which are very close to interviews. It will help you. And one last additional point that at this point, we are developing this course as a product. Which basically means that",
+        "start": 694.48,
+        "end": 740.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 16,
+        "text": "we are considering this rollout, the course we have launched as version 1. And our goal is that in the next 6 months and 1 year, we will improve this course based on your feedback. And you will give the feedback, and most of the students are in the domain of AI. So again, the development of this course will be happening from the perspective of AI. So I really hope I was able to justify how we have developed this DSA course from the perspective of AI. And how it may be suitable for you guys who are trying to target AI based job roles. So now let me do one thing, I will show you the course once and there are some important pointers around the course, let's discuss that too. So this was our course.",
+        "start": 740.48,
+        "end": 786.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 17,
+        "text": "You can go to our website, you will get the link in the description. There you have to go to the paid courses section. And there you will get the DSA for AI course. First of all, let's talk about the fees because this is the biggest question. So the fee of this course is 2499. I feel the general course fee structure is what we have followed here. We roughly calculate on the basis of hours. So on the basis of number of hours, the fee comes around 2499. And this is going to be the course fee for this particular course. If we talk about validity, this question is also asked a lot by students. So if you buy this course today, then this course will be valid for 3 years. You will have access to this course for 3 years. Third, this is the",
+        "start": 786.48,
+        "end": 832.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 18,
+        "text": "most frequently asked question. Who is the instructor for the course? I would again like to clarify, I am not the instructor of this course. One of my teammates, Misbah, is the course creator, the instructor of this course. And he has created multiple courses with us in the past. And he is a very good teacher. He has got really good feedback. Some of his free courses are also available on our website. You should definitely check out his teaching style. If it suits you, then only you should enroll in this course. Fourth, you will get a certificate on the basis of completing this course. And the last point is if we are taking this course, will we get any discount? The answer is yes. If you purchase this course for the next few days,",
+        "start": 832.48,
+        "end": 878.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 19,
+        "text": "then you will get a discount of around 20%, which is roughly around Rs. 500. So this course will cost you around Rs. 2,000. So that's it. Please go and check this website. You will get a lot of details in this course page, including the course content, exactly what all we are going to teach in this course. You will get everything here along with the video duration. So you will get a very fair idea whether you should take this course or not. Rest, I would just say, just like any other course, we have put a lot of effort here. We have developed this course in the past 6 months. And our effort is that we should be able to clear this hurdle of DSA",
+        "start": 878.48,
+        "end": 924.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    },
+    {
+        "chunk_id": 20,
+        "text": "on your way. I really hope that whoever purchases this course, this course will help them to crack their dream job. That's it for this video. If you liked the video, please like it. If your friend is preparing for DSA, please recommend this video to him. And we will meet in the next video. Bye.",
+        "start": 924.48,
+        "end": 944.48,
+        "source": "3. How Important is DSA for AI Jobs in 2026\uff1f \uff5c New DSA Course \uff5c CampusX.json"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "Having solved more than 1500 LeetCode problems, if there is one thing I have learned is this. LeetCode is less about the number of problems you have solved and more about how many patterns you know. Because learning patterns allows you to solve a wide variety of problems in less time and helps you quickly identify the right approach to a problem you have never seen before. In this video, I will walk you through 15 most important patterns I learned that made my LeetCode journey a lot less painful. And the best part is these patterns actually came up in most of my interviews, including at companies like Amazon and Google. For each pattern, I will explain when to use it, walk through an example, and list LeetCode problems you can practice to learn them better. First up, we have Prefix Sum Pattern. This pattern is commonly used for problems where you need to query the sum of elements in a subarray. Imagine you are given an array and you need to find the sum of all elements between indices i and j. If you have just one query, you can simply loop through the array",
+        "start": 0.0,
+        "end": 46.16,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 1,
+        "text": "in linear time to find the sum. But if you have multiple such queries, it can take up to order of n times m time complexity where m is the number of queries and n is the length of the array. To make such queries faster, you can create a prefix sum array where value at index i is the sum of all elements from start up to index i in the given array. Now you can arrange some queries in O of 1 time using the formula sum from i to j is equal to p of j minus p of i minus 1. This is the main idea behind the prefix sum pattern. One thing to remember is that you don't always need a new array for prefix sums. Sometimes, you can use the input array itself and avoid using extra space. Here are some LeetCode problems you can practice using this pattern. Next one is two-pointers pattern. In the two-pointer approach, we initialize two variables and move them towards each other or away from each other based on the problem. For example, let's say you are given a string and you need to",
+        "start": 46.16,
+        "end": 92.96,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 2,
+        "text": "check whether it's a palindrome. A string is a palindrome if it's the same when the order of characters is reversed. To solve this problem using two-pointers approach, use one pointer to iterate from the beginning and the other from the end. At each step, compare the values at both pointers. If they don't match, the string is not a palindrome. Return false. If they match, move the pointers closer. Keep doing this until the pointers meet. The two-pointers pattern can reduce the time complexity for many problems from order of l squared to order of n. So, make sure you practice it well. Here are a few LeetCode problems to get better at this pattern. Let's slide into our next pattern, sliding window. This pattern helps us find subarrays or substrings that meet specific criteria. Let's understand it with an example. Suppose you are given an array and you need to find the subarray of size k with the maximum sum. Let's say k is 3. A brute force approach is to consider all the subarrays of size 3",
+        "start": 92.96,
+        "end": 140.08,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 3,
+        "text": "using a nested for loop and pick the one with the maximum sum. But since the adjacent subarrays overlap, there is a lot of repetitive calculation, leading to a time complexity of order of n times k. We can optimize this using sliding window approach. We start by initializing a window containing the sum of first three elements. And as we iterate through the array, we subtract the leftmost item, add new item's value to the window, and update the result. This reduces time complexity from order of n times k to order of n, since we are only using a single for loop to iterate through the array. Here are some leetcode problems to practice this approach. Next pattern is a variant of the two-pointers pattern called fast and slow pointers. This pattern helps solve problems related to linked lists and arrays, which involves finding cycles. It works by moving two pointers at different speeds. Let's understand this with a real-world example. Imagine a circular track with two runners A and B. Runner A moves faster",
+        "start": 140.08,
+        "end": 188.08,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 4,
+        "text": "than runner B. Since the track is circular, runner A will eventually pass runner B. This is the idea behind fast and slow pointers. Using this approach, you can check if a linked list contains a cycle. We start by placing both slow and fast pointers at the head of the linked list. Move the slow pointer one node at a time and the fast pointer two nodes at a time. If there is a cycle, they will eventually meet. This pattern can also find the middle node of a linked list in one pass. When the fast pointer reaches the end, the slow pointer will be at the middle of the linked list. To get better at this pattern, you can practice these leetcode problems. Next pattern on the list is linked list in-place reversal. Many linked list problems ask you to change its nodes and pointers in some way. The trick is to do it in-place without using extra space. That's where this pattern can help. Let's look at an example where you need to reverse a linked list. A simple approach is to copy the linked list values into an array",
+        "start": 188.08,
+        "end": 234.4,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 5,
+        "text": "and then update the linked list by traversing the array in reverse. But this isn't the most optimal approach since it needs extra space equal to the size of the linked list and requires multiple passes through the linked list. Can we do it in one pass and without extra space? Yes, we can. Use three pointers previous, current, and next. Set previous to none and current to the head of the linked list. Use a while loop to go through the list until current is none. In each loop, set next to the next node of the current. Reverse the current node's pointer to point to previous. Note previous to current and current to next. At the end of the loop, previous will point to the new head of the reversed linked list. You can use this technique for any problem that asks you to rearrange the links between nodes of a linked list. Here are some leetcode problems to practice this pattern. Next pattern is monotonic stack. This pattern uses a stack to find the next greater or next",
+        "start": 234.4,
+        "end": 279.92,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 6,
+        "text": "smaller element in an array. Let's look at an example. Given an array, find the next greater element for each item. If there isn't one, output minus one. A brute force approach is to use a nested for loop to check all the elements to the right of each item until you find a bigger one. But this can take up to order of n squared time. We can solve it in O of n time by using a stack. Here is what the algorithm looks like. Use a stack to track indices of elements for which we haven't found the next greater element yet. Initialize the result array with minus ones. For each element, check if it's greater than the element at the top of the stack. If it is, pop from the stack and set the result for that index to the current element. Push the current element onto the stack. During the whole process, we keep the stack elements in decreasing order. But for finding the next smaller element, keep them in increasing order. Here are some leetcode problems to practice this pattern. Next is top k elements pattern. This pattern helps you find the k largest,",
+        "start": 279.92,
+        "end": 328.4,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 7,
+        "text": "smallest, or most frequent elements in a dataset. Imagine you have an array and you need to find three largest elements. A simple approach is to sort this array in descending order and take the first three elements. But sorting takes O of n log n time. Can we avoid sorting the array? Yes, by using a min heap. By using a min heap, we can keep track of the three largest elements as we loop through this array. Since inserting and popping elements in a heap takes logarithmic time, it reduces the time complexity from O of n log n to O of n log k. Start by putting the first three elements into a min heap. After that, for every element, we compare it with the top heap element. If the current array element is greater, pop the top element from the heap and push the new element. At the end, the heap will contain three largest elements. If the problem asks you to find k largest element, use a min heap. But for k smallest problems, use a max heap. There is another algorithm called quick select that can solve top k elements problems with an",
+        "start": 328.4,
+        "end": 376.56,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 8,
+        "text": "average time complexity of O of n. But it's more complex. I will cover it in a future video. If you'd like me to make detailed videos on each of these patterns and cover multiple examples, let me know in the comments. And make sure to subscribe so that you don't miss my new videos. Here are some problems to practice the top k elements pattern. Next is the overlapping intervals pattern. This pattern is useful for problems involving intervals or ranges that may overlap. Here are a few problem types where you can apply this pattern. Merging intervals. Given a collection of intervals, merge all overlapping intervals into one. Interval intersection. Find the intersection between two sets of intervals. Insert interval. Add a new interval to a list of non-overlapping intervals. And problems like finding the minimum number of meeting rooms needed for overlapping meeting times. Let's understand one of the examples where you are given a list of intervals, and you need to merge all overlapping intervals. Here is an approach to solve this problem.",
+        "start": 376.56,
+        "end": 423.84,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 9,
+        "text": "Start by sorting the intervals by their start time. Create an empty list called merged to store the merged intervals. Iterate through the intervals and check if it overlaps with the last interval in the merged list. If it overlaps, merge the intervals by updating the end time of the last interval in merged. If it doesn't overlap, add the current interval to the merged list. To get better at this pattern, try solving these Leetcode problems. Next is Modifies binary search pattern. Modifies binary search pattern is a variant of the standard binary search algorithm used to solve problems where the array isn't perfectly sorted. Like searching in a nearly sorted array, searching in a rotated sorted array, searching in a list with unknown length, searching in an array with duplicates, finding the first or last occurrence of an element, finding the square root of a number, or finding a peak element. For example, if we are given a rotated sorted array, and we need to search for an element, we can perform binary search with an additional check",
+        "start": 423.84,
+        "end": 470.72,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 10,
+        "text": "to determine which half of the array is sorted. We then check if the target is within the range of the sorted half. If it isn't, we search that half. Otherwise, we search the other half. Here are some problems to practice this approach. Next pattern is Binary tree traversal. Binary trees are all about traversing it in a specific order. The four popular ways to traverse the binary tree are pre-order, in-order, post-order, and level-order. Implementing pre-order, in-order, and post-order traversal algorithms in code is pretty easy if you use recursion, but the iterative version is a bit more complex and requires using stacked data structure. Level-order traversal is useful when you want to explore the nodes level by level, starting from the root node. It is easily implemented using a queue data structure. Whenever you are given a tree problem, think about which traversal order fits the best. For example, to retrieve the values of a binary search tree in sorted order, use in-order traversal. To create a copy of the tree and the problems involving tree serialization,",
+        "start": 470.72,
+        "end": 520.08,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 11,
+        "text": "use pre-order traversal. When you want to process child nodes before the parent, like when deleting a tree, use post-order traversal. And when you need to explore all nodes at the current level before moving on to the next, use level-order traversal. Here are the problems you can solve to learn these traversal algorithms. Next one is Depth-first search or DFS. It is used to explore all paths or branches in graphs or trees to solve problems like finding a path between two nodes, checking if a graph contains a cycle, finding the topological order in a directed acyclic graph, and counting the number of connected components in a graph. DFS can be implemented recursively or iteratively using a stack. Here is a generic approach to solve DFS-related problems. Choose a starting point, keep track of visited nodes to avoid cycles, perform the required operation on the current node, explore unvisited neighbors, continue until all required nodes are visited. Here are some leetcode problems you can practice",
+        "start": 520.08,
+        "end": 567.92,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 12,
+        "text": "to learn this pattern. Next pattern is a related one called Depth-first search or BFS. BFS is a traversal technique that explores nodes level-by-level in a tree or graph. It is very useful for problems like finding the shortest path between two nodes in an unweighted graph, printing all nodes of a tree level-by-level, finding all connected components in a graph, finding the shortest transformation sequence from one word to another. To implement BFS, we can use a queue. Here is a generic approach to solve BFS problems. Add the starting node to the queue, set up a visited set or array to track processed nodes, continue while the queue is not empty, dequeue a node and process it, enqueue unvisited neighbors, add processed nodes to the visited set, continue until the queue is empty. Here are some leetcode problems you can practice using this approach. Next up is the matrix traversal pattern. Most matrix traversal problems can be seen as graph problems. In a graph, you have nodes and edges.",
+        "start": 567.92,
+        "end": 616.8,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 13,
+        "text": "In a matrix, it is usually a 2D array where nodes are the cells from where you can reach two adjacent cells horizontally, vertically, or diagonally, depending on the problem. The best part is you can use most of the graph algorithms like DFS and BFS to solve matrix-related problems like finding the shortest path in a grid. Let's understand this pattern using the island count problem. You are given a 2D binary grid where 1 is land and 0 is water. You need to return the number of islands. An island is formed by connecting adjacent lands horizontally or vertically. We can either use DFS or BFS to solve this problem. Let's use DFS for this one. Here is the general idea. Iterate through each cell in the grid. If we find a land cell, we have found a new island. Explore this island using DFS, marking all connected land cells as visited. Increment our island count. Continue until we have checked all cells. Here are the liquid problems you can practice using this approach. Next pattern is backtracking.",
+        "start": 616.8,
+        "end": 664.56,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 14,
+        "text": "Backtracking is a powerful technique used to solve problems that involve exploring all potential solution paths and backtracking the paths that do not lead to a valid solution. Some of the problems you can solve using this approach are generate all possible permutations or combinations of a given set of elements. Solve puzzles like sudoku or end queen problem. Find all possible paths from a start point to an end point in a graph or a mesh. Generate all valid parentheses of a given length. Let's say you are given an array of integers and you need to generate all possible subsets. We can use backtracking approach to solve this problem. We start with an empty subset and index 0. For each element, we have two choices, include it or not. After making a choice, we recurse to the next element. Once we have considered all elements, we backtrack to explore other possibilities. To get better at backtracking, you can practice these problems. And lastly,",
+        "start": 664.56,
+        "end": 710.48,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 15,
+        "text": "dynamic programming also called DP. DP is a powerful technique used for solving optimization problems by breaking them down into smaller subproblems and storing their solutions to avoid repetitive work. It is particularly useful for problems with overlapping subproblems and optimal substructure properties like problems where you need to maximize or minimize a certain value and counting problems where you need to count the number of ways to achieve a certain goal. Dynamic programming is a big and challenging topic for coding interviews, but learning common patterns can make it a lot easier. Here are some of the common DP patterns you should know about, say, binarchy numbers, 0-1 knapsack, longest common subsequence, longest increasing subsequence, subset sum, and matrix chain multiplication. And these are the Leetcode problems you can solve to learn these patterns. If you want to learn more about DP patterns, check out my recent blog article where I talk about 20 dynamic programming patterns and include links to Leetcode problems",
+        "start": 710.48,
+        "end": 758.08,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    },
+    {
+        "chunk_id": 16,
+        "text": "for each pattern. Links are in the description. You can also find links to other patterns and Leetcode questions that I mentioned in this video in the description. You can subscribe my blog at blog.algomaster.io where I post twice a week about topics related to coding, DSA, system design, and interview. If you want to know what else is required to master DSA apart from learning patterns, do check out this video. See you there.",
+        "start": 758.08,
+        "end": 779.52,
+        "source": "6. LeetCode was HARD until I Learned these 15 Patterns.json"
+    }
+]

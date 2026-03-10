@@ -1,0 +1,1037 @@
+[
+    {
+        "text": "When I first heard the phrase machine learning, I thought of something like mysterious magic,",
+        "start": 0.0,
+        "end": 5.2
+    },
+    {
+        "text": "a computer that just figures everything out for you. Fast forward a few years,",
+        "start": 5.2,
+        "end": 9.52
+    },
+    {
+        "text": "I studied maths at Oxford, I'm now working as a Kwan developer and I realise the truth is",
+        "start": 9.52,
+        "end": 14.0
+    },
+    {
+        "text": "a bit less magical. Machine learning is more like building a very peaky IKEA workroom. It only works",
+        "start": 14.64,
+        "end": 21.28
+    },
+    {
+        "text": "if you put all of the pieces together correctly and you'll probably get lost in instructions",
+        "start": 21.28,
+        "end": 25.68
+    },
+    {
+        "text": "along the way. But here's the thing, if you're serious about a career in quant finance, forecasting",
+        "start": 25.68,
+        "end": 31.04
+    },
+    {
+        "text": "or AI, you do really need to learn it. The question is where do you even start? Today I will give you",
+        "start": 31.04,
+        "end": 37.44
+    },
+    {
+        "text": "the roadmap, the foundations you absolutely cannot skip, the algorithms that actually matter,",
+        "start": 37.44,
+        "end": 42.08
+    },
+    {
+        "text": "the practical skills that separate students from professionals and maybe most importantly what you",
+        "start": 42.08,
+        "end": 48.0
+    },
+    {
+        "text": "should really pay attention to. And I'll share a bit of my own experience from wrestling with",
+        "start": 48.0,
+        "end": 52.48
+    },
+    {
+        "text": "problem sheets at Oxford to applying ML in a real world setting. By the end you will hopefully",
+        "start": 52.48,
+        "end": 57.44
+    },
+    {
+        "text": "not only know what to learn but also why those concepts matter",
+        "start": 57.44,
+        "end": 61.12
+    },
+    {
+        "text": "and how they actually translate into the messy caffeinated world of real data.",
+        "start": 61.12,
+        "end": 65.92
+    },
+    {
+        "text": "So let me start with quite an early Oxford memory. In my first year I thought I was",
+        "start": 70.64,
+        "end": 74.88
+    },
+    {
+        "text": "pretty good at maths. Obviously studying maths at Oxford, gotta be good at maths.",
+        "start": 74.88,
+        "end": 79.12
+    },
+    {
+        "text": "And then I met probability theory. Suddenly everything felt very slippery. Events, random",
+        "start": 79.12,
+        "end": 85.12
+    },
+    {
+        "text": "variables, conditional probabilities. I remember spending an entire evening convincing myself that",
+        "start": 85.12,
+        "end": 90.24
+    },
+    {
+        "text": "Bayes' theorem was lying to me. But those foundations are actually the most useful thing I've learned",
+        "start": 90.24,
+        "end": 96.16
+    },
+    {
+        "text": "ever since. Back then it all felt very abstract, like solving puzzles that didn't really connect",
+        "start": 96.16,
+        "end": 101.44
+    },
+    {
+        "text": "to reality. But once you start working with data you realise probability is not optional,",
+        "start": 101.44,
+        "end": 107.04
+    },
+    {
+        "text": "is the grammar of uncertainty if I must say. Without it every model you build speaks quite",
+        "start": 107.04,
+        "end": 113.28
+    },
+    {
+        "text": "gibberish. And the same goes for statistics. It's not just the average and the standard deviation.",
+        "start": 113.28,
+        "end": 119.36
+    },
+    {
+        "text": "It's learning to trust data carefully. Hypothesis testing, sampling biases, confidence intervals,",
+        "start": 119.36,
+        "end": 125.28
+    },
+    {
+        "text": "they all teach you when to believe a result and when your model is just being overconfident.",
+        "start": 125.28,
+        "end": 129.76
+    },
+    {
+        "text": "Here's what I mean. Machine learning is not built on magic. It's built on four pillars,",
+        "start": 129.76,
+        "end": 134.72
+    },
+    {
+        "text": "four main pillars I must say. So the first one is probability and statistics. This is the language",
+        "start": 134.72,
+        "end": 139.2
+    },
+    {
+        "text": "of uncertainty without any doubt. Without it you cannot interpret a model's output or trust its",
+        "start": 139.2,
+        "end": 144.24
+    },
+    {
+        "text": "predictions. When I started working in finance almost every model I looked at was some way of",
+        "start": 144.24,
+        "end": 149.52
+    },
+    {
+        "text": "answering given this data what's the probability that x happens. And yes, Bayes' theorem came",
+        "start": 149.52,
+        "end": 154.8
+    },
+    {
+        "text": "haunting back to me in the real world. Think of it this way. Every prediction is just an educated",
+        "start": 154.8,
+        "end": 159.92
+    },
+    {
+        "text": "probability. Even when a model says buy or sell what it really means is I'm 60% sure that this",
+        "start": 159.92,
+        "end": 165.92
+    },
+    {
+        "text": "will go up. If you don't understand how those numbers are derived you are kind of just gambling",
+        "start": 165.92,
+        "end": 170.96
+    },
+    {
+        "text": "blindly. The second one is linear algebra. At Oxford I do remember spending weeks on eigenvalues",
+        "start": 170.96,
+        "end": 176.08
+    },
+    {
+        "text": "and wondering if I will ever use them in real life. Fast forward, well, covariances, matrices,",
+        "start": 176.08,
+        "end": 181.68
+    },
+    {
+        "text": "PCA and neural networks, they're all just linear algebra in disguise. If you understand something",
+        "start": 181.68,
+        "end": 187.2
+    },
+    {
+        "text": "as simple as matrix multiplication you already understand how a neural net passes information",
+        "start": 187.2,
+        "end": 192.8
+    },
+    {
+        "text": "through its layers. And honestly once it clicks it's very elegant. Every transformation your data",
+        "start": 192.8,
+        "end": 198.32
+    },
+    {
+        "text": "goes through, scaling, projecting, compressing, it is just a matrix saying let me rotate your",
+        "start": 198.32,
+        "end": 204.88
+    },
+    {
+        "text": "perspective. The magic of neural networks is literally just taking lots of those rotations",
+        "start": 204.88,
+        "end": 210.08
+    },
+    {
+        "text": "and non-linearities together until it captures something meaningful. The third one is calculus",
+        "start": 210.08,
+        "end": 215.04
+    },
+    {
+        "text": "and optimisation. This one really hit me hardest during my dissertation. I was basically using",
+        "start": 215.04,
+        "end": 220.48
+    },
+    {
+        "text": "gradient descent without fully appreciating what it meant until I went back and realised",
+        "start": 220.48,
+        "end": 225.28
+    },
+    {
+        "text": "that training a neural net is basically calculus plus trial and error. You need to know how",
+        "start": 225.28,
+        "end": 230.08
+    },
+    {
+        "text": "gradients behave, what convexity means and why some problems are just impossible to solve perfectly.",
+        "start": 230.08,
+        "end": 236.24
+    },
+    {
+        "text": "In practice I would say that this is where the maths becomes movement. The gradient is not just",
+        "start": 236.24,
+        "end": 240.88
+    },
+    {
+        "text": "a derivative, it's the direction that your model learns to walk towards better predictions. And if",
+        "start": 240.88,
+        "end": 246.56
+    },
+    {
+        "text": "your lost landscape is full of cliffs, of plateaus and false valleys, well welcome to the chaotic fun",
+        "start": 246.56,
+        "end": 253.12
+    },
+    {
+        "text": "of optimisation. And the last one is programming. So at Oxford I had to transition from pen and paper",
+        "start": 253.12,
+        "end": 258.96
+    },
+    {
+        "text": "maths to actual code. And that was quite humbling at the start. Suddenly it wasn't enough to",
+        "start": 258.96,
+        "end": 264.32
+    },
+    {
+        "text": "understand the theorem, I had to actually implement it. Python is obviously the go-to, but if you're",
+        "start": 264.32,
+        "end": 270.08
+    },
+    {
+        "text": "aiming at high frequency quant finance you'll eventually run into C++ as well. Debugging a",
+        "start": 270.08,
+        "end": 275.12
+    },
+    {
+        "text": "model at something like 11pm in my first year as a quant dev does teach you that knowing how to code",
+        "start": 275.12,
+        "end": 280.72
+    },
+    {
+        "text": "efficiently matters as much as knowing the maths. Because obviously real world machine learning is",
+        "start": 280.72,
+        "end": 285.68
+    },
+    {
+        "text": "not just about solving a clean equation, it's about making that equation run on a server without",
+        "start": 285.68,
+        "end": 290.64
+    },
+    {
+        "text": "crashing your whole company's systems. Learning to translate theory into efficient, scalable and",
+        "start": 290.64,
+        "end": 296.0
+    },
+    {
+        "text": "readable code is what separates someone who knows ML from someone who can ship ML. And in terms of",
+        "start": 296.0,
+        "end": 301.84
+    },
+    {
+        "text": "resources that I would recommend, well, Introduction to Probability by Blitzstein and Kuang, Gilbert",
+        "start": 301.84,
+        "end": 307.28
+    },
+    {
+        "text": "Strong's Trinital Algebra lectures on YouTube, and honestly, Kaggle datasets for practice, they're",
+        "start": 307.28,
+        "end": 312.96
+    },
+    {
+        "text": "really good, because theory without coding feels abstract, and coding without theory makes you just",
+        "start": 312.96,
+        "end": 318.16
+    },
+    {
+        "text": "a copy-paste and not really a problem solver. And speaking of actually understanding the foundations,",
+        "start": 318.16,
+        "end": 323.76
+    },
+    {
+        "text": "let me also recommend to you Brilliant, who are very very kindly sponsoring today's video.",
+        "start": 323.76,
+        "end": 327.92
+    },
+    {
+        "text": "Brilliant is genuinely one of the best ways that I have found to learn the maths and logic that",
+        "start": 327.92,
+        "end": 332.56
+    },
+    {
+        "text": "power machine learning. Not by memorizing formulas, not at all, but by doing. The courses make you",
+        "start": 332.56,
+        "end": 338.4
+    },
+    {
+        "text": "think interactively, you drag sliders, you test ideas and you build intuition for concepts like",
+        "start": 338.4,
+        "end": 343.6
+    },
+    {
+        "text": "gradient descent or basis theorem, the kind of intuition that textbooks often skip. When I first",
+        "start": 343.6,
+        "end": 348.88
+    },
+    {
+        "text": "started using Brilliant, I remember trying their Probability and Linear Algebra courses, and it",
+        "start": 348.88,
+        "end": 353.68
+    },
+    {
+        "text": "instantly felt more hands-on, like actually seeing the gears turning behind the equations that I have",
+        "start": 353.68,
+        "end": 359.36
+    },
+    {
+        "text": "been using for years. They also offer dedicated courses and paths to build your understanding of",
+        "start": 359.36,
+        "end": 364.72
+    },
+    {
+        "text": "simple to very advanced ML, like Probability in Data, Clustering in Classification, or Intro to",
+        "start": 364.72,
+        "end": 370.24
+    },
+    {
+        "text": "Neural Networks, which are amazing building blocks for your ML knowledge and give you quite a head",
+        "start": 370.24,
+        "end": 375.04
+    },
+    {
+        "text": "start into understanding the intuition behind the models. So if you're looking for a career in",
+        "start": 375.04,
+        "end": 379.52
+    },
+    {
+        "text": "Quant Finance, in Forecasting, or in AI, and you want to build that mathematical intuition that all",
+        "start": 379.52,
+        "end": 384.88
+    },
+    {
+        "text": "employers are looking for these days, go check out brilliant.org slash Ioana Roman to start learning",
+        "start": 384.88,
+        "end": 390.56
+    },
+    {
+        "text": "for free and also get a 20% off an annual premium subscription. Alright, thank you so so much for",
+        "start": 390.56,
+        "end": 396.32
+    },
+    {
+        "text": "Brilliant for sponsoring this video, and back to machine learning. Now that you've got the",
+        "start": 396.32,
+        "end": 400.32
+    },
+    {
+        "text": "foundation down, let's talk about the algorithms that actually make it work.",
+        "start": 400.32,
+        "end": 404.48
+    },
+    {
+        "text": "When I first dipped into machine learning, I thought I needed to start with neural networks,",
+        "start": 409.28,
+        "end": 413.04
+    },
+    {
+        "text": "because they were all the hype, you know, they sounded cooler, but actually the simplest model",
+        "start": 413.04,
+        "end": 417.52
+    },
+    {
+        "text": "taught me the most. I guess you can think of it in terms of learning how to drive, you just don't",
+        "start": 417.52,
+        "end": 422.4
+    },
+    {
+        "text": "start directly in a Formula One car, you start in a parking lot with a basic hatchback, linear",
+        "start": 422.4,
+        "end": 428.4
+    },
+    {
+        "text": "regression. Because until you know how the fundamentals behave, you won't survive the",
+        "start": 428.4,
+        "end": 433.52
+    },
+    {
+        "text": "curves later. Take linear regression, this is just the hello world of ML, you draw a line through",
+        "start": 433.52,
+        "end": 439.36
+    },
+    {
+        "text": "some data points and minimise the squared errors. At university it felt almost too easy, until you",
+        "start": 439.36,
+        "end": 445.68
+    },
+    {
+        "text": "realise how the fancy models people build these days in finance are just non-linear extensions of",
+        "start": 445.68,
+        "end": 451.04
+    },
+    {
+        "text": "linear regression. And if you don't understand some of the assumptions like independence or",
+        "start": 451.04,
+        "end": 455.6
+    },
+    {
+        "text": "constant variance, you'll make the same mistakes just over and over again. And that's the irony,",
+        "start": 455.6,
+        "end": 460.88
+    },
+    {
+        "text": "everyone wants to skip it, but linear regression quietly runs the world. Pricing models, risk",
+        "start": 460.88,
+        "end": 466.88
+    },
+    {
+        "text": "forecasts, even the first layer of neural networks are basically multiple regressions with some fancy",
+        "start": 466.88,
+        "end": 472.08
+    },
+    {
+        "text": "hats. Then there's logistic regression. This one is pretty much everywhere in finance. Credit",
+        "start": 472.08,
+        "end": 476.96
+    },
+    {
+        "text": "scoring, fraud detection, all of this is regression at heart. I remember my first internship project",
+        "start": 476.96,
+        "end": 482.08
+    },
+    {
+        "text": "being way less glamorous than I thought. I was just tuning up logistic regression with better",
+        "start": 482.08,
+        "end": 486.72
+    },
+    {
+        "text": "features. But logistic regression, I want to say, does teach you somewhat of a deeper lesson. It's",
+        "start": 486.72,
+        "end": 491.84
+    },
+    {
+        "text": "not just about fancy models, it's about the features that you feed them. You cannot smart deep nets",
+        "start": 491.84,
+        "end": 496.96
+    },
+    {
+        "text": "with simple logistic models if your data captures the right structure. And next we've got decision",
+        "start": 496.96,
+        "end": 502.16
+    },
+    {
+        "text": "trees. This model feels like flowcharts. Is this feature bigger than 5? Go left, otherwise go right.",
+        "start": 502.16,
+        "end": 508.48
+    },
+    {
+        "text": "They're intuitive and they do show you how algorithms split data to find structure.",
+        "start": 508.48,
+        "end": 513.04
+    },
+    {
+        "text": "The problem is that they overfit very easily, and quite badly. My first finance backtest with",
+        "start": 513.04,
+        "end": 518.88
+    },
+    {
+        "text": "the decision tree gave results that looked absolutely incredible, and spoiler, it was",
+        "start": 518.88,
+        "end": 523.52
+    },
+    {
+        "text": "complete nonsense. If I may, I would say that trees are like enthusiastic overachievers, basically just",
+        "start": 523.52,
+        "end": 528.88
+    },
+    {
+        "text": "memorize the textbook instead of learning the subject. That's where ensembles come in to save",
+        "start": 528.88,
+        "end": 533.92
+    },
+    {
+        "text": "us. Random forest and gradient boosting. These were the first models that I saw consistently",
+        "start": 534.0,
+        "end": 539.6
+    },
+    {
+        "text": "outperforming others in real world competitions and in projects. So if you learn just one algorithm",
+        "start": 539.6,
+        "end": 545.44
+    },
+    {
+        "text": "beyond linear regression, I would say just make it XGBoost. In many cases, it still beats deep",
+        "start": 545.44,
+        "end": 551.36
+    },
+    {
+        "text": "learning on structured data. Ensembles basically work by crowdsourcing intelligence. One weak tree",
+        "start": 551.36,
+        "end": 557.44
+    },
+    {
+        "text": "is unreliable, but a hundred weak trees voting together, surprisingly strong. That's the same",
+        "start": 557.44,
+        "end": 562.64
+    },
+    {
+        "text": "logic that's behind investment diversification actually. Low individual accuracy, but high",
+        "start": 562.64,
+        "end": 567.36
+    },
+    {
+        "text": "collective power. And of course, let's not ignore unsupervised learning. Clustering algorithms like",
+        "start": 567.36,
+        "end": 573.04
+    },
+    {
+        "text": "k-means helped me the first time that I ever looked at market regimes. You don't always know",
+        "start": 573.04,
+        "end": 577.84
+    },
+    {
+        "text": "what you're looking for, but the data will show you groups, which is always really helpful. It's",
+        "start": 577.84,
+        "end": 581.84
+    },
+    {
+        "text": "like detective work with no witness statement. You let the data tell you where the patterns",
+        "start": 581.84,
+        "end": 587.12
+    },
+    {
+        "text": "lie in. Unsupervised learning is underappreciated in my opinion, and it's how you discover structure",
+        "start": 587.12,
+        "end": 592.48
+    },
+    {
+        "text": "before you can even start predicting, which is quite unvaluable. And in terms of resources,",
+        "start": 592.48,
+        "end": 596.96
+    },
+    {
+        "text": "I would say that Andrew NG's machine learning course on Coursera is still quite a classic.",
+        "start": 596.96,
+        "end": 602.48
+    },
+    {
+        "text": "And for something more hands-on, I would say that Geron's hands-on machine learning with",
+        "start": 602.48,
+        "end": 606.4
+    },
+    {
+        "text": "scikit-learn, Keras and TensorFlow will always be my go-to.",
+        "start": 606.4,
+        "end": 609.52
+    },
+    {
+        "text": "There are some experiences in life that you never forget. I don't think I will ever forget the first",
+        "start": 614.24,
+        "end": 618.24
+    },
+    {
+        "text": "time I tried training a neural network. Well, I just followed the tutorial, I hit run and watched",
+        "start": 618.24,
+        "end": 623.52
+    },
+    {
+        "text": "as the accuracy just went up like magic. Then I tried it on one of my own datasets and it",
+        "start": 623.52,
+        "end": 629.92
+    },
+    {
+        "text": "completely collapsed. That was my first lesson, the hard way. Neural networks are powerful,",
+        "start": 629.92,
+        "end": 635.44
+    },
+    {
+        "text": "but they're also quite the divas. They will perform absolutely brilliantly on demo data",
+        "start": 635.44,
+        "end": 640.96
+    },
+    {
+        "text": "and then throw a complete tantrum the moment you feed them something that's imperfect. It's like",
+        "start": 640.96,
+        "end": 645.92
+    },
+    {
+        "text": "owning a sports car that only runs on one specific brand of fuel at 23 degrees Celsius and only on",
+        "start": 645.92,
+        "end": 652.48
+    },
+    {
+        "text": "Thursdays. Here's the structure that you need to know. Feed-forward networks. These are MLPs. These",
+        "start": 652.48,
+        "end": 657.84
+    },
+    {
+        "text": "are just layers of linear algebra plus non-linear activation functions. They're pretty much the base",
+        "start": 657.84,
+        "end": 664.0
+    },
+    {
+        "text": "case. Think of them as stacks of regressions. Each layer refines the last, nudging your predictions",
+        "start": 664.0,
+        "end": 671.12
+    },
+    {
+        "text": "slightly closer to reality. Then we've got CNNs. These are the convolutional neural networks.",
+        "start": 671.12,
+        "end": 676.16
+    },
+    {
+        "text": "At Oxford we mainly use them for image recognition tasks, but they're also sneaking into finance",
+        "start": 676.16,
+        "end": 681.68
+    },
+    {
+        "text": "because convolutions are just a clever way to find local patterns, really. Something a lot of",
+        "start": 681.68,
+        "end": 686.56
+    },
+    {
+        "text": "other datasets have too and everyone's trying to explore them these days. Convolutions slide",
+        "start": 686.56,
+        "end": 691.92
+    },
+    {
+        "text": "tiny filters over data, so it's a bit like a detective just scanning for repeating clues.",
+        "start": 691.92,
+        "end": 697.76
+    },
+    {
+        "text": "Then we've got RNNs and LSTMs. These are designed for sequences, whether that's language, stock prices,",
+        "start": 697.76,
+        "end": 704.4
+    },
+    {
+        "text": "weather. I remember trying to use an LSTM to predict financial time series during one of my",
+        "start": 704.4,
+        "end": 709.76
+    },
+    {
+        "text": "summer projects. It looked beautiful in sample, but out of sample, you know, felt miserably. That was",
+        "start": 709.76,
+        "end": 715.04
+    },
+    {
+        "text": "one of my very, very painful introductions to overfitting. Basically RNNs just remember a bit",
+        "start": 715.04,
+        "end": 720.56
+    },
+    {
+        "text": "too much. They're like that one friend who recalls every single detail, every single irrelevant detail",
+        "start": 720.56,
+        "end": 726.88
+    },
+    {
+        "text": "from just three years ago. And the one everyone's heard of, transformers. These are pretty much the",
+        "start": 726.88,
+        "end": 731.68
+    },
+    {
+        "text": "giants of modern AI. The attention mechanism, which basically lets a model weight what parts",
+        "start": 731.68,
+        "end": 738.48
+    },
+    {
+        "text": "of the input matter the most, is what made large language models like CGPT possible. But they're",
+        "start": 738.48,
+        "end": 744.48
+    },
+    {
+        "text": "also being adapted to forecasting, finance, and even biology. In essence, attention is selective",
+        "start": 744.48,
+        "end": 750.0
+    },
+    {
+        "text": "memory, teaching models to focus on what's relevant and to ignore noise, which frankly",
+        "start": 750.0,
+        "end": 755.04
+    },
+    {
+        "text": "would make a really, really good skill for humans to have as well. Okay, but here is the",
+        "start": 755.04,
+        "end": 759.6
+    },
+    {
+        "text": "reality check. Deep learning is very compute hungry and data hungry. In finance especially,",
+        "start": 759.6,
+        "end": 765.12
+    },
+    {
+        "text": "where data is quite limited and it's quite noisy, simpler models often outperform. So yes,",
+        "start": 765.12,
+        "end": 771.2
+    },
+    {
+        "text": "learn neural nets, but don't assume they will solve everything for you. Or in other words,",
+        "start": 771.2,
+        "end": 775.84
+    },
+    {
+        "text": "do not bring a sledgehammer where a screwdriver will do. Deep learning is spectacular, but it's",
+        "start": 775.84,
+        "end": 781.52
+    },
+    {
+        "text": "not always practical. In terms of resources, dive into deep learning, a free book online with code,",
+        "start": 781.52,
+        "end": 787.6
+    },
+    {
+        "text": "and the deeplearning.ai specialization by N. Rangy again, both help me understand",
+        "start": 787.6,
+        "end": 792.88
+    },
+    {
+        "text": "not just how to code a model, but why it sometimes fails.",
+        "start": 792.88,
+        "end": 796.24
+    },
+    {
+        "text": "All right, so this section is where university doesn't prepare you enough, and real life hits",
+        "start": 801.04,
+        "end": 805.36
+    },
+    {
+        "text": "you real hard. The unglamorous but vital skills that actually make ML work. I would say that this",
+        "start": 805.36,
+        "end": 810.96
+    },
+    {
+        "text": "is the part that nobody puts fancy posts about on LinkedIn. Hours of debugging pipelines, hunting",
+        "start": 810.96,
+        "end": 817.2
+    },
+    {
+        "text": "missing values, and wondering why your code runs locally but not on the bigger server. Well, let's",
+        "start": 817.2,
+        "end": 821.76
+    },
+    {
+        "text": "start with data preprocessing. So most of machine learning is cleaning your data set. In my first",
+        "start": 821.76,
+        "end": 826.64
+    },
+    {
+        "text": "job, I realized that 80% of my time was just dealing with, you know, missing values, correcting",
+        "start": 826.64,
+        "end": 831.92
+    },
+    {
+        "text": "timestamps, or figuring out why some trades had negative quantities. And that's not really a fancy",
+        "start": 831.92,
+        "end": 838.0
+    },
+    {
+        "text": "neural net problem, it's just cleaning. But this is where you'll quietly gain a lot of power. The",
+        "start": 838.0,
+        "end": 843.84
+    },
+    {
+        "text": "cleaner your data, the less you rely on luck, and the less your model will fit on noise. Models, I",
+        "start": 843.84,
+        "end": 848.8
+    },
+    {
+        "text": "would say, are only as smart as the mess that you feed them. Then we've got model validation. Well,",
+        "start": 848.8,
+        "end": 854.0
+    },
+    {
+        "text": "at uni, we learned about training versus stats sets in theory. But in practice, you also need",
+        "start": 854.0,
+        "end": 858.88
+    },
+    {
+        "text": "to think about backtesting properly. If you leak future information into your model, it will look",
+        "start": 858.88,
+        "end": 864.4
+    },
+    {
+        "text": "genius until it goes live and collapses. It's called data leakage, and it's every",
+        "start": 864.4,
+        "end": 868.96
+    },
+    {
+        "text": "quant's biggest nightmare. If your model knows tomorrow's price by accident, yes, you will look",
+        "start": 868.96,
+        "end": 874.72
+    },
+    {
+        "text": "like a genius, but only for five minutes. And then we've got deployment. Here's something nobody tells",
+        "start": 874.72,
+        "end": 879.28
+    },
+    {
+        "text": "you at university, it's not enough to build a model in a Jupyter notebook. In my quant role,",
+        "start": 879.28,
+        "end": 884.0
+    },
+    {
+        "text": "models need to run in production, obviously, fast, stable, and explainable. This means everything",
+        "start": 884.0,
+        "end": 889.84
+    },
+    {
+        "text": "from APIs, Docker, and sometimes, like I've mentioned, C++ for speed. This is the engineering",
+        "start": 889.84,
+        "end": 895.76
+    },
+    {
+        "text": "side of machine learning. So deployment is where maths meets something like DevOps, and that's",
+        "start": 895.76,
+        "end": 901.68
+    },
+    {
+        "text": "where you learn that your elegant algorithm needs error logs, version controlling, and monitoring.",
+        "start": 901.68,
+        "end": 908.0
+    },
+    {
+        "text": "It's pretty much equal parts arts and infrastructure. And lastly, interpretability.",
+        "start": 908.0,
+        "end": 913.44
+    },
+    {
+        "text": "In finance especially, regulators don't like black boxes. You need to explain why your model",
+        "start": 913.44,
+        "end": 918.96
+    },
+    {
+        "text": "predicted what it did. Tools like shop values or feature importance are absolutely crucial here.",
+        "start": 918.96,
+        "end": 924.56
+    },
+    {
+        "text": "Interpretability isn't just compliance, it is communication. If you can't explain your",
+        "start": 924.56,
+        "end": 929.2
+    },
+    {
+        "text": "model to your team, to your manager, and the regulator, you don't really understand it",
+        "start": 929.2,
+        "end": 933.84
+    },
+    {
+        "text": "yourself, let's be honest. And in terms of resources, I would say that designing machine",
+        "start": 933.84,
+        "end": 938.08
+    },
+    {
+        "text": "learning systems by Chip Huyen explains how to bridge the gap between a notebook and a real",
+        "start": 938.08,
+        "end": 944.16
+    },
+    {
+        "text": "world system really, really well.",
+        "start": 944.24,
+        "end": 945.76
+    },
+    {
+        "text": "So how do you put all of this together? Well, in quant finance, I would say that the job isn't",
+        "start": 950.56,
+        "end": 955.28
+    },
+    {
+        "text": "about building the flashiest neural net. It's finding reliable signals, building robust forecasts,",
+        "start": 955.28,
+        "end": 961.36
+    },
+    {
+        "text": "and making sure that models don't blow up in production. Reinforcement learning is",
+        "start": 961.36,
+        "end": 965.76
+    },
+    {
+        "text": "used in execution, but feature engineering is often where the real value lies in. You spend",
+        "start": 965.76,
+        "end": 971.12
+    },
+    {
+        "text": "more time understanding data structure than chasing hype. The best quants that I've ever met",
+        "start": 971.12,
+        "end": 975.84
+    },
+    {
+        "text": "are not obsessed at all with the newest architecture, they are obsessed with stability.",
+        "start": 975.84,
+        "end": 980.32
+    },
+    {
+        "text": "In forecasting and in business, you'll often work with smaller data sets, so boosting methods like",
+        "start": 980.32,
+        "end": 985.76
+    },
+    {
+        "text": "XGBoost are absolute gold, I would say. Sometimes the most sophisticated thing you'll do is just",
+        "start": 985.76,
+        "end": 990.88
+    },
+    {
+        "text": "cross-validate properly and convince the business team that your very, very simple model actually",
+        "start": 990.88,
+        "end": 995.68
+    },
+    {
+        "text": "works. It's less about being flashy and more about being reliable. Executives do love confidence",
+        "start": 995.68,
+        "end": 1000.8
+    },
+    {
+        "text": "intervals that they can actually trust. And in AI research, of course, you'll dive very,",
+        "start": 1000.8,
+        "end": 1006.08
+    },
+    {
+        "text": "very deep into transformers, into generative models, reinforcement learning. The path requires",
+        "start": 1006.08,
+        "end": 1011.76
+    },
+    {
+        "text": "stronger maths, more compute, and honestly, a love for reading research papers quite late into the",
+        "start": 1011.76,
+        "end": 1018.24
+    },
+    {
+        "text": "night. It's also where you do chase the frontier, building tools that others will use years and",
+        "start": 1018.24,
+        "end": 1024.24
+    },
+    {
+        "text": "years from now. It is hard, but it's incredibly rewarding if you enjoy the theory. So what do",
+        "start": 1024.24,
+        "end": 1029.36
+    },
+    {
+        "text": "you need to learn in machine learning? Well, the maths, the algorithms, the deep learning models,",
+        "start": 1029.36,
+        "end": 1034.4
+    },
+    {
+        "text": "the practical skills, and the applications. But here's my personal advice. Do not rush.",
+        "start": 1034.4,
+        "end": 1039.6
+    },
+    {
+        "text": "When I was at uni, I felt like I was behind because I wasn't training neural nets in my",
+        "start": 1039.6,
+        "end": 1044.48
+    },
+    {
+        "text": "second year. But once you understand the core ideas properly, you can learn pretty much any",
+        "start": 1044.48,
+        "end": 1049.68
+    },
+    {
+        "text": "models in just a matter of days. The goal is definitely not to learn everything and to be",
+        "start": 1049.68,
+        "end": 1054.56
+    },
+    {
+        "text": "a master in literally everything. It is to understand the fundamentals so deeply that you",
+        "start": 1054.56,
+        "end": 1060.72
+    },
+    {
+        "text": "can adapt to pretty much anything. And if you do that, you will stop feeling like you're chasing",
+        "start": 1060.72,
+        "end": 1066.08
+    },
+    {
+        "text": "technology and that you start shaping it. If you found this video helpful, please drop a like,",
+        "start": 1066.08,
+        "end": 1070.64
+    },
+    {
+        "text": "subscribe to my channel for more content like this, and maybe share it with that one friend",
+        "start": 1070.64,
+        "end": 1074.88
+    },
+    {
+        "text": "who keeps saying that they're going to learn ML this summer. For real, hope you have found this",
+        "start": 1074.88,
+        "end": 1079.2
+    },
+    {
+        "text": "useful and that it has brought some value into your ML journey. Also, if you want to join a",
+        "start": 1079.2,
+        "end": 1083.44
+    },
+    {
+        "text": "community of like-minded people that share ideas, talk about maths, quant finance, and coding,",
+        "start": 1083.44,
+        "end": 1089.12
+    },
+    {
+        "text": "and help each other out, then do not hesitate to join my Discord server. You have the link down",
+        "start": 1089.12,
+        "end": 1094.24
+    },
+    {
+        "text": "in the description below. And if you want to see more of me, you have my Instagram down in the",
+        "start": 1094.24,
+        "end": 1098.4
+    },
+    {
+        "text": "description below as well, because I'm a lot more active on there. And yeah, with that, I hope to",
+        "start": 1098.4,
+        "end": 1102.88
+    },
+    {
+        "text": "see you in the next one.",
+        "start": 1102.88,
+        "end": 1104.4
+    }
+]

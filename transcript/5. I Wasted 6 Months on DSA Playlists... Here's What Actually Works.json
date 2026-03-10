@@ -1,0 +1,1637 @@
+[
+    {
+        "text": "Let me guess, you wake up in the morning, start reading DSA,",
+        "start": 0.0,
+        "end": 3.44
+    },
+    {
+        "text": "watch the playlist of your favorite creator,",
+        "start": 3.44,
+        "end": 5.6
+    },
+    {
+        "text": "and maybe make notes with a lot of enthusiasm.",
+        "start": 5.6,
+        "end": 8.0
+    },
+    {
+        "text": "And even after that, when you sit to ask the question of lead code,",
+        "start": 8.0,
+        "end": 11.28
+    },
+    {
+        "text": "you can't do it.",
+        "start": 11.28,
+        "end": 12.48
+    },
+    {
+        "text": "Or when you go for an interview,",
+        "start": 12.48,
+        "end": 14.72
+    },
+    {
+        "text": "you don't understand how to code that approach.",
+        "start": 14.72,
+        "end": 17.76
+    },
+    {
+        "text": "This happened to me too when I was starting DSA.",
+        "start": 17.76,
+        "end": 21.44
+    },
+    {
+        "text": "I used to think of a question logic, but I couldn't code it.",
+        "start": 21.44,
+        "end": 25.76
+    },
+    {
+        "text": "And I was sitting all day watching videos,",
+        "start": 25.76,
+        "end": 28.56
+    },
+    {
+        "text": "watching playlists, making notes.",
+        "start": 28.56,
+        "end": 30.8
+    },
+    {
+        "text": "Even after that, I couldn't clear the concepts.",
+        "start": 30.8,
+        "end": 33.28
+    },
+    {
+        "text": "And I remembered this when some of my subscribers",
+        "start": 33.28,
+        "end": 36.56
+    },
+    {
+        "text": "raised the issue that they were facing this problem.",
+        "start": 36.56,
+        "end": 38.8
+    },
+    {
+        "text": "And then I realized that we are stuck in a trap.",
+        "start": 38.8,
+        "end": 42.24
+    },
+    {
+        "text": "And that is DSA playlist endless loop.",
+        "start": 42.24,
+        "end": 45.28
+    },
+    {
+        "text": "It is very sad that so many playlists are made on the internet.",
+        "start": 45.28,
+        "end": 49.2
+    },
+    {
+        "text": "So many good creators have made playlists.",
+        "start": 49.2,
+        "end": 51.76
+    },
+    {
+        "text": "And honestly, I respect them a lot.",
+        "start": 51.76,
+        "end": 53.52
+    },
+    {
+        "text": "Because it is very, very tough to teach DSA on YouTube.",
+        "start": 53.52,
+        "end": 57.04
+    },
+    {
+        "text": "And it takes a lot of effort.",
+        "start": 57.12,
+        "end": 58.72
+    },
+    {
+        "text": "But we don't know how to use it properly.",
+        "start": 58.72,
+        "end": 62.48
+    },
+    {
+        "text": "In fact, we are causing more harm than good in our lives.",
+        "start": 62.48,
+        "end": 66.24
+    },
+    {
+        "text": "And I have made this video to address that.",
+        "start": 66.24,
+        "end": 68.96
+    },
+    {
+        "text": "And if this video saves any one of you from this DSA endless loop,",
+        "start": 68.96,
+        "end": 73.84
+    },
+    {
+        "text": "then actually the purpose of this video would have been fulfilled.",
+        "start": 73.84,
+        "end": 76.32
+    },
+    {
+        "text": "You guys tell me one thing.",
+        "start": 80.0,
+        "end": 81.28
+    },
+    {
+        "text": "Let's say you want to learn to ride a bike.",
+        "start": 81.28,
+        "end": 82.96
+    },
+    {
+        "text": "So how will you learn to ride a bike?",
+        "start": 82.96,
+        "end": 84.56
+    },
+    {
+        "text": "See someone riding a bike.",
+        "start": 84.56,
+        "end": 86.32
+    },
+    {
+        "text": "Will you learn to ride a bike?",
+        "start": 86.32,
+        "end": 87.52
+    },
+    {
+        "text": "Or you will have to practice by yourself.",
+        "start": 87.52,
+        "end": 90.16
+    },
+    {
+        "text": "You will have to try to ride a bike yourself.",
+        "start": 90.16,
+        "end": 92.48
+    },
+    {
+        "text": "It won't work at all in the beginning.",
+        "start": 92.48,
+        "end": 94.4
+    },
+    {
+        "text": "But after practicing, you will be able to ride a bike.",
+        "start": 94.4,
+        "end": 97.12
+    },
+    {
+        "text": "So why do we think that DSA will come to us by seeing someone else solving questions?",
+        "start": 97.12,
+        "end": 102.64
+    },
+    {
+        "text": "Why do we think that our mind will be able to think the logic of the questions",
+        "start": 102.64,
+        "end": 106.72
+    },
+    {
+        "text": "by seeing someone else thinking the logic?",
+        "start": 106.72,
+        "end": 109.12
+    },
+    {
+        "text": "I believe that in starting to learn algorithms,",
+        "start": 109.12,
+        "end": 112.4
+    },
+    {
+        "text": "to learn basic things about the topic,",
+        "start": 112.4,
+        "end": 114.64
+    },
+    {
+        "text": "basics can be explained to you very quickly.",
+        "start": 114.64,
+        "end": 116.96
+    },
+    {
+        "text": "Algorithms can be explained very well.",
+        "start": 116.96,
+        "end": 119.2
+    },
+    {
+        "text": "But again the issue is,",
+        "start": 119.2,
+        "end": 120.56
+    },
+    {
+        "text": "do we need to see endless playlists?",
+        "start": 120.56,
+        "end": 123.84
+    },
+    {
+        "text": "I have talked to so many children who say that our placement is not looking good.",
+        "start": 123.84,
+        "end": 127.36
+    },
+    {
+        "text": "We are studying a lot from DSA.",
+        "start": 127.36,
+        "end": 128.88
+    },
+    {
+        "text": "And you know, they have not done basic algorithms properly.",
+        "start": 128.88,
+        "end": 132.08
+    },
+    {
+        "text": "But when I ask them that you do not know algorithms properly.",
+        "start": 132.08,
+        "end": 135.2
+    },
+    {
+        "text": "How did you learn algorithms?",
+        "start": 135.2,
+        "end": 136.72
+    },
+    {
+        "text": "So they tell me that they opened a YouTube video and learned algorithms from it.",
+        "start": 136.72,
+        "end": 140.48
+    },
+    {
+        "text": "And made notes and they got the algorithm.",
+        "start": 140.48,
+        "end": 142.64
+    },
+    {
+        "text": "And then I was a little shocked that this is such a wrong way to learn algorithms.",
+        "start": 142.64,
+        "end": 148.16
+    },
+    {
+        "text": "Or to learn coding in general.",
+        "start": 148.16,
+        "end": 149.84
+    },
+    {
+        "text": "If you sit and just look at someone else coding",
+        "start": 149.84,
+        "end": 153.2
+    },
+    {
+        "text": "and you feel that you will learn from him,",
+        "start": 153.2,
+        "end": 155.2
+    },
+    {
+        "text": "then that is not possible.",
+        "start": 155.2,
+        "end": 156.56
+    },
+    {
+        "text": "You need hands-on encoding.",
+        "start": 156.56,
+        "end": 158.48
+    },
+    {
+        "text": "Because coding is actually a way of thinking.",
+        "start": 158.48,
+        "end": 160.56
+    },
+    {
+        "text": "And especially DSA is like a gym.",
+        "start": 160.56,
+        "end": 163.12
+    },
+    {
+        "text": "So it is very important that you yourself do hands-on practice on DSA.",
+        "start": 163.12,
+        "end": 167.04
+    },
+    {
+        "text": "If you are watching the algorithm from any YouTube channel,",
+        "start": 167.04,
+        "end": 170.08
+    },
+    {
+        "text": "then it is important that you dry run the algorithm yourself.",
+        "start": 171.04,
+        "end": 174.48
+    },
+    {
+        "text": "Try to decode that code.",
+        "start": 174.48,
+        "end": 176.88
+    },
+    {
+        "text": "And I don't know why it is so much for underrated.",
+        "start": 176.88,
+        "end": 180.48
+    },
+    {
+        "text": "When you try to decode a code.",
+        "start": 180.48,
+        "end": 182.64
+    },
+    {
+        "text": "This is one of the most important thing in a coder's life.",
+        "start": 182.64,
+        "end": 185.6
+    },
+    {
+        "text": "And it should be most important.",
+        "start": 185.6,
+        "end": 186.96
+    },
+    {
+        "text": "Because today you will get a lot of videos on DSA.",
+        "start": 186.96,
+        "end": 190.08
+    },
+    {
+        "text": "But tomorrow when you are working on an internal tool in your company.",
+        "start": 190.08,
+        "end": 193.44
+    },
+    {
+        "text": "Then where will you get so many videos?",
+        "start": 193.44,
+        "end": 195.44
+    },
+    {
+        "text": "When you are working on a language that is only used in your company.",
+        "start": 195.44,
+        "end": 199.52
+    },
+    {
+        "text": "And it is not used so many times.",
+        "start": 199.52,
+        "end": 200.8
+    },
+    {
+        "text": "There are not so many videos on the internet.",
+        "start": 200.8,
+        "end": 202.4
+    },
+    {
+        "text": "So what will you do?",
+        "start": 202.4,
+        "end": 203.36
+    },
+    {
+        "text": "Then you will have to decode the code and understand what is happening in the whole story.",
+        "start": 203.36,
+        "end": 207.92
+    },
+    {
+        "text": "So that's why this is a very good exercise.",
+        "start": 207.92,
+        "end": 210.72
+    },
+    {
+        "text": "That you read the algorithm and understand about it.",
+        "start": 210.72,
+        "end": 213.2
+    },
+    {
+        "text": "But try to decode its code yourself.",
+        "start": 213.2,
+        "end": 216.56
+    },
+    {
+        "text": "Don't just sit and watch videos.",
+        "start": 216.56,
+        "end": 218.08
+    },
+    {
+        "text": "And the most surprising thing after that is that",
+        "start": 219.6,
+        "end": 222.0
+    },
+    {
+        "text": "even after learning the algorithm,",
+        "start": 222.0,
+        "end": 224.48
+    },
+    {
+        "text": "children watch YouTube videos for problems.",
+        "start": 224.48,
+        "end": 226.88
+    },
+    {
+        "text": "They feel that this question is now done with me.",
+        "start": 226.88,
+        "end": 228.72
+    },
+    {
+        "text": "If there is a two-sum problem of arrays.",
+        "start": 228.72,
+        "end": 230.4
+    },
+    {
+        "text": "Then they feel that they have seen the video.",
+        "start": 230.4,
+        "end": 232.16
+    },
+    {
+        "text": "And now they will have that famous problem.",
+        "start": 232.16,
+        "end": 234.16
+    },
+    {
+        "text": "But this is not the correct thing.",
+        "start": 234.16,
+        "end": 235.92
+    },
+    {
+        "text": "Because millions of people have seen the video.",
+        "start": 235.92,
+        "end": 237.84
+    },
+    {
+        "text": "Look at the views on that video.",
+        "start": 237.84,
+        "end": 239.12
+    },
+    {
+        "text": "There are millions of views.",
+        "start": 239.12,
+        "end": 239.92
+    },
+    {
+        "text": "Millions of views in many videos.",
+        "start": 239.92,
+        "end": 241.68
+    },
+    {
+        "text": "So have all those millions of people got DSA?",
+        "start": 241.68,
+        "end": 244.16
+    },
+    {
+        "text": "If it had come, then there would have been something else other than DSA.",
+        "start": 244.16,
+        "end": 247.6
+    },
+    {
+        "text": "If people would have become so good in DSA.",
+        "start": 247.6,
+        "end": 249.52
+    },
+    {
+        "text": "DSA is not such a good filter to filter the candidates.",
+        "start": 249.52,
+        "end": 252.96
+    },
+    {
+        "text": "So it's not like that.",
+        "start": 252.96,
+        "end": 254.08
+    },
+    {
+        "text": "You won't get it by watching the video.",
+        "start": 254.08,
+        "end": 255.68
+    },
+    {
+        "text": "You have to think about that question yourself.",
+        "start": 255.68,
+        "end": 258.16
+    },
+    {
+        "text": "At least 30 minutes.",
+        "start": 258.16,
+        "end": 259.44
+    },
+    {
+        "text": "How do you think?",
+        "start": 259.44,
+        "end": 260.48
+    },
+    {
+        "text": "What do you have to do?",
+        "start": 260.48,
+        "end": 261.92
+    },
+    {
+        "text": "If you are learning an algorithm.",
+        "start": 261.92,
+        "end": 263.68
+    },
+    {
+        "text": "Understand it in and out.",
+        "start": 263.68,
+        "end": 264.96
+    },
+    {
+        "text": "Do its dry run by yourself.",
+        "start": 264.96,
+        "end": 266.64
+    },
+    {
+        "text": "Okay, code it at least 5 to 10 times and see.",
+        "start": 266.64,
+        "end": 269.76
+    },
+    {
+        "text": "And until it gets stuck in your blood.",
+        "start": 269.76,
+        "end": 272.64
+    },
+    {
+        "text": "Don't leave that algorithm.",
+        "start": 272.64,
+        "end": 274.08
+    },
+    {
+        "text": "After understanding that algorithm properly.",
+        "start": 274.08,
+        "end": 276.64
+    },
+    {
+        "text": "Now make some questions on that algorithm.",
+        "start": 276.64,
+        "end": 278.96
+    },
+    {
+        "text": "Now when you make questions.",
+        "start": 278.96,
+        "end": 280.4
+    },
+    {
+        "text": "So obviously some questions will not be made by you first.",
+        "start": 280.4,
+        "end": 283.2
+    },
+    {
+        "text": "This is a very obvious example of that bike.",
+        "start": 283.2,
+        "end": 285.68
+    },
+    {
+        "text": "Will the bike run for the first time?",
+        "start": 285.68,
+        "end": 287.44
+    },
+    {
+        "text": "Perfect.",
+        "start": 287.44,
+        "end": 287.92
+    },
+    {
+        "text": "That is so obvious.",
+        "start": 288.64,
+        "end": 289.44
+    },
+    {
+        "text": "So some questions will not be made by you first.",
+        "start": 289.44,
+        "end": 291.44
+    },
+    {
+        "text": "But if any question is not made by you.",
+        "start": 291.44,
+        "end": 293.52
+    },
+    {
+        "text": "Then don't jump directly on its video.",
+        "start": 293.52,
+        "end": 295.52
+    },
+    {
+        "text": "Bring its solution first.",
+        "start": 295.52,
+        "end": 296.88
+    },
+    {
+        "text": "Okay, understand that solution properly.",
+        "start": 296.88,
+        "end": 299.2
+    },
+    {
+        "text": "What is happening in the solution?",
+        "start": 299.2,
+        "end": 300.56
+    },
+    {
+        "text": "Try to decode it.",
+        "start": 300.56,
+        "end": 302.24
+    },
+    {
+        "text": "Then understand that where did I miss?",
+        "start": 302.24,
+        "end": 304.32
+    },
+    {
+        "text": "What did I not think?",
+        "start": 304.32,
+        "end": 305.6
+    },
+    {
+        "text": "Understanding this is very important.",
+        "start": 305.6,
+        "end": 307.12
+    },
+    {
+        "text": "Because I am telling the truth.",
+        "start": 307.12,
+        "end": 308.16
+    },
+    {
+        "text": "Coding is about the way you think.",
+        "start": 308.16,
+        "end": 309.84
+    },
+    {
+        "text": "Look, there are only two parts of coding.",
+        "start": 309.84,
+        "end": 311.52
+    },
+    {
+        "text": "Number one is that you can do logical thinking.",
+        "start": 311.52,
+        "end": 313.92
+    },
+    {
+        "text": "You can think.",
+        "start": 313.92,
+        "end": 314.72
+    },
+    {
+        "text": "You can think logic to solve the question.",
+        "start": 314.72,
+        "end": 316.96
+    },
+    {
+        "text": "Number two is that you can implement it in the code.",
+        "start": 316.96,
+        "end": 319.52
+    },
+    {
+        "text": "The most difficult thing.",
+        "start": 319.52,
+        "end": 320.24
+    },
+    {
+        "text": "In which most of the children have a problem.",
+        "start": 320.24,
+        "end": 322.24
+    },
+    {
+        "text": "That is the first.",
+        "start": 322.24,
+        "end": 322.8
+    },
+    {
+        "text": "That they are not able to think logic.",
+        "start": 322.8,
+        "end": 324.48
+    },
+    {
+        "text": "To implement that code.",
+        "start": 324.48,
+        "end": 325.76
+    },
+    {
+        "text": "And this is only happening.",
+        "start": 325.76,
+        "end": 327.12
+    },
+    {
+        "text": "Because we are sitting and watching videos on videos.",
+        "start": 327.12,
+        "end": 329.44
+    },
+    {
+        "text": "We are not doing hands-on.",
+        "start": 329.44,
+        "end": 330.72
+    },
+    {
+        "text": "We don't want to work hard.",
+        "start": 330.72,
+        "end": 332.4
+    },
+    {
+        "text": "We want someone to come on YouTube.",
+        "start": 332.4,
+        "end": 334.24
+    },
+    {
+        "text": "Give us some magic.",
+        "start": 334.24,
+        "end": 335.68
+    },
+    {
+        "text": "Give us a magic pill in our hand.",
+        "start": 335.68,
+        "end": 337.76
+    },
+    {
+        "text": "And all our interviews get cracked.",
+        "start": 337.76,
+        "end": 339.52
+    },
+    {
+        "text": "This does not happen.",
+        "start": 339.52,
+        "end": 340.4
+    },
+    {
+        "text": "Hard work.",
+        "start": 340.4,
+        "end": 341.12
+    },
+    {
+        "text": "Where it is needed, it is needed.",
+        "start": 341.12,
+        "end": 342.56
+    },
+    {
+        "text": "And this is a very important statement in my life.",
+        "start": 342.56,
+        "end": 345.04
+    },
+    {
+        "text": "Because making a YouTube video is not a magic statement.",
+        "start": 345.04,
+        "end": 348.16
+    },
+    {
+        "text": "How to grow on YouTube is not a magic pill.",
+        "start": 348.16,
+        "end": 350.4
+    },
+    {
+        "text": "You have to work hard.",
+        "start": 350.4,
+        "end": 351.44
+    },
+    {
+        "text": "You have to tell the truth to people.",
+        "start": 351.44,
+        "end": 353.04
+    },
+    {
+        "text": "You have to make quality content for people.",
+        "start": 353.04,
+        "end": 355.12
+    },
+    {
+        "text": "Money will be spent on production.",
+        "start": 355.12,
+        "end": 356.48
+    },
+    {
+        "text": "All of this is there.",
+        "start": 356.48,
+        "end": 357.76
+    },
+    {
+        "text": "And this is called hard work.",
+        "start": 357.76,
+        "end": 358.88
+    },
+    {
+        "text": "Which you can't substitute.",
+        "start": 358.88,
+        "end": 360.24
+    },
+    {
+        "text": "Similarly, you have to work hard in DSA.",
+        "start": 360.24,
+        "end": 363.2
+    },
+    {
+        "text": "You can't do anything about it.",
+        "start": 363.2,
+        "end": 364.56
+    },
+    {
+        "text": "You have to sit and understand.",
+        "start": 364.56,
+        "end": 366.32
+    },
+    {
+        "text": "How is this code applied?",
+        "start": 366.32,
+        "end": 368.48
+    },
+    {
+        "text": "Where did I make a mistake?",
+        "start": 368.48,
+        "end": 369.76
+    },
+    {
+        "text": "What did I not think?",
+        "start": 369.76,
+        "end": 370.96
+    },
+    {
+        "text": "You have to understand this.",
+        "start": 370.96,
+        "end": 372.08
+    },
+    {
+        "text": "And if you can't understand by decoding the code.",
+        "start": 372.08,
+        "end": 375.28
+    },
+    {
+        "text": "Then you can go and watch the video.",
+        "start": 375.28,
+        "end": 376.8
+    },
+    {
+        "text": "But still I will suggest.",
+        "start": 378.4,
+        "end": 379.6
+    },
+    {
+        "text": "If you have good friends.",
+        "start": 379.6,
+        "end": 381.12
+    },
+    {
+        "text": "You are in a good community.",
+        "start": 381.12,
+        "end": 382.4
+    },
+    {
+        "text": "By the way, I also have a community.",
+        "start": 382.4,
+        "end": 384.0
+    },
+    {
+        "text": "I take sessions in it every week.",
+        "start": 384.0,
+        "end": 385.76
+    },
+    {
+        "text": "If you guys want to join.",
+        "start": 385.76,
+        "end": 386.88
+    },
+    {
+        "text": "Link is in the description.",
+        "start": 386.88,
+        "end": 388.16
+    },
+    {
+        "text": "And it is free.",
+        "start": 388.16,
+        "end": 388.88
+    },
+    {
+        "text": "There is no catch in this.",
+        "start": 388.88,
+        "end": 389.76
+    },
+    {
+        "text": "It is absolutely free.",
+        "start": 389.76,
+        "end": 390.88
+    },
+    {
+        "text": "If you have such a community.",
+        "start": 390.88,
+        "end": 392.8
+    },
+    {
+        "text": "You have made friends with coding.",
+        "start": 392.8,
+        "end": 394.56
+    },
+    {
+        "text": "Then you also discuss with those friends.",
+        "start": 394.56,
+        "end": 396.72
+    },
+    {
+        "text": "Bring more filters in it.",
+        "start": 396.72,
+        "end": 398.32
+    },
+    {
+        "text": "Don't go directly to the video.",
+        "start": 398.32,
+        "end": 400.08
+    },
+    {
+        "text": "Discuss with friends.",
+        "start": 400.08,
+        "end": 401.36
+    },
+    {
+        "text": "I am telling the truth.",
+        "start": 401.36,
+        "end": 402.24
+    },
+    {
+        "text": "My life has become so easy.",
+        "start": 402.24,
+        "end": 404.24
+    },
+    {
+        "text": "When I started discussing with my friends.",
+        "start": 404.24,
+        "end": 406.56
+    },
+    {
+        "text": "Of everything I am doing.",
+        "start": 406.56,
+        "end": 407.76
+    },
+    {
+        "text": "Like everything I am studying.",
+        "start": 407.76,
+        "end": 409.2
+    },
+    {
+        "text": "I discuss it with them.",
+        "start": 409.2,
+        "end": 410.24
+    },
+    {
+        "text": "Even YouTube.",
+        "start": 410.24,
+        "end": 410.88
+    },
+    {
+        "text": "They are not YouTubers.",
+        "start": 410.88,
+        "end": 412.08
+    },
+    {
+        "text": "I also discuss this forcefully with them.",
+        "start": 412.08,
+        "end": 414.0
+    },
+    {
+        "text": "So make it a habit.",
+        "start": 414.0,
+        "end": 415.12
+    },
+    {
+        "text": "You try it once.",
+        "start": 415.12,
+        "end": 416.56
+    },
+    {
+        "text": "And you will have a lot of fun.",
+        "start": 416.56,
+        "end": 417.84
+    },
+    {
+        "text": "If your friends are actually good friends.",
+        "start": 417.84,
+        "end": 420.0
+    },
+    {
+        "text": "If your friends are useless.",
+        "start": 420.0,
+        "end": 422.0
+    },
+    {
+        "text": "They are not doing anything so serious in life.",
+        "start": 422.0,
+        "end": 423.68
+    },
+    {
+        "text": "Then there is no point.",
+        "start": 423.68,
+        "end": 424.72
+    },
+    {
+        "text": "They will not be interested in listening to you.",
+        "start": 424.72,
+        "end": 426.48
+    },
+    {
+        "text": "They will say, let's go to the party.",
+        "start": 426.48,
+        "end": 428.08
+    },
+    {
+        "text": "What are you talking about?",
+        "start": 428.08,
+        "end": 428.96
+    },
+    {
+        "text": "Why do you want to do DSA?",
+        "start": 428.96,
+        "end": 429.84
+    },
+    {
+        "text": "So you have to avoid such friends.",
+        "start": 429.84,
+        "end": 431.12
+    },
+    {
+        "text": "If you do it for 10 to 15 questions.",
+        "start": 432.64,
+        "end": 435.28
+    },
+    {
+        "text": "In a particular algorithm.",
+        "start": 435.28,
+        "end": 436.56
+    },
+    {
+        "text": "11th question.",
+        "start": 436.56,
+        "end": 437.52
+    },
+    {
+        "text": "You will definitely make it.",
+        "start": 437.52,
+        "end": 439.2
+    },
+    {
+        "text": "If you don't make it complete.",
+        "start": 439.2,
+        "end": 440.24
+    },
+    {
+        "text": "Then you will do it 80%.",
+        "start": 440.24,
+        "end": 442.24
+    },
+    {
+        "text": "That is for sure.",
+        "start": 442.24,
+        "end": 443.28
+    },
+    {
+        "text": "So this is how you actually spend time on questions.",
+        "start": 443.28,
+        "end": 446.4
+    },
+    {
+        "text": "Not that you have completed 150 questions.",
+        "start": 446.4,
+        "end": 448.8
+    },
+    {
+        "text": "How have you completed 150 questions?",
+        "start": 448.8,
+        "end": 450.64
+    },
+    {
+        "text": "By watching the playlist.",
+        "start": 450.64,
+        "end": 451.36
+    },
+    {
+        "text": "This is not done.",
+        "start": 451.36,
+        "end": 452.96
+    },
+    {
+        "text": "I have done 150 questions.",
+        "start": 452.96,
+        "end": 454.4
+    },
+    {
+        "text": "From playlist.",
+        "start": 454.4,
+        "end": 455.36
+    },
+    {
+        "text": "This is silent.",
+        "start": 455.36,
+        "end": 456.56
+    },
+    {
+        "text": "But you guys need to understand.",
+        "start": 456.56,
+        "end": 458.0
+    },
+    {
+        "text": "How much damage is being done in this.",
+        "start": 458.0,
+        "end": 459.76
+    },
+    {
+        "text": "And sadly we are so innocent.",
+        "start": 459.84,
+        "end": 461.84
+    },
+    {
+        "text": "Subscribers are so innocent.",
+        "start": 461.84,
+        "end": 463.6
+    },
+    {
+        "text": "That they do not understand this thing.",
+        "start": 463.6,
+        "end": 465.12
+    },
+    {
+        "text": "We have to understand.",
+        "start": 465.12,
+        "end": 466.16
+    },
+    {
+        "text": "Which resource is best on the internet.",
+        "start": 466.16,
+        "end": 468.56
+    },
+    {
+        "text": "Which language is best on the internet.",
+        "start": 468.56,
+        "end": 471.76
+    },
+    {
+        "text": "This is not a priority question.",
+        "start": 471.76,
+        "end": 474.32
+    },
+    {
+        "text": "The priority question is.",
+        "start": 474.32,
+        "end": 476.0
+    },
+    {
+        "text": "How can I understand from the question of DSA.",
+        "start": 476.0,
+        "end": 478.64
+    },
+    {
+        "text": "Which algo is being applied in this.",
+        "start": 478.64,
+        "end": 480.4
+    },
+    {
+        "text": "What changes are to be made in the algo that is being applied.",
+        "start": 480.4,
+        "end": 483.44
+    },
+    {
+        "text": "Or what tweaks are to be done for that particular question.",
+        "start": 483.44,
+        "end": 486.24
+    },
+    {
+        "text": "This is the main important thing.",
+        "start": 486.24,
+        "end": 487.52
+    },
+    {
+        "text": "But no one is paying attention to this.",
+        "start": 487.52,
+        "end": 489.36
+    },
+    {
+        "text": "Where is the attention?",
+        "start": 489.36,
+        "end": 490.0
+    },
+    {
+        "text": "Please Harshita.",
+        "start": 490.0,
+        "end": 490.72
+    },
+    {
+        "text": "Tell me a resource.",
+        "start": 490.72,
+        "end": 492.48
+    },
+    {
+        "text": "By which our placement will be like this.",
+        "start": 492.48,
+        "end": 494.0
+    },
+    {
+        "text": "Please Harshita.",
+        "start": 494.0,
+        "end": 494.64
+    },
+    {
+        "text": "Tell me a sheet of DSA.",
+        "start": 494.64,
+        "end": 496.4
+    },
+    {
+        "text": "By which our placement will be like this.",
+        "start": 496.4,
+        "end": 497.6
+    },
+    {
+        "text": "Sheet is just a filter.",
+        "start": 497.6,
+        "end": 499.2
+    },
+    {
+        "text": "There are thousands of problems on LeetCode.",
+        "start": 499.2,
+        "end": 500.96
+    },
+    {
+        "text": "If you can't solve thousands of problems.",
+        "start": 500.96,
+        "end": 502.88
+    },
+    {
+        "text": "Then you get a curated sheet.",
+        "start": 502.88,
+        "end": 504.8
+    },
+    {
+        "text": "Here you ask this question.",
+        "start": 504.8,
+        "end": 506.08
+    },
+    {
+        "text": "These are important questions.",
+        "start": 506.08,
+        "end": 507.2
+    },
+    {
+        "text": "Which sheet is best?",
+        "start": 507.2,
+        "end": 508.32
+    },
+    {
+        "text": "Which playlist is best?",
+        "start": 508.32,
+        "end": 509.44
+    },
+    {
+        "text": "All our time is wasted here.",
+        "start": 509.44,
+        "end": 511.12
+    },
+    {
+        "text": "So guys.",
+        "start": 511.12,
+        "end": 511.76
+    },
+    {
+        "text": "Give proper time to every question.",
+        "start": 511.76,
+        "end": 513.76
+    },
+    {
+        "text": "At least in the beginning.",
+        "start": 513.76,
+        "end": 514.88
+    },
+    {
+        "text": "It is a work of 30 minutes.",
+        "start": 514.88,
+        "end": 516.0
+    },
+    {
+        "text": "This is not a lot of work.",
+        "start": 516.0,
+        "end": 516.96
+    },
+    {
+        "text": "It will take more time in the beginning.",
+        "start": 516.96,
+        "end": 518.24
+    },
+    {
+        "text": "It may take 1-2 hours in every question.",
+        "start": 518.24,
+        "end": 519.92
+    },
+    {
+        "text": "But understand this.",
+        "start": 519.92,
+        "end": 521.04
+    },
+    {
+        "text": "If you are doing one question in a day.",
+        "start": 521.04,
+        "end": 523.04
+    },
+    {
+        "text": "And if you understand.",
+        "start": 523.04,
+        "end": 524.32
+    },
+    {
+        "text": "Pattern of the question.",
+        "start": 524.32,
+        "end": 525.28
+    },
+    {
+        "text": "This is the algorithm.",
+        "start": 525.28,
+        "end": 526.96
+    },
+    {
+        "text": "I made these changes in that algorithm.",
+        "start": 526.96,
+        "end": 528.88
+    },
+    {
+        "text": "And how did I know that I have to make these changes?",
+        "start": 528.88,
+        "end": 530.96
+    },
+    {
+        "text": "Because this thing was given in that question.",
+        "start": 530.96,
+        "end": 532.88
+    },
+    {
+        "text": "What I am trying to say is.",
+        "start": 532.88,
+        "end": 534.0
+    },
+    {
+        "text": "Every DSA question has three parts.",
+        "start": 534.0,
+        "end": 536.24
+    },
+    {
+        "text": "Number 1.",
+        "start": 536.24,
+        "end": 536.72
+    },
+    {
+        "text": "What will be the input?",
+        "start": 536.72,
+        "end": 537.52
+    },
+    {
+        "text": "What will be the output?",
+        "start": 537.52,
+        "end": 538.24
+    },
+    {
+        "text": "Number 2.",
+        "start": 538.24,
+        "end": 538.88
+    },
+    {
+        "text": "With which concept or algorithm will that question be solved?",
+        "start": 538.88,
+        "end": 541.84
+    },
+    {
+        "text": "Number 3.",
+        "start": 541.84,
+        "end": 542.56
+    },
+    {
+        "text": "What will you have to change in that algorithm?",
+        "start": 542.56,
+        "end": 545.2
+    },
+    {
+        "text": "That this output will come from this input.",
+        "start": 545.2,
+        "end": 547.28
+    },
+    {
+        "text": "You should try to decode these three things.",
+        "start": 547.28,
+        "end": 550.4
+    },
+    {
+        "text": "In every question.",
+        "start": 550.4,
+        "end": 551.36
+    },
+    {
+        "text": "Think about it once.",
+        "start": 551.36,
+        "end": 552.32
+    },
+    {
+        "text": "This is what happens in almost every DSA question.",
+        "start": 552.32,
+        "end": 554.48
+    },
+    {
+        "text": "So if you learn to think this way.",
+        "start": 554.48,
+        "end": 557.52
+    },
+    {
+        "text": "And after that, practice applying the algorithm.",
+        "start": 557.52,
+        "end": 561.12
+    },
+    {
+        "text": "In that direction.",
+        "start": 561.12,
+        "end": 562.0
+    },
+    {
+        "text": "So that will be called smart work.",
+        "start": 562.0,
+        "end": 563.36
+    },
+    {
+        "text": "But if you are just thinking.",
+        "start": 563.36,
+        "end": 565.52
+    },
+    {
+        "text": "Which playlist is good?",
+        "start": 565.52,
+        "end": 566.72
+    },
+    {
+        "text": "Which creator is good?",
+        "start": 566.72,
+        "end": 568.0
+    },
+    {
+        "text": "From where can I get the best mentorship?",
+        "start": 568.0,
+        "end": 570.32
+    },
+    {
+        "text": "Please Harshita.",
+        "start": 570.32,
+        "end": 571.12
+    },
+    {
+        "text": "Please tell me.",
+        "start": 571.12,
+        "end": 571.92
+    },
+    {
+        "text": "So I don't think that is fruitful to you.",
+        "start": 571.92,
+        "end": 574.24
+    },
+    {
+        "text": "I am saying this with a lot of sympathy.",
+        "start": 574.24,
+        "end": 576.88
+    },
+    {
+        "text": "Because I have been there.",
+        "start": 576.88,
+        "end": 578.08
+    },
+    {
+        "text": "And I know how it feels.",
+        "start": 578.08,
+        "end": 579.6
+    },
+    {
+        "text": "It feels like we are directionless.",
+        "start": 579.6,
+        "end": 581.12
+    },
+    {
+        "text": "It feels like there is a creator that I am missing.",
+        "start": 581.12,
+        "end": 584.48
+    },
+    {
+        "text": "There is something that I am missing.",
+        "start": 584.48,
+        "end": 586.0
+    },
+    {
+        "text": "But this is not important.",
+        "start": 586.0,
+        "end": 587.6
+    },
+    {
+        "text": "And I have seen so many people.",
+        "start": 587.6,
+        "end": 589.04
+    },
+    {
+        "text": "That they watch the DSA playlist.",
+        "start": 589.04,
+        "end": 591.2
+    },
+    {
+        "text": "As if it is a Netflix series.",
+        "start": 591.2,
+        "end": 593.04
+    },
+    {
+        "text": "Guys, stop it.",
+        "start": 593.04,
+        "end": 593.84
+    },
+    {
+        "text": "Please.",
+        "start": 593.84,
+        "end": 594.64
+    },
+    {
+        "text": "Don't look at Netflix like this.",
+        "start": 594.64,
+        "end": 596.32
+    },
+    {
+        "text": "It is not a Netflix series.",
+        "start": 596.32,
+        "end": 598.32
+    },
+    {
+        "text": "That literally you are training your brain.",
+        "start": 598.32,
+        "end": 601.52
+    },
+    {
+        "text": "In a certain way.",
+        "start": 601.52,
+        "end": 602.56
+    },
+    {
+        "text": "Like if you are doing a bicep curl.",
+        "start": 602.56,
+        "end": 604.4
+    },
+    {
+        "text": "You are doing some exercise for the biceps.",
+        "start": 604.4,
+        "end": 606.4
+    },
+    {
+        "text": "You are training your muscles.",
+        "start": 606.4,
+        "end": 608.24
+    },
+    {
+        "text": "Similarly, when you are doing DSA.",
+        "start": 608.24,
+        "end": 610.08
+    },
+    {
+        "text": "You are training your brain to think in a certain way.",
+        "start": 610.08,
+        "end": 614.4
+    },
+    {
+        "text": "Think about DSA like that.",
+        "start": 614.4,
+        "end": 615.6
+    },
+    {
+        "text": "So in the beginning, you need to do all of this.",
+        "start": 615.6,
+        "end": 617.52
+    },
+    {
+        "text": "And this is actually important.",
+        "start": 617.52,
+        "end": 619.36
+    },
+    {
+        "text": "If you will utilize all these good resources on the internet in this way.",
+        "start": 619.36,
+        "end": 623.76
+    },
+    {
+        "text": "Then your life will be easy.",
+        "start": 623.76,
+        "end": 625.44
+    },
+    {
+        "text": "And the people who have made the resources with so much hard work.",
+        "start": 625.44,
+        "end": 628.4
+    },
+    {
+        "text": "Their resources will also be used correctly.",
+        "start": 628.4,
+        "end": 631.2
+    },
+    {
+        "text": "Because I have been there.",
+        "start": 631.2,
+        "end": 632.64
+    },
+    {
+        "text": "I have watched endless of videos back to back.",
+        "start": 632.64,
+        "end": 635.6
+    },
+    {
+        "text": "From the best to the best creator.",
+        "start": 635.6,
+        "end": 636.8
+    },
+    {
+        "text": "Which you can imagine.",
+        "start": 636.8,
+        "end": 638.08
+    },
+    {
+        "text": "Nothing happened.",
+        "start": 638.08,
+        "end": 638.88
+    },
+    {
+        "text": "I was not able to think logically.",
+        "start": 638.88,
+        "end": 641.12
+    },
+    {
+        "text": "Until I sat down and made the questions of DSA.",
+        "start": 641.12,
+        "end": 644.24
+    },
+    {
+        "text": "Nothing happened.",
+        "start": 644.24,
+        "end": 646.0
+    }
+]
