@@ -23,3 +23,9 @@ __pycache__/
 # overlap_chunks/
 # transcript/
 # data/
+
+# Ignore audio files
+*.mp3
+*.wav
+*.m4a
+*.mp4
